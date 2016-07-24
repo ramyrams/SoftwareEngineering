@@ -13,3 +13,12 @@ http://www.jrothman.com/mpd/2016/06/product-owners-and-learning-part-5/
 
 ![1](https://s-media-cache-ak0.pinimg.com/564x/3d/fb/b9/3dfbb960e450d00116765d89138ed9de.jpg)
 
+
+# Requirements
+
+## Wireframes
+* [Complete guide to Wireframes](http://graphicdesignjunction.com/2016/04/a-complete-guide-to-wireframes/)
+* [How to design a useful wireframe](http://blog.teamtreehouse.com/how-to-design-a-useful-wireframe?)
+
+
+http://sdtimes.com/what-exactly-are-requirements/
