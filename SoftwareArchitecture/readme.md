@@ -1,7 +1,8 @@
 
 # Software Architecture
 
-## architect
+## Architect
+* [Solutions Architect Vs Applications Architect Vs Enterprise architect](http://geekswithblogs.net/ericjohnson/archive/2016/07/27/whats-the-difference-between-solutions-architect-and-applications-architect.aspx)
 * [architect-knowledge](https://www.avidsoftware.com/architect-knowledge/)
 * [do-we-need-software-architects](https://www.avidsoftware.com/do-we-need-software-architects/)
 * [so-who-is-a-software-architect](https://www.avidsoftware.com/so-who-is-a-software-architect/)
