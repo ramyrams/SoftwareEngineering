@@ -23,5 +23,15 @@ http://geekswithblogs.net/gevjen/archive/2016/07/20/186294.aspx
 http://geekswithblogs.net/gevjen/archive/2016/07/21/186640.aspx
 
 
+
+## Agile
+Coaching Agile Teams 
+http://geekswithblogs.net/gevjen/archive/2016/08/03/188404.aspx?
+http://geekswithblogs.net/gevjen/archive/2016/07/31/188014.aspx
+http://geekswithblogs.net/gevjen/archive/2016/08/04/188531.aspx
+
+
+
+
 http://geekswithblogs.net/gevjen/archive/2016/07/23/187035.aspx
 http://geekswithblogs.net/gevjen/archive/2016/07/22/186960.aspx
