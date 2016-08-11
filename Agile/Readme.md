@@ -35,3 +35,12 @@ http://geekswithblogs.net/gevjen/archive/2016/08/04/188531.aspx
 
 http://geekswithblogs.net/gevjen/archive/2016/07/23/187035.aspx
 http://geekswithblogs.net/gevjen/archive/2016/07/22/186960.aspx
+
+
+
+Scrum - Doing Twice the work in half the time - 10
+http://geekswithblogs.net/gevjen/archive/2016/07/21/186640.aspx
+
+
+Coaching Agile Teams - 11
+http://geekswithblogs.net/gevjen/archive/2016/08/10/188896.aspx
