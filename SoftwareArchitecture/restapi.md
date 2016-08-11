@@ -19,6 +19,9 @@
 * [The API Lifecycle](http://nordicapis.com/wp-content/uploads/theapilifecycle.pdf)
 * [Developing the API Mindset](http://nordicapis.com/wp-content/uploads/developingtheapimindset.pdf)
 
+* [Design Beautiful REST + JSON APIs](http://www.slideshare.net/stormpath/rest-jsonapis)
+* [REST+JSON API Design - Best Practices for Developers](https://www.youtube.com/watch?v=hdSrT4yjS1g)
+* 
 ## API Infographic
 ![1](http://www.platform28.com/wp-content/uploads/2015/02/Infographic-3.png))
 ![1](http://d27n205l7rookf.cloudfront.net/wp-content/uploads/2015/01/API-Infographic-Final.jpg)
