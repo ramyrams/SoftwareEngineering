@@ -1,6 +1,6 @@
 
 
-* [awesome-microservices](https://github.com/mfornos/awesome-microservices)
+* [Awesome Microservices](https://github.com/mfornos/awesome-microservices)
 * [Collection of information and resources about Microservice Architecture](https://github.com/kittrCZ/microservices)
 * [Cheat sheet for how to build microservices with scale, resilience and success.](https://github.com/RestCheatSheet/microservices-cheat-sheet)
 * [API Design Cheat Sheet](https://github.com/RestCheatSheet/api-cheat-sheet)
