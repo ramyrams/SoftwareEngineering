@@ -1,4 +1,10 @@
 
+
+
+* [Microservices Pattern](http://microservices.io/patterns/index.html)
+* [Microservices Series](https://www.nginx.com/blog/introduction-to-microservices/)
+* [Ebay Architecture](http://www.addsimplicity.com/downloads/eBaySDForum2006-11-29.pdf)
+* [Event-Sourcing+CQRS example application](https://github.com/cer/event-sourcing-examples)
 * [MICROSERVICES – YESTERDAY, TODAY, TOMORROW](https://garysmicroservices.wordpress.com/)
 * [The Hardest Part About Microservices: Your Data](https://dzone.com/articles/the-hardest-part-about-microservices-your-data)
 * [Microservices Best Practices](https://dzone.com/articles/microservices-best-practices)
