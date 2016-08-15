@@ -1,5 +1,11 @@
 
 
+* [awesome-microservices](https://github.com/mfornos/awesome-microservices)
+* [Collection of information and resources about Microservice Architecture](https://github.com/kittrCZ/microservices)
+* [Cheat sheet for how to build microservices with scale, resilience and success.](https://github.com/RestCheatSheet/microservices-cheat-sheet)
+* [API Design Cheat Sheet](https://github.com/RestCheatSheet/api-cheat-sheet)
+* [Platform-Building Cheat Sheet](https://github.com/RestCheatSheet/platform-cheat-sheet)
+
 
 * [Microservices Pattern](http://microservices.io/patterns/index.html)
 * [Microservices Series](https://www.nginx.com/blog/introduction-to-microservices/)
@@ -16,3 +22,13 @@
 * [Email as a Microservice](https://blog.codeship.com/email-as-a-microservice/)
 * [Build and Deploy Microservices the Modern Way](https://dzone.com/articles/build-and-deploy-microservices-the-modern-way)
 * [REST API vs. SOAP Web Services Management](https://dzone.com/articles/rest-api-vs-soap-web-services-management)
+
+
+# Microservices Github
+* [Examples of microservices](https://github.com/cer/microservices-examples)
+* [Microservices in C# ](https://insidethecpu.com/2015/07/17/microservices-in-c-part-1-building-and-testing/)
+* [Microservices example code using Node.js, Redis, Hapi](https://github.com/jeffbski/microservices)
+* [A microservices toolkit for Node.js](https://github.com/senecajs/seneca)
+* [Authentication for microservices](https://github.com/davidguttman/authentic)
+* [A workshop on microservices in nodejs](https://github.com/nearform/developing-microservices)
+* [Architecting for Continuous Delivery with Microservices Workshop](https://github.com/mstine/archcdms)
