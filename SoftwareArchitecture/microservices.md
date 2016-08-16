@@ -24,6 +24,9 @@
 * [Email as a Microservice](https://blog.codeship.com/email-as-a-microservice/)
 * [Build and Deploy Microservices the Modern Way](https://dzone.com/articles/build-and-deploy-microservices-the-modern-way)
 * [REST API vs. SOAP Web Services Management](https://dzone.com/articles/rest-api-vs-soap-web-services-management)
+* [Building and deploying microservices with event sourcing, CQRS and Docker (QCONSF 2014)](http://www.slideshare.net/chris.e.richardson/building-and-deploying-microservices-with-event-sourcing-cqrs-and-docker-qconsf-2014)
+* [Developing event-driven microservices with event sourcing and CQRS](http://www.slideshare.net/chris.e.richardson/developing-eventdriven-microservices-with-event-sourcing-and-cqrs-svcc-svcc2015)
+* [Microservices pattern language](http://www.slideshare.net/chris.e.richardson/microservices-pattern-language-microxchg-microxchg2016)
 
 
 # Microservices Github
@@ -34,3 +37,5 @@
 * [Authentication for microservices](https://github.com/davidguttman/authentic)
 * [A workshop on microservices in nodejs](https://github.com/nearform/developing-microservices)
 * [Architecting for Continuous Delivery with Microservices Workshop](https://github.com/mstine/archcdms)
+* 
+
