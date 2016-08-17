@@ -24,3 +24,6 @@
 ![1](http://media02.hongkiat.com/rest-restful-api-dev/01-restful-rest-diagram-api.jpg)
 ![1](https://s-media-cache-ak0.pinimg.com/564x/8d/9e/33/8d9e33a75699e3dc95eaf1f00e547ab5.jpg)
 ![1](https://657cea1304d5d92ee105-33ee89321dddef28209b83f19f06774f.ssl.cf1.rackcdn.com/Cloud_DNS_Infographic-1-71149d726aad5000c246d7303d0fd9055e00ee46fef088768a311c073f61dfc5.png)
+
+
+* [API Security: Ways to Authenticate and Authorize](https://dzone.com/articles/api-security-ways-to-authenticate-and-authorize)
