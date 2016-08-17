@@ -2,6 +2,8 @@
 # Microservices Awesome Collection
 * [Awesome Microservices](https://github.com/mfornos/awesome-microservices)
 * [Collection of information and resources about Microservice Architecture](https://github.com/kittrCZ/microservices)
+* [Best Practices for Building a Microservice Architecture](http://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture)
+* [Distributed Logging Architecture in the Container Era](https://blog.treasuredata.com/blog/2016/08/03/distributed-logging-architecture-in-the-container-era/)
 
 # Cheatsheet
 * [Cheat sheet for how to build microservices with scale, resilience and success.](https://github.com/RestCheatSheet/microservices-cheat-sheet)
