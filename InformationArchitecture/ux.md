@@ -6,3 +6,5 @@ UX
 * [Master Data Management (MDM) Using SQL Server](https://www.simple-talk.com/sql/database-delivery/master-data-management-mdm-using-sql-server/)
 * [10 Reasons Projects Succeed](http://blog.dmbcllc.com/10-reasons-projects-succeed/)
 * [Object Oriented Programming Using C# .NET](http://www.c-sharpcorner.com/UploadFile/84c85b/object-oriented-programming-using-C-Sharp-net/)
+* [10 Awesome Mobile UX Design Strategies That Work](http://modernweb.com/2016/08/16/10-awesome-mobile-ux-design-strategies-work/?)
+* [eBay MIND Patterns](https://www.gitbook.com/book/ebay/mindpatterns/details) - This book contains frontend coding patterns (and anti-patterns) that will assist developers in building accessible e-commerce web pages, widgets and workflows. — ebay
