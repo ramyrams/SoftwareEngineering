@@ -1,6 +1,12 @@
 
 # Software Architecture
 
+
+* [Data Structures and Algorithms course](https://github.com/TelerikAcademy/Data-Structures-and-Algorithms)
+
+
+* [Unit-Testing](https://github.com/TelerikAcademy/Unit-Testing)
+* 
 ## Architect
 * [Solutions Architect Vs Applications Architect Vs Enterprise architect](http://geekswithblogs.net/ericjohnson/archive/2016/07/27/whats-the-difference-between-solutions-architect-and-applications-architect.aspx)
 * [architect-knowledge](https://www.avidsoftware.com/architect-knowledge/)
