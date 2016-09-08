@@ -2,6 +2,11 @@
 
 
 
+
+http://www.fatbit.com/fab/depth-feature-analysis-create-successful-online-food-delivery-platform/
+http://www.fatbit.com/fab/build-advanced-food-ordering-delivery-website-with-best-features/
+
+
 http://www.jrothman.com/mpd/2016/06/product-owners-and-learning-part-1/
 http://www.jrothman.com/mpd/2016/06/product-owners-and-learning-part-2/
 http://www.jrothman.com/mpd/2016/06/product-owners-and-learning-part-3/
