@@ -15,6 +15,43 @@ Checklist
 * [Scrum Guidelines](http://www.scrumdesk.com/Download/Documents/AgileResources/ScrumGuidelines.pdf)
 
 
+http://www.yodiz.com/blog/user-story-characteristics-in-agile-scrum-methodology/
+http://www.yodiz.com/blog/release-update-sprint-resource-manager-release-story-points-move-bugs-across-projects-and-more/
+http://www.yodiz.com/blog/agile-vs-waterfall-differences-in-software-development-methodologies/
+http://www.yodiz.com/blog/30-best-tools-for-test-management-automation-performance-mobile-testing/
+http://www.yodiz.com/blog/best-practices-for-sprint-planning-meeting-in-agile-project-management/
+http://www.yodiz.com/blog/release-update-sprint-resource-manager-release-story-points-move-bugs-across-projects-and-more/
+http://www.yodiz.com/blog/what-is-epic-in-agile-methodology-definition-and-template-of-epic/
+http://www.yodiz.com/blog/best-slack-integrations-for-project-management-tool/
+http://www.yodiz.com/blog/11-business-development-strategies-tips-for-startups/
+http://www.yodiz.com/blog/product-backlog-vs-sprint-backlog-difference-in-agile-methodology/
+http://www.yodiz.com/blog/effective-communication-5-surprising-facts-you-should-know/
+http://www.yodiz.com/blog/what-is-scrum-in-agile-methodology-agile-development/
+http://www.yodiz.com/blog/agile-methodology-and-sprint-planning-rules-and-best-practices/
+http://www.yodiz.com/blog/agile-software-development-methodology-definition-principle-of-agile/
+http://www.yodiz.com/blog/kanban-vs-scrum-benefits-similarities-pros-and-cons/
+http://www.yodiz.com/blog/from-doing-agile-to-being-agile/
+http://www.yodiz.com/blog/scrum-master-vs-product-owner-differences-in-skills-duties-and-responsibilities-agile-methodology/
+http://www.yodiz.com/blog/scrum-master-roles-by-best-agile-scrum-books-and-guides/
+http://www.yodiz.com/blog/user-stories-acceptance-definition-and-criteria-in-agile-methodologies/
+http://www.yodiz.com/blog/release-management-in-agile/
+http://www.yodiz.com/blog/agile-scrum-explained-in-12-steps/
+http://www.yodiz.com/blog/writing-user-stories-examples-and-templates-in-agile-methodologies/
+http://www.yodiz.com/blog/agile-methodology-and-sprint-planning-rules-and-best-practices/
+http://www.yodiz.com/blog/understanding-burndown-chart-in-agile-scrum-methodology/
+http://yodiz.com/help/agile-user-stories-and-groomed-product-backlog/
+http://www.yodiz.com/blog/writing-user-stories-examples-and-templates-in-agile-methodologies/
+http://www.yodiz.com/blog/agile-methodology-and-sprint-planning-rules-and-best-practices/
+http://www.yodiz.com/blog/product-owner-roles-and-responsibilities-in-agile/
+http://www.yodiz.com/blog/what-is-epic-in-agile-methodology-definition-and-template-of-epic/
+http://www.yodiz.com/blog/10-essential-skills-every-scrum-master-must-have-infographics/
+http://www.yodiz.com/blog/writing-user-stories-examples-and-templates-in-agile-methodologies/
+http://www.yodiz.com/blog/using-definition-of-done-dod-to-ensure-best-scrum-deliverables/
+http://www.yodiz.com/blog/velocity-definition-what-is-velocity-in-agile-scrum-methodology/
+http://www.yodiz.com/blog/scrum-master-and-product-owner-certifications-exam-cost-and-requirements/
+
+
+
 http://daily-scrum.com/scrum
 
 Scrum - Doing Twice the work in half the time Series
