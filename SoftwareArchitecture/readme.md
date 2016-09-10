@@ -8,6 +8,10 @@ https://dzone.com/refcardz/designing-quality-software
 https://dzone.com/refcardz/scalability
 https://dzone.com/refcardz/getting-started-with-real-user-monitoring
 
+https://dzone.com/refcardz/nodejs
+https://dzone.com/refcardz/rest-foundations-restful
+https://dzone.com/refcardz/getting-started-with-microservices
+
 
 * [Data Structures and Algorithms course](https://github.com/TelerikAcademy/Data-Structures-and-Algorithms)
 
