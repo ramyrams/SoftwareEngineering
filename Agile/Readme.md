@@ -1,7 +1,7 @@
 
 # Agile
 
-
+https://dzone.com/refcardz/scrum
 * [Complete Guide - A Guide to the New Continuous Agile](http://www.continuousagile.com/unblock/index.html)
 
 
