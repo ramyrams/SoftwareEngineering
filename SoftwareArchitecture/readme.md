@@ -1,6 +1,13 @@
 
 # Software Architecture
 
+https://dzone.com/refcardz/getting-started-domain-driven
+https://dzone.com/refcardz/soa-patterns
+https://dzone.com/refcardz/patterns-modular-architecture
+https://dzone.com/refcardz/designing-quality-software
+https://dzone.com/refcardz/scalability
+https://dzone.com/refcardz/getting-started-with-real-user-monitoring
+
 
 * [Data Structures and Algorithms course](https://github.com/TelerikAcademy/Data-Structures-and-Algorithms)
 
