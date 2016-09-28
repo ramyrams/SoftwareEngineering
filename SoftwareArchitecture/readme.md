@@ -564,5 +564,5 @@ http://blogs.msdn.com/b/jmeier/archive/2015/07/18/how-to-get-smarter-by-making-d
 https://webdesignledger.com/2015-frontend-dev-tools
 http://ashleynolan.co.uk/blog/frontend-tooling-survey-2015-results
 
-![](http://www.enterpriseintegrationpatterns.com/img/inside_back_cover.png)
-![](http://cdn.ttgtmedia.com/rms/misc/MDM2.png)
+![1](http://www.enterpriseintegrationpatterns.com/img/inside_back_cover.png)
+![2](http://cdn.ttgtmedia.com/rms/misc/MDM2.png)
