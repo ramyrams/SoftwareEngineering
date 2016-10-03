@@ -1,6 +1,15 @@
 
 # Software Architecture
 
+
+* [Google Analytics for REST APIs](https://dzone.com/articles/google-analytics-for-rest-apis)
+
+
+
+
+* [Everything You Should Know About Progressive Web Apps](http://tutorialzine.com/2016/09/everything-you-should-know-about-progressive-web-apps/)
+
+
 https://dzone.com/refcardz/getting-started-domain-driven
 https://dzone.com/refcardz/soa-patterns
 https://dzone.com/refcardz/patterns-modular-architecture
