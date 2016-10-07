@@ -5,7 +5,10 @@
 * [Pimping your TFS Project Portal](http://paulstovell.com/blog/tfs-sharepoint-portal)
 
 
+# Video
+* [Fundamentals of Application Lifecycle Management](https://channel9.msdn.com/Series/Fundamentals-of-Application-Lifecycle-Management)
 
+# Images Speak Louder Than Words
 ![1](http://www.rigved.in/img/Services/solution_middle_alm.png)
 ![1](http://www.kovair.com/wp-content/uploads/2015/03/Kovair-Integrated-ALM.png)
 ![1](http://image.slidesharecdn.com/kovairalmstudiooverview-140728033014-phpapp01/95/kovair-alm-studio-overview-3-638.jpg)
