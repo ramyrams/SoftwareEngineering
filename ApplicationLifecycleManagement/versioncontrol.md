@@ -1,5 +1,29 @@
 
 
+* [Rules to Better Branching And Builds](https://rules.ssw.com.au/rules-to-better-branching-and-builds)
+
+
+# Use Team Foundation Version Control
+* [Team Foundation Version Control](https://www.visualstudio.com/docs/tfvc/overview)
+* [Team Development with Visual Studio Team Foundation Server](https://msdn.microsoft.com/en-us/library/bb668991.aspx)
+* [Parallel Feature Teams working on multiple releases in development. Monthly releases to production.](
+https://blogs.msdn.microsoft.com/billheys/2011/01/14/parallel-feature-teams-working-on-multiple-releases-in-development-monthly-releases-to-production/)
+
+
+# Merging Strategies
+* [Branching and Merging Refcards](http://blogs.wandisco.com/2012/07/12/wandisco-releases-subversion-branching-merging-refcards/)
+
+# Branching Strategies
+* [Feature branching your way to greatness](https://www.atlassian.com/agile/branching)
+* [Branching for Scrum](https://blogs.msdn.microsoft.com/billheys/2011/01/18/branching-for-scrum/)
+* [Branching and Merging Strategies](http://stackoverflow.com/questions/1522775/branching-and-merging-strategies)
+
+
+* [Version Control Guide](http://vsarbranchingguide.codeplex.com/)
+
+
+
+
 
 
 ![1](https://www.hallme.com/uploads/version-control-models.jpg)
