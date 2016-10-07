@@ -18,5 +18,5 @@
 ![1](http://www.esensesoftware.com/portals/0/acm.jpg)
 ![1](http://ojlrcq.blu.livefilestore.com/y1pv-AcSFrRHoGTtBSLaCTBOJMjkX0iuQluD0M_SavDRz4SPp_mXNe7aM9zUt_ITjYwI7u9CWPfx4MRJIsAncozsJd8A8AWzZYY/5yr_3.jpg)
 ![1](http://image.slidesharecdn.com/day1-p4-applicationlifecyclemanagement-120319134655-phpapp01/95/day-1-p4-application-lifecycle-management-23-728.jpg)
-http://cortechs.com/wordpress/wp-content/uploads/2012/03/agile-011.jpg
+![1](http://cortechs.com/wordpress/wp-content/uploads/2012/03/agile-011.jpg)
 
