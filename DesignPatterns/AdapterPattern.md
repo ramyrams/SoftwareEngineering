@@ -3,8 +3,9 @@
 ## Real example 
 * In order to connect power, we have different interfaces all over the world. Using Adapter we can connect easily like wise.
 * Real-world examples might be a language translator, or a mobile charger.
-Adapter pattern works as a bridge between two incompatible interfaces. 
-This pattern involves a single class called adapter which is responsible for communication between two independent or incompatible interfaces.
+* Adapter pattern works as a bridge between two incompatible interfaces. 
+* It helps two incompatible interfaces to work together
+* This pattern involves a single class called adapter which is responsible for communication between two independent or incompatible interfaces.
 
 
 # There are two types of adapter patterns
