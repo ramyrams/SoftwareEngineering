@@ -32,6 +32,10 @@
 
 
 
+
+
+
+
 ![1](http://www.linuxidc.com/upload/2015_12/151203132216072.png)
 ![1](http://image.slidesharecdn.com/DesignPatterns-123478276166-phpapp03/95/design-patterns-69-728.jpg)
 ![1](http://www.demiliani.com/immaginiblog/patterns/patterns2.jpg)
