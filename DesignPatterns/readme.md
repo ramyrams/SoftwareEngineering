@@ -115,7 +115,7 @@ Scheduler: Explicitly control when threads may execute single-threaded code.
 
 
 
-# Enterprise Application Architecture
+# Enterprise Application Architecture (P of EAA)
 * Domain Logic Patterns: Transaction Script, Domain Model, Table Module, Service Layer
 * Data Source Architectural Patterns: Table Data Gateway, Row Data Gateway, Active Record, Data Mapper
 * Object-Relational Behavioral Patterns: Unit of Work, Identity Map, Lazy Load
