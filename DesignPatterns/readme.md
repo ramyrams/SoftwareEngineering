@@ -1,4 +1,20 @@
 
+# Patterns
+  * Gang of Four Patterns
+  * Head First Patterns
+  * Enterprise Patterns
+  * Multi-Tier Patterns
+
+  * Repository Pattern
+  * Unit-of-Work Pattern
+  * Active Record Pattern
+  * CQRS Pattern
+
+* Model View Controller
+* Model View Presenter
+* Model View ViewModel
+
+# 23 Gang of Four (GoF) 
 * Creational Patterns
   * Abstract Factory - Creates an instance of several families of classes
   * Builder - Separates object construction from its representation
