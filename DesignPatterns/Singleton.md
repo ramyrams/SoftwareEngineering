@@ -5,6 +5,8 @@ Real World Problem: Lets suppose there are multiple printers in an office for mu
 2- A global access point. To give global point of access to single object.
 3- Private no argument constructor. To restrict instantiating of the class from outside.
 
+Code
+https://www.tutorialspoint.com/design_pattern/singleton_pattern.htm
 
 https://javainsider.wordpress.com/tag/singleton-pattern/
 
