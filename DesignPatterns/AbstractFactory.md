@@ -6,6 +6,8 @@ Abstract Factory Design Pattern
 * Abstract Factory: Provides an interface for creating families of related or dependent objects without specifying their concrete classes.
 
 
+# Code
+* [Code] - https://dzone.com/articles/design-patterns-abstract-factory
 
 ![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/ankurmalik123/abstract-factory-pattern/Images/Factory%20Pattern.PNG)
 ![1](http://image.slidesharecdn.com/designpattern-140321064411-phpapp01/95/design-pattern-abstract-factory-singleton-17-638.jpg?cb=1395384376)
