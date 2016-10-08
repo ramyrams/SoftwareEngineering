@@ -54,6 +54,13 @@ http://1.bp.blogspot.com/-TUS0_WRJqIE/VicsxoHR7CI/AAAAAAAAAEI/9aLIdrn3x0o/s640/h
 
 
 # Inheritance
+
+![1](https://4.bp.blogspot.com/-smG1Ty6cO1w/VrcWM2ERf5I/AAAAAAAAEt4/0bm6AQSIN8M/s1600/OOP%2B-%2BInheritance.jpg)
+![1](http://1.bp.blogspot.com/-mtqBZD4qvQU/Uh8mU4o8V4I/AAAAAAAAAlE/sHL6VYf00ZY/s1600/fig1.png)
+![1](http://image.slidesharecdn.com/oopsconcept-131012131129-phpapp01/95/inheritanceoops-concept-4-638.jpg?cb=1381583525)
+![1](http://image.slidesharecdn.com/oopsconcept-131012131129-phpapp01/95/inheritanceoops-concept-3-638.jpg?cb=1381583525)
+
+
 ## types of inheritance:
 * Single level inheritance
 * Multi-level inheritance
@@ -64,6 +71,7 @@ http://1.bp.blogspot.com/-TUS0_WRJqIE/VicsxoHR7CI/AAAAAAAAAEI/9aLIdrn3x0o/s640/h
 ## Single level inheritance 
 * In Single level inheritance, there is single base class & a single derived class i.e. - A base mobile features is extended by Samsung brand.
 ![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/cda5ba/object-oriented-programming-with-real-world-scenario/Images/Single%20level%20inheritance.jpg)
+![1](http://image.slidesharecdn.com/oopsconcept-131012131129-phpapp01/95/inheritanceoops-concept-5-638.jpg?cb=1381583525)
 
 ## Multilevel inheritance
 * In Multilevel inheritance, there is more than one single level of derivation. i.e. - After base features are extended by Samsung brand. 
@@ -72,14 +80,22 @@ http://1.bp.blogspot.com/-TUS0_WRJqIE/VicsxoHR7CI/AAAAAAAAAEI/9aLIdrn3x0o/s640/h
 
 ![1](http://www.onlinebuff.com/artimages/php46-inheritance.jpg)
 ![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/cda5ba/object-oriented-programming-with-real-world-scenario/Images/Multilevel%20inheritance.jpg)
+![1](http://image.slidesharecdn.com/oopsconcept-131012131129-phpapp01/95/inheritanceoops-concept-6-638.jpg?cb=1381583525)
+![1](http://www.onlinebuff.com/artimages/base2.jpg)
+![1](http://image.slidesharecdn.com/oopsconcept-131012131129-phpapp01/95/inheritanceoops-concept-8-638.jpg?cb=1381583525)
 
 ## Hierarchal inheritance
 *  In this type of inheritance, multiple derived class would be extended from base class, it’s similar to single level inheritance but this time along with Samsung, Nokia is also taking part in inheritance.
 http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/cda5ba/object-oriented-programming-with-real-world-scenario/Images/Hierarchal%20inheritance.jpg)
+![1](http://www.onlinebuff.com/artimages/base3.jpg)
+![1](http://www.onlinebuff.com/artimages/base4.jpg)
+![1](http://image.slidesharecdn.com/oopsconcept-131012131129-phpapp01/95/inheritanceoops-concept-7-638.jpg?cb=1381583525)
 
 ## Hybrid inheritance
 * Single, Multilevel, & hierarchal inheritance all together construct a hybrid inheritance.
 ![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/cda5ba/object-oriented-programming-with-real-world-scenario/Images/Hybrid%20inheritance.jpg)
+![1](http://image.slidesharecdn.com/oopsconcept-131012131129-phpapp01/95/inheritanceoops-concept-9-638.jpg?cb=1381583525)
+![1](http://image.slidesharecdn.com/oopsconcept-131012131129-phpapp01/95/inheritanceoops-concept-10-638.jpg?cb=1381583525)
 
 
 
