@@ -1,4 +1,20 @@
 
+
+# Catalogs
+
+* **Patterns of Enterprise Application Architecture**	Concentrates on Enterprise Application Architecture in the context of a layered architecture. Main sections cover domain logic, web presentations, database interaction, offline concurrency (by David Rice) and distribution. Database interaction is the largest section with many patterns on object-relational mapping issues.
+* **Core J2EE Patterns**	Enterprise Application Architecture patterns in the context of the Java J2EE platform. Although the patterns are focused around the J2EE platform, the patterns are usually equally applicable (albeit with a twist) to other enterprise application platforms.
+* **Enterprise Integration Patterns**	I've increasingly come to the view that integration through asynchronous messaging is one of the most effective ways to integrate disparate enterprise applications. EIP is a foundation collection of patterns for this approach.
+* Microsoft Enterprise Solution Patterns	Microsoft's first collection of enterprise software patterns. Sections include patterns on Web Presentation, Deployment, and Distributed Systems.
+* **Microsoft Data Patterns**	A collection of patterns on data movement: replication and synchronization.
+* Microsoft Integration Patterns	Microsoft's take on integration patterns. Sections cover strategies for an integration layer, approaches to system connections, and topologies for integration.
+* **Domain Driven Design**	Building an object-oriented Domain Model is a popular approach to organizing domain logic. It works particularly well with complex domains. It's downside is that it is difficult to do well. These patterns describe how to think about building and structuring a rich domain model, as well as how to recognize and overcome the real-world obstacles that too-often prevent people from employing the modeling principles they know.
+* **Analysis Patterns** See enough domain models, and you see certain kinds of structures repeatedly. This book was my attempt to capture these commonalities in the form of patterns. In lots of ways it's very much in need of an update, but the basic ideas are still pretty sound. If find this material useful, do make sure you look at the newer supplementary material that I put on my website.
+* **Data Model Patterns**	Common patterns in data models. Since these are developed from a very conceptual approach, the patterns are useful for object modeling as well as data modeling.
+* **Gang of Four**	The first, and most used, patterns book. These are mostly fundamental patterns which are not specifically for enterprise software development, but the enterprise patterns reference them widely.
+* **POSA**	Particularly influential for its work on architectural patterns. Layers (for enterprise applications) and pipes and filters (for messaging) are foundations for much enterprise patterns work.
+
+
 # Patterns
   * Gang of Four Patterns
   * Head First Patterns
