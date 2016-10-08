@@ -22,6 +22,10 @@ Rules of thumb
 * Flyweight explains when and how State objects can be shared.
 
 
+http://3.bp.blogspot.com/-Tz2wNYNSJDE/UpA-pPhPypI/AAAAAAAAAwo/PCmcc4d2GNk/s1600/Flyweight+Design+Pattern.JPG
+
+
+
 
 https://sourcemaking.com/files/v2/content/patterns/Flyweight_example1.svg
 http://2.bp.blogspot.com/_GuPw-7YN_ko/S_fHQ8otQ8I/AAAAAAAAA7g/r8b1BeGwV3w/s1600/Slide7.JPG
