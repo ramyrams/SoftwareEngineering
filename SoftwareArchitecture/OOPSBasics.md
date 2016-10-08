@@ -7,10 +7,18 @@
 * Polymorphism
 * Abstract Classes and Interfaces
 
-Into
+# Intro
 http://bytecodetechnosolutions.com/HTML_CSS_JS_JAVA/images/java/objects.jpg
 http://bytecodetechnosolutions.com/HTML_CSS_JS_JAVA/images/java/oops.jpg
 http://www.onlinebuff.com/artimages/php46-1.jpg
+http://www.codinggrid.com/wp-content/uploads/2015/07/Slide1_wm.png
+http://www.codinggrid.com/wp-content/uploads/2015/07/Slide2_wm-620x264.png
+
+# Procedural vs. object oriented programming
+http://image.slidesharecdn.com/proceduralvs-150616113314-lva1-app6891/95/procedural-vs-object-oriented-programming-9-638.jpg?cb=1449473224
+
+# The 7 Principles of Object Oriented Programming
+https://s-media-cache-ak0.pinimg.com/564x/88/c2/74/88c274ada27bfb7e1e6d16f29f58a84c.jpg
 
 # Class
 http://bytecodetechnosolutions.com/HTML_CSS_JS_JAVA/images/java/class-obj.png
