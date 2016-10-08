@@ -13,18 +13,27 @@ http://bytecodetechnosolutions.com/HTML_CSS_JS_JAVA/images/java/oops.jpg
 http://www.onlinebuff.com/artimages/php46-1.jpg
 http://www.codinggrid.com/wp-content/uploads/2015/07/Slide1_wm.png
 http://www.codinggrid.com/wp-content/uploads/2015/07/Slide2_wm-620x264.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/CPT-Object-Var-Proc.svg/440px-CPT-Object-Var-Proc.svg.png
+
 
 # Procedural vs. object oriented programming
 http://image.slidesharecdn.com/proceduralvs-150616113314-lva1-app6891/95/procedural-vs-object-oriented-programming-9-638.jpg?cb=1449473224
+http://file.mrbool.com/mrbool/articles/AnilKuhat/OOP_Java_Programming/OOP_Java_Programming01.png
+
 
 # The 7 Principles of Object Oriented Programming
 https://s-media-cache-ak0.pinimg.com/564x/88/c2/74/88c274ada27bfb7e1e6d16f29f58a84c.jpg
+http://www.vivaxsolutions.com/images/four-pillars.png
+http://www.androidustaad.com/wp-content/uploads/2015/11/oop.png
 
 # Class
 http://bytecodetechnosolutions.com/HTML_CSS_JS_JAVA/images/java/class-obj.png
 
 # Object
+http://www.vivaxsolutions.com/images/cookie-class.gif
 http://bytecodetechnosolutions.com/HTML_CSS_JS_JAVA/images/java/class-obj2.png
+https://s-media-cache-ak0.pinimg.com/originals/56/a7/6f/56a76fd97157f7793d3f7b58219e7b7e.jpg
+http://arzhon.blog.binusian.org/files/2016/05/CPT-OOP-interfaces.svg_.png
 
 http://4.bp.blogspot.com/-2vPfuYA1Nkg/VTSrSpJI0UI/AAAAAAAAAIA/8K1PjJWNv0Q/s1600/java_object_class_difference.png
 http://www.rishabhcode.in/files/animals.png
