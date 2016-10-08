@@ -44,6 +44,54 @@
   * Template Method - Defer the exact steps of an algorithm to a subclass
   * Visitor - Defines a new operation to a class without change
 
+
+
+# Concurrency Patterns
+* Active Object: Decouples method execution from method invocation that reside in their own thread of control. The goal is to introduce concurrency, by using asynchronous method invocation and a scheduler for handling requests.
+* Balking: Only execute an action on an object when the object is in a particular state.
+* Binding Properties: Combining multiple observers to force properties in different objects to be synchronized or coordinated in some way.
+* Messaging pattern: The messaging design pattern (MDP) allows the interchange of information (i.e. messages) between components and applications.
+* Double-checked locking: Reduce the overhead of acquiring a lock by first testing the locking criterion (the 'lock hint') in an unsafe manner; only if that succeeds does the actual lock proceed. Can be unsafe when implemented in some language/hardware combinations. It can therefore sometimes be considered an anti-pattern.
+* Event-based asynchronous: Addresses problems with the Asynchronous pattern that occur in multithreaded programs.[10]
+* Guarded suspension: Manages operations that require both a lock to be acquired and a precondition to be satisfied before the operation can be executed.
+* Lock: One thread puts a "lock" on a resource, preventing other threads from accessing or modifying it.[11][7]
+* Monitor object: An object whose methods are subject to mutual exclusion, thus preventing multiple objects from erroneously trying to use it at the same time.
+* Reactor: A reactor object provides an asynchronous interface to resources that must be handled synchronously.
+* Read-write lock: Allows concurrent read access to an object but requires exclusive access for write operations.
+Scheduler: Explicitly control when threads may execute single-threaded code.
+* Thread pool: A number of threads are created to perform a number of tasks, which are usually organized in a queue. Typically, there are many more tasks than threads. Can be considered a special case of the object pool pattern.
+* Thread-specific storage: Static or "global" memory local to a thread.
+
+# Data Access Patterns
+* ORM Patterns: Domain Object Factory, Object/Relational Map, Update Factory
+* Resource Management Patterns: Resource Pool, Resource Timer, Retryer, Paging Iterator
+* Cache Patterns: Cache Accessor, Demand Cache, Primed Cache, Cache Collector, Cache Replicator
+* Concurrency Patterns: Transaction, Optimistic Lock, Pessimistic Lock
+
+
+# Enterprise Patterns
+* Presentation Tier Patterns: Intercepting Filter, Front Controller, View Helper, Composite View, Service to Worker, Dispatcher View
+* Business Tier Patterns: Business Delegate, Value Object, Session Facade, Composite Entity, Value Object Assembler, Value List Handler, Service Locator
+* Integration Tier Patterns: Data Access Object, Service Activator
+
+
+* Real-Time Patterns
+* Architecture Patterns: Layered Pattern, Channel Architecture Pattern, Component-Based Architecture, Recursive Containment Pattern and Hierarchical Control Pattern, Microkernel Architecture Pattern, Virtual Machine Pattern
+* Concurrency Patterns: Message Queuing Pattern, Interrupt Pattern, Guarded Call Pattern, Rendezvous Pattern, Cyclic Executive Pattern, Round Robin Pattern
+* Memory Patterns: Static Allocation Pattern, Pool Allocation Pattern, Fixed Sized Buffer Pattern, Smart Pointer Pattern, Garbage Collection Pattern, Garbage Compactor Pattern
+* Resource Patterns: Critical Section Pattern, Priority Inheritance Pattern, Priority Ceiling Pattern, Simultaneous Locking Pattern, Ordered Locking Pattern
+* Distribution Patterns: Shared Memory Pattern, Remote Method Call Pattern, Observer Pattern, Data Bus Pattern, Proxy Pattern, Broker Pattern
+* Safety and Reliability Patterns: Monitor-Actuator Pattern, Sanity Check Pattern, Watchdog Pattern, Safety Executive Pattern, Protected Single Channel Pattern, Homogeneous Redundancy Pattern, Triple Modular Redundancy Pattern, Heterogeneous Redundancy Pattern
+
+
+
+
+
+
+
+
+
+
 * [MVVM Pattern Cheat Sheet and Flow](http://www.alextells.com/wp-content/uploads/2014/08/9fc37cfa186c24407739ebcc3191e014.png)
 
 
