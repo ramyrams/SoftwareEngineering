@@ -1,4 +1,18 @@
-
+Objects and Values
+Classes and Interfaces
+Method Design Principles
+Modeling and Inheritance
+Implementing Inheritance
+Design by Contract
+Role Objects
+Collaboration-based Design
+Design Patterns
+Object Creation
+Singleton Objects
+Domain-Driven Design
+Framework Design
+Error and Exception Handling
+Meta-Object Protocols
 
 # Catalogs
 
@@ -125,8 +139,7 @@ Scheduler: Explicitly control when threads may execute single-threaded code.
 
 
 
-
-
+![1](http://dirkriehle.com/wp-content/uploads/2016/01/design-space-table-1024x650.png)
 ![1](http://www.linuxidc.com/upload/2015_12/151203132216072.png)
 ![1](http://image.slidesharecdn.com/DesignPatterns-123478276166-phpapp03/95/design-patterns-69-728.jpg)
 ![1](http://www.demiliani.com/immaginiblog/patterns/patterns2.jpg)
