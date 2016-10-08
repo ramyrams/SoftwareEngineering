@@ -114,8 +114,8 @@ Scheduler: Explicitly control when threads may execute single-threaded code.
 * Base Patterns: Gateway , Mapper , Layer Supertype , Separated Interface, Registry, Value Object , Money , Special Case , Plugin , Service Stub (504), Record Set
 
 
-
-
+# Git Hub
+* [Head First Design Patterns](https://github.com/bethrobson/Head-First-Design-Patterns)
 
 
 
