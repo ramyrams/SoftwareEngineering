@@ -27,13 +27,13 @@
 # Procedural vs. object oriented programming
 ![1](http://image.slidesharecdn.com/proceduralvs-150616113314-lva1-app6891/95/procedural-vs-object-oriented-programming-9-638.jpg)
 ![1](http://file.mrbool.com/mrbool/articles/AnilKuhat/OOP_Java_Programming/OOP_Java_Programming01.png)
-http://1.bp.blogspot.com/-TUS0_WRJqIE/VicsxoHR7CI/AAAAAAAAAEI/9aLIdrn3x0o/s640/hqdefault.jpg
+![1]http://1.bp.blogspot.com/-TUS0_WRJqIE/VicsxoHR7CI/AAAAAAAAAEI/9aLIdrn3x0o/s640/hqdefault.jpg)
 
 # The 7 Principles of Object Oriented Programming
 ![1](https://s-media-cache-ak0.pinimg.com/564x/88/c2/74/88c274ada27bfb7e1e6d16f29f58a84c.jpg)
 ![1](http://www.vivaxsolutions.com/images/four-pillars.png)
 ![1](http://www.androidustaad.com/wp-content/uploads/2015/11/oop.png)
-http://1.bp.blogspot.com/-Od9z4FHN9mA/VbjRcuQAcXI/AAAAAAAADfI/gc6uJdAP7bs/s640/10%2BOOP%2BDesign%2BPRinciples%2Bfor%2BJava%2Bprogrammers.png
+![1](http://1.bp.blogspot.com/-Od9z4FHN9mA/VbjRcuQAcXI/AAAAAAAADfI/gc6uJdAP7bs/s640/10%2BOOP%2BDesign%2BPRinciples%2Bfor%2BJava%2Bprogrammers.png)
 
 
 # Class
@@ -150,8 +150,8 @@ http://www.maheshsubramaniya.com/article/object-oriented-programming-abstraction
 ![1](http://images.slideplayer.com/19/5758470/slides/slide_24.jpg)
 
 ## There are two types of polymorphism
-Overloading (compile time polymorphism): methods have the same name but different parameters.
-Overriding (run time polymorphism): the implementation given in base class is replaced with that in sub class.
+* Overloading (compile time polymorphism): methods have the same name but different parameters.
+* Overriding (run time polymorphism): the implementation given in base class is replaced with that in sub class.
 ![1](https://i0.wp.com/java9s.com/wp-content/uploads/2012/06/Polymorphism-example.jpg)
 
 
@@ -190,15 +190,15 @@ http://1.bp.blogspot.com/--Jv75RGk5LU/UJnH3zAy_8I/AAAAAAAAARA/S-aZXwUaVPM/s400/i
 * The gear shift in my car is the interface that allows me to interact with the transmission. * The keyhole is my interface to the locking system of my door. It's what I interact with in order to lock or unlock my door.
 
 
-https://lh6.googleusercontent.com/-bDbxldh6Zrk/UJnJrUlTRTI/AAAAAAAAARI/hWqoJ5FK55o/s640/interface-metaphor.png
-https://lh4.googleusercontent.com/-jABtOte-VS8/UJnJ6qLguMI/AAAAAAAAARU/faI3iwLCHwA/s640/interfaces-metaphor-explained.png
+![1](https://lh6.googleusercontent.com/-bDbxldh6Zrk/UJnJrUlTRTI/AAAAAAAAARI/hWqoJ5FK55o/s640/interface-metaphor.png)
+![1](https://lh4.googleusercontent.com/-jABtOte-VS8/UJnJ6qLguMI/AAAAAAAAARU/faI3iwLCHwA/s640/interfaces-metaphor-explained.png)
 
 
 
 # Abstract class VS interface
 ![1](http://3.bp.blogspot.com/-iY5H3NVfu14/Vmg99BkXpPI/AAAAAAAAES0/hKRMe87q1P4/s320/abstract%2Bclass%2Bvs%2Binterface%2Bin%2BJava.png)
 ![1](https://2.bp.blogspot.com/-p4G_3t5fr00/VwS1tUQV-sI/AAAAAAAADyM/UYI8dDuCtyYg219l6M6Z9LmRmtqBaS1zw/s1600/Abstract-class-Constructors.gif)
-http://i.stack.imgur.com/Ci5Wx.png
+![1](http://i.stack.imgur.com/Ci5Wx.png)
 
 
 ![1](http://1.bp.blogspot.com/-VL_9cjhwEE4/UvJN__IvaBI/AAAAAAAABCc/IkDmShgM-Yc/s1600/Association,+Composition+UML.JPG)
