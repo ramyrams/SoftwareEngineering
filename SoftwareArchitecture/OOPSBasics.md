@@ -66,6 +66,7 @@
 ![1](http://2.bp.blogspot.com/-erPVXMtc1Hk/USx9SnupkhI/AAAAAAAAAGA/RwKq6FAGZnU/s1600/3.jpg)
 ![1](https://4.bp.blogspot.com/-smG1Ty6cO1w/VrcWM2ERf5I/AAAAAAAAEt4/0bm6AQSIN8M/s1600/OOP%2B-%2BInheritance.jpg)
 ![1](http://1.bp.blogspot.com/-mtqBZD4qvQU/Uh8mU4o8V4I/AAAAAAAAAlE/sHL6VYf00ZY/s1600/fig1.png)
+![1](http://2.bp.blogspot.com/-RtNrkFKYtQQ/UA0YgiVtiZI/AAAAAAAAAAc/Gio3fVW6TAI/s320/Inheritance1.jpg)
 ![1](http://image.slidesharecdn.com/oopsconcept-131012131129-phpapp01/95/inheritanceoops-concept-4-638.jpg?cb=1381583525)
 ![1](http://image.slidesharecdn.com/oopsconcept-131012131129-phpapp01/95/inheritanceoops-concept-3-638.jpg?cb=1381583525)
 ![1](http://www.onlinebuff.com/artimages/php46-inheritance.jpg)
@@ -88,6 +89,9 @@
 * Multi-level inheritance
 * Hierarchical inheritance
 * Hybrid inheritance
+
+![1](http://www.javalearningacademy.com/wp-content/uploads/2016/03/Types_Of_Inhertiance_In_Java.jpg)
+![1](http://3.bp.blogspot.com/-5uVc-X1R3M4/UPFuU7KkdXI/AAAAAAAAAYk/TBZrG9nlsOk/s400/Inheritance.png)
 
 
 ## Single level inheritance 
