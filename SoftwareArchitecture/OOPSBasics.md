@@ -162,6 +162,7 @@ http://www.maheshsubramaniya.com/article/object-oriented-programming-abstraction
 ![1](http://3.bp.blogspot.com/-TaDsfR-HRcI/UQo4A5tP9fI/AAAAAAAABAQ/FC4WnD6isjk/s1600/polymorphism.JPG)
 ![1](https://i.ytimg.com/vi/dfav1xyXJwg/hqdefault.jpg)
 ![1](http://images.slideplayer.com/19/5758470/slides/slide_24.jpg)
+![1](http://2.bp.blogspot.com/-o7B9sRj-1AA/VptdapjmtHI/AAAAAAAAEno/c-U4S2IP3yg/s1600/oop-polymorphism.jpg)
 
 ## There are two types of polymorphism
 * Overloading (compile time polymorphism): methods have the same name but different parameters.
@@ -268,4 +269,17 @@ It is also referred to as a "is-a-kind-of" or "is-a" relationship; that means th
 ![1](http://image.slidesharecdn.com/oops-130310234958-phpapp02/95/oops-16-638.jpg?cb=1362959452)
 
 # Destructors
+
+# overloading and overriding
+![1](http://www.programcreek.com/wp-content/uploads/2009/02/overloading-vs-overriding.png)
+![1](https://i.ytimg.com/vi/E5XyJWoXyPk/maxresdefault.jpg)
+![1](http://www.geeklabs.co.in/images/cj/OO/diff-mthd-ovrloadndovrridg.jpg)
+![1](http://4.bp.blogspot.com/-D_zk1PmEJ5Q/URpJA7hcWoI/AAAAAAAAHeg/0F7wb3aJkJE/s1600/overriding%2Bvs%2Boverloading.png)
+![1](http://2.bp.blogspot.com/-T70GlT62wJg/VADdPQuL1lI/AAAAAAAAAYc/6juVR30Sgik/s1600/overloadingvsoverridingimage.png)
+![1](http://techdifferences.com/wp-content/uploads/2016/04/Overloading-and-overriding2.jpg)
+
+# Access Modifier
+![1](http://3.bp.blogspot.com/-HS0AS1PPz10/UlGbaUZ0hYI/AAAAAAAABGE/7hwgLMIwfds/s1600/access+modifier.PNG)
+![1](http://i.stack.imgur.com/ExkwO.png)
+![1](http://www.noesispoint.com/img/scjp/image038.jpg)
 
