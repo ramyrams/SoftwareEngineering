@@ -27,7 +27,7 @@
 # Procedural vs. object oriented programming
 ![1](http://image.slidesharecdn.com/proceduralvs-150616113314-lva1-app6891/95/procedural-vs-object-oriented-programming-9-638.jpg)
 ![1](http://file.mrbool.com/mrbool/articles/AnilKuhat/OOP_Java_Programming/OOP_Java_Programming01.png)
-![1]http://1.bp.blogspot.com/-TUS0_WRJqIE/VicsxoHR7CI/AAAAAAAAAEI/9aLIdrn3x0o/s640/hqdefault.jpg)
+![1](http://1.bp.blogspot.com/-TUS0_WRJqIE/VicsxoHR7CI/AAAAAAAAAEI/9aLIdrn3x0o/s640/hqdefault.jpg)
 
 # The 7 Principles of Object Oriented Programming
 ![1](https://s-media-cache-ak0.pinimg.com/564x/88/c2/74/88c274ada27bfb7e1e6d16f29f58a84c.jpg)
