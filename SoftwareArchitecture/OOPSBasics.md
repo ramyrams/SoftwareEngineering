@@ -68,9 +68,21 @@
 ![1](http://1.bp.blogspot.com/-mtqBZD4qvQU/Uh8mU4o8V4I/AAAAAAAAAlE/sHL6VYf00ZY/s1600/fig1.png)
 ![1](http://image.slidesharecdn.com/oopsconcept-131012131129-phpapp01/95/inheritanceoops-concept-4-638.jpg?cb=1381583525)
 ![1](http://image.slidesharecdn.com/oopsconcept-131012131129-phpapp01/95/inheritanceoops-concept-3-638.jpg?cb=1381583525)
+![1](http://www.onlinebuff.com/artimages/php46-inheritance.jpg)
+![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/cda5ba/object-oriented-programming-with-real-world-scenario/Images/Single%20level%20inheritance.jpg)
+![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/cda5ba/object-oriented-programming-with-real-world-scenario/Images/Multilevel%20inheritance.jpg)
+![1](http://www.javalearningacademy.com/wp-content/uploads/2015/11/Object-Oriented-Inheritance-as-a-picture.jpg)
+![1](http://bytecodetechnosolutions.com/HTML_CSS_JS_JAVA/images/java/inheritance.jpg)
+![1](http://bytecodetechnosolutions.com/HTML_CSS_JS_JAVA/images/java/inherit.jpg
+![1](https://lh3.googleusercontent.com/eYo9nMAa4e1xSnAawfl7pk3oVpnh0Kz-sPC6oLv49TIipa)fn7qL_=w934-h501-no)
+![1](https://i2.wp.com/younginc.site11.com/source/5895/images/fig108_01_0.jpg)
+![1](http://1.bp.blogspot.com/-Y4PqSY3A6Ew/ViczetEW42I/AAAAAAAAAGs/uxjX7bX9pjs/s640/Picture5.jpg)
+![1](http://4.bp.blogspot.com/-GI8PTNw8qdA/Vicy8TxtlSI/AAAAAAAAAGk/LCvA6cpRLQQ/s640/VirtualMethods.jpg)
+![1](http://1.bp.blogspot.com/-71-3j25NKsA/Vicy36qpn2I/AAAAAAAAAGU/3JLXG9eV8YE/s640/Picture3.jpg)
 
 
-## T of inheritance:
+
+## Types of inheritance:
 * Single level inheritance
 * Multiple inheritance
 * Multi-level inheritance
@@ -92,15 +104,14 @@
 * Now Samsung brand has manufactured its new model with new added features or advanced OS like Android OS, v4.4.2 (kitkat). 
 * From generalization, getting into more specification.
 
-![1](http://www.onlinebuff.com/artimages/php46-inheritance.jpg)
 ![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/cda5ba/object-oriented-programming-with-real-world-scenario/Images/Multilevel%20inheritance.jpg)
-
 ![1](http://www.onlinebuff.com/artimages/base2.jpg)
 ![1](http://image.slidesharecdn.com/oopsconcept-131012131129-phpapp01/95/inheritanceoops-concept-8-638.jpg?cb=1381583525)
 
 ## Hierarchal inheritance
 *  In this type of inheritance, multiple derived class would be extended from base class, it’s similar to single level inheritance but this time along with Samsung, Nokia is also taking part in inheritance.
-http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/cda5ba/object-oriented-programming-with-real-world-scenario/Images/Hierarchal%20inheritance.jpg)
+
+![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/cda5ba/object-oriented-programming-with-real-world-scenario/Images/Hierarchal%20inheritance.jpg)
 ![1](http://www.onlinebuff.com/artimages/base3.jpg)
 ![1](http://www.onlinebuff.com/artimages/base4.jpg)
 ![1](http://image.slidesharecdn.com/oopsconcept-131012131129-phpapp01/95/inheritanceoops-concept-7-638.jpg?cb=1381583525)
@@ -113,22 +124,10 @@ http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/cda5ba/object-orien
 
 
 
-![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/cda5ba/object-oriented-programming-with-real-world-scenario/Images/Single%20level%20inheritance.jpg)
-![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/cda5ba/object-oriented-programming-with-real-world-scenario/Images/Multilevel%20inheritance.jpg)
-
-![1](http://www.javalearningacademy.com/wp-content/uploads/2015/11/Object-Oriented-Inheritance-as-a-picture.jpg)
-![1](http://bytecodetechnosolutions.com/HTML_CSS_JS_JAVA/images/java/inheritance.jpg)
-![1](http://bytecodetechnosolutions.com/HTML_CSS_JS_JAVA/images/java/inherit.jpg
-![1](https://lh3.googleusercontent.com/eYo9nMAa4e1xSnAawfl7pk3oVpnh0Kz-sPC6oLv49TIipa)fn7qL_=w934-h501-no)
-![1](https://i2.wp.com/younginc.site11.com/source/5895/images/fig108_01_0.jpg)
-![1](http://1.bp.blogspot.com/-Y4PqSY3A6Ew/ViczetEW42I/AAAAAAAAAGs/uxjX7bX9pjs/s640/Picture5.jpg)
-![1](http://4.bp.blogspot.com/-GI8PTNw8qdA/Vicy8TxtlSI/AAAAAAAAAGk/LCvA6cpRLQQ/s640/VirtualMethods.jpg)
-![1](http://1.bp.blogspot.com/-71-3j25NKsA/Vicy36qpn2I/AAAAAAAAAGU/3JLXG9eV8YE/s640/Picture3.jpg)
 
 
 # Abstraction
 ![1](http://1.bp.blogspot.com/-MYJI1_3fvnk/USx9dtd6xXI/AAAAAAAAAGM/noSvr0qRdQg/s1600/5.jpg)
-
 ![1](http://www.javalearningacademy.com/wp-content/uploads/2015/11/Object-Oriented-Abstraction-as-a-picture.jpg)
 ![1](https://lh3.googleusercontent.com/3o597NPwZPNiDUxIR7VP8YrTsPSv3sVHgHM0a-Myc9ceRaehUFrb=w758-h458-no)
 ![1](http://bytecodetechnosolutions.com/HTML_CSS_JS_JAVA/images/java/abstraction.jpg)
@@ -148,7 +147,6 @@ http://www.maheshsubramaniya.com/article/object-oriented-programming-abstraction
 
 # Polymorphism 
 ![1](http://4.bp.blogspot.com/-EkXDjjJ4Hgc/USx9XsJFNtI/AAAAAAAAAGE/SA0pusb3AH8/s1600/4.jpg)
-
 ![1](http://www.javalearningacademy.com/wp-content/uploads/2015/11/Object-Oriented-Ploymorphism-as-a-picture.jpg)
 ![1](http://4.bp.blogspot.com/-VNunv2-f2Pw/Vic0KnG_o8I/AAAAAAAAAG0/702hoN7Rnl8/s640/Picture6.png)
 ![1](https://i2.wp.com/faculty.orangecoastcollege.edu/sgilbert/lessons/ObjectOrientedConcepts/images/polymorphism.png)
@@ -191,9 +189,9 @@ http://www.maheshsubramaniya.com/article/object-oriented-programming-abstraction
 
 # Interfaces 
 ## Interfaces in the Real World
-http://2.bp.blogspot.com/-tkdn9KDMb58/UJnHpLZG3BI/AAAAAAAAAQk/c_HYLM0qzQs/s400/interface-lightswitch.jpg
-http://4.bp.blogspot.com/-kiypRsQ0W4I/UJnHwQXLHCI/AAAAAAAAAQw/H6e27CmqCJo/s400/interface-transmission.jpg
-http://1.bp.blogspot.com/--Jv75RGk5LU/UJnH3zAy_8I/AAAAAAAAARA/S-aZXwUaVPM/s400/interface-keyhole.jpg
+![1](http://2.bp.blogspot.com/-tkdn9KDMb58/UJnHpLZG3BI/AAAAAAAAAQk/c_HYLM0qzQs/s400/interface-lightswitch.jpg)
+![1](http://4.bp.blogspot.com/-kiypRsQ0W4I/UJnHwQXLHCI/AAAAAAAAAQw/H6e27CmqCJo/s400/interface-transmission.jpg)
+![1](http://1.bp.blogspot.com/--Jv75RGk5LU/UJnH3zAy_8I/AAAAAAAAARA/S-aZXwUaVPM/s400/interface-keyhole.jpg)
 
 
 * The light switch is the interface that allows me to turn a light on or off.
