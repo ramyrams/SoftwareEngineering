@@ -1,10 +1,16 @@
 # Object-Oriented Programming Basics
 
+# Basic OOPS Concepts
 * Classes and Objects
 * Abstraction
 * Encapsulation
 * Inheritance
 * Polymorphism
+* Dependency
+* Generalization
+* Association
+* Aggregation
+* Composition 
 * Abstract Classes and Interfaces
 
 # Intro
