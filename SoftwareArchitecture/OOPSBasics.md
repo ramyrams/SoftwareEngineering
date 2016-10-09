@@ -156,9 +156,25 @@ Overriding (run time polymorphism): the implementation given in base class is re
 
 ![1](https://i1.wp.com/i.stack.imgur.com/xmKaT.gif)
 
+# Interfaces 
+## Interfaces in the Real World
+http://2.bp.blogspot.com/-tkdn9KDMb58/UJnHpLZG3BI/AAAAAAAAAQk/c_HYLM0qzQs/s400/interface-lightswitch.jpg
+http://4.bp.blogspot.com/-kiypRsQ0W4I/UJnHwQXLHCI/AAAAAAAAAQw/H6e27CmqCJo/s400/interface-transmission.jpg
+http://1.bp.blogspot.com/--Jv75RGk5LU/UJnH3zAy_8I/AAAAAAAAARA/S-aZXwUaVPM/s400/interface-keyhole.jpg
+
+
+* The light switch is the interface that allows me to turn a light on or off.
+* The gear shift in my car is the interface that allows me to interact with the transmission. * The keyhole is my interface to the locking system of my door. It's what I interact with in order to lock or unlock my door.
+
+
+https://lh6.googleusercontent.com/-bDbxldh6Zrk/UJnJrUlTRTI/AAAAAAAAARI/hWqoJ5FK55o/s640/interface-metaphor.png
+https://lh4.googleusercontent.com/-jABtOte-VS8/UJnJ6qLguMI/AAAAAAAAARU/faI3iwLCHwA/s640/interfaces-metaphor-explained.png
+
+
 
 # Abstract class VS interface
 ![1](http://3.bp.blogspot.com/-iY5H3NVfu14/Vmg99BkXpPI/AAAAAAAAES0/hKRMe87q1P4/s320/abstract%2Bclass%2Bvs%2Binterface%2Bin%2BJava.png)
 ![1](https://2.bp.blogspot.com/-p4G_3t5fr00/VwS1tUQV-sI/AAAAAAAADyM/UYI8dDuCtyYg219l6M6Z9LmRmtqBaS1zw/s1600/Abstract-class-Constructors.gif)
+http://i.stack.imgur.com/Ci5Wx.png
 
 
