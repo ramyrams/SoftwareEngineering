@@ -256,5 +256,8 @@ It is also referred to as a "is-a-kind-of" or "is-a" relationship; that means th
 
 
 
+# Constructors 
+![1](http://image.slidesharecdn.com/oops-130310234958-phpapp02/95/oops-16-638.jpg?cb=1362959452)
 
+# Destructors
 
