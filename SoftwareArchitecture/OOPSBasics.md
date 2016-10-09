@@ -27,6 +27,8 @@ http://1.bp.blogspot.com/-TUS0_WRJqIE/VicsxoHR7CI/AAAAAAAAAEI/9aLIdrn3x0o/s640/h
 ![1](https://s-media-cache-ak0.pinimg.com/564x/88/c2/74/88c274ada27bfb7e1e6d16f29f58a84c.jpg)
 ![1](http://www.vivaxsolutions.com/images/four-pillars.png)
 ![1](http://www.androidustaad.com/wp-content/uploads/2015/11/oop.png)
+http://1.bp.blogspot.com/-Od9z4FHN9mA/VbjRcuQAcXI/AAAAAAAADfI/gc6uJdAP7bs/s640/10%2BOOP%2BDesign%2BPRinciples%2Bfor%2BJava%2Bprogrammers.png
+
 
 # Class
 ![1](http://bytecodetechnosolutions.com/HTML_CSS_JS_JAVA/images/java/class-obj.png)
@@ -156,6 +158,21 @@ Overriding (run time polymorphism): the implementation given in base class is re
 
 ![1](https://i1.wp.com/i.stack.imgur.com/xmKaT.gif)
 
+
+# Relationships
+* Inheritance
+* Aggregation
+* Association
+* Composition
+
+# Real world relationships from a requirement
+* Manager is an employee of XYZ limited corporation.
+* Manager uses a swipe card to enter XYZ premises.
+* Manager has workers who work under him.
+* Manager has the responsibility of ensuring that the project is successful.
+* Manager's salary will be judged based on project success.
+
+
 # Interfaces 
 ## Interfaces in the Real World
 http://2.bp.blogspot.com/-tkdn9KDMb58/UJnHpLZG3BI/AAAAAAAAAQk/c_HYLM0qzQs/s400/interface-lightswitch.jpg
@@ -176,5 +193,56 @@ https://lh4.googleusercontent.com/-jABtOte-VS8/UJnJ6qLguMI/AAAAAAAAARU/faI3iwLCH
 ![1](http://3.bp.blogspot.com/-iY5H3NVfu14/Vmg99BkXpPI/AAAAAAAAES0/hKRMe87q1P4/s320/abstract%2Bclass%2Bvs%2Binterface%2Bin%2BJava.png)
 ![1](https://2.bp.blogspot.com/-p4G_3t5fr00/VwS1tUQV-sI/AAAAAAAADyM/UYI8dDuCtyYg219l6M6Z9LmRmtqBaS1zw/s1600/Abstract-class-Constructors.gif)
 http://i.stack.imgur.com/Ci5Wx.png
+
+
+![1](http://1.bp.blogspot.com/-VL_9cjhwEE4/UvJN__IvaBI/AAAAAAAABCc/IkDmShgM-Yc/s1600/Association,+Composition+UML.JPG)
+![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/b1df45/dependency-generalization-association-aggregation-compos/Images/Association6.jpg)
+
+# Association
+* Association is defined as a structural relationship, that conceptually means that the two components are linked to each other. 
+* This kind of relation is also referred to as a using relationship, where one class instance uses the other class instance or vice-versa, or both may be using each other. 
+* But the main point is, the lifetime of the instances of the two classes are independent of each other and there is no ownership between two classes.
+
+![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/b1df45/dependency-generalization-association-aggregation-compos/Images/Association1.jpg)
+![1](http://www.codeproject.com/KB/architecture/330447/relation1.jpg)
+![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/b1df45/dependency-generalization-association-aggregation-compos/Images/Association.jpg)
+
+# Aggregation
+* The Using relationship with Parent: Aggregation
+* Aggregation is the same as association but with an additional point that there is an ownership of the instances, unlike association where there was no ownership of the instances. 
+
+![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/b1df45/dependency-generalization-association-aggregation-compos/Images/Association2.jpg)
+![1](http://www.codeproject.com/KB/architecture/330447/relation2.jpg)
+![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/b1df45/dependency-generalization-association-aggregation-compos/Images/Association3.jpg)
+
+# Composition
+This is the same as that of aggregation, but with the additional point that the lifetime of the child instance is dependent on the owner or the parent class instance. 
+
+![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/b1df45/dependency-generalization-association-aggregation-compos/Images/Association4.jpg)
+![1](http://www.codeproject.com/KB/architecture/330447/relation3.jpg)
+![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/b1df45/dependency-generalization-association-aggregation-compos/Images/Association5.jpg)
+
+# Putting things together
+![1](http://www.codeproject.com/KB/architecture/330447/relation4.jpg)
+
+
+# Dependency
+Dependency is defined as a relation between two classes, where one class depends on another class but another class may or not may depend on the first class.So any change in one of the classes may affect the functionality of the other class, that depends on the first one.
+
+
+![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/b1df45/dependency-generalization-association-aggregation-compos/Images/Dependency.jpg)
+![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/b1df45/dependency-generalization-association-aggregation-compos/Images/Dependency1.jpg)
+
+
+# Generalization
+All of us know about the concept of inheritance. It is nothing but a kind of generalization. We define it simply with a base class having some properties, functions and so on. A new class will be derived from this base class and the child class will have access to all the functionality of the base or parent class (of course depending on the access modifiers defined on the base class members).
+
+It is also referred to as a "is-a-kind-of" or "is-a" relationship; that means that the child class is-a-kind-of a base class. This provides the ability to define common properties for derived classes in a common place and use of them depends on the derived class requirements.
+
+![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/b1df45/dependency-generalization-association-aggregation-compos/Images/Generalization.jpg)
+![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/b1df45/dependency-generalization-association-aggregation-compos/Images/Generalization1.jpg)
+
+
+
 
 
