@@ -47,7 +47,8 @@
 ![1](https://docs.sencha.com/extjs/6.0.2/guides/other_resources/images/classes_instances.png)
 ![1](http://4.bp.blogspot.com/-2vPfuYA1Nkg/VTSrSpJI0UI/AAAAAAAAAIA/8K1PjJWNv0Q/s1600/java_object_class_difference.png)
 ![1](http://www.rishabhcode.in/files/animals.png)
-
+![1](http://beginnersbook.com/wp-content/uploads/2013/04/OOPs-concepts-Object-Class.png)
+![1](http://beginnersbook.com/wp-content/uploads/2013/04/OOPs-concepts-Message-Passing.png)
 
 # Encapsulation
 ![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/cda5ba/object-oriented-programming-with-real-world-scenario/Images/Encapsulation.jpg)
@@ -111,6 +112,7 @@
 ![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/cda5ba/object-oriented-programming-with-real-world-scenario/Images/Multilevel%20inheritance.jpg)
 ![1](http://www.onlinebuff.com/artimages/base2.jpg)
 ![1](http://image.slidesharecdn.com/oopsconcept-131012131129-phpapp01/95/inheritanceoops-concept-8-638.jpg?cb=1381583525)
+![1](http://beginnersbook.com/wp-content/uploads/2013/04/multilevel-multiple-inheritance.png)
 
 ## Hierarchal inheritance
 *  In this type of inheritance, multiple derived class would be extended from base class, it’s similar to single level inheritance but this time along with Samsung, Nokia is also taking part in inheritance.
@@ -196,7 +198,7 @@ http://www.maheshsubramaniya.com/article/object-oriented-programming-abstraction
 ![1](http://2.bp.blogspot.com/-tkdn9KDMb58/UJnHpLZG3BI/AAAAAAAAAQk/c_HYLM0qzQs/s400/interface-lightswitch.jpg)
 ![1](http://4.bp.blogspot.com/-kiypRsQ0W4I/UJnHwQXLHCI/AAAAAAAAAQw/H6e27CmqCJo/s400/interface-transmission.jpg)
 ![1](http://1.bp.blogspot.com/--Jv75RGk5LU/UJnH3zAy_8I/AAAAAAAAARA/S-aZXwUaVPM/s400/interface-keyhole.jpg)
-
+![1](http://beginnersbook.com/wp-content/uploads/2013/04/Interface-example.png)
 
 * The light switch is the interface that allows me to turn a light on or off.
 * The gear shift in my car is the interface that allows me to interact with the transmission. * The keyhole is my interface to the locking system of my door. It's what I interact with in order to lock or unlock my door.
