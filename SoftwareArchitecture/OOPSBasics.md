@@ -51,7 +51,6 @@
 
 # Encapsulation
 ![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/cda5ba/object-oriented-programming-with-real-world-scenario/Images/Encapsulation.jpg)
-![1](http://www.codingeek.com/wp-content/uploads/2014/08/Encapsulation.png)
 ![1](https://i.ytimg.com/vi/sNNuVg7qTxk/maxresdefault.jpg)
 ![1](http://www.javalearningacademy.com/wp-content/uploads/2015/11/Object-Oriented-Encapsulation-as-a-picture.jpg)
 ![1](http://bytecodetechnosolutions.com/HTML_CSS_JS_JAVA/images/java/encaps.jpg)
@@ -71,17 +70,22 @@
 ![1](http://image.slidesharecdn.com/oopsconcept-131012131129-phpapp01/95/inheritanceoops-concept-3-638.jpg?cb=1381583525)
 
 
-## types of inheritance:
+## T of inheritance:
 * Single level inheritance
+* Multiple inheritance
 * Multi-level inheritance
 * Hierarchical inheritance
 * Hybrid inheritance
-* Multiple inheritance
+
 
 ## Single level inheritance 
 * In Single level inheritance, there is single base class & a single derived class i.e. - A base mobile features is extended by Samsung brand.
+
 ![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/cda5ba/object-oriented-programming-with-real-world-scenario/Images/Single%20level%20inheritance.jpg)
 ![1](http://image.slidesharecdn.com/oopsconcept-131012131129-phpapp01/95/inheritanceoops-concept-5-638.jpg?cb=1381583525)
+
+# Multiple inheritance
+![1](http://image.slidesharecdn.com/oopsconcept-131012131129-phpapp01/95/inheritanceoops-concept-6-638.jpg?cb=1381583525)
 
 ## Multilevel inheritance
 * In Multilevel inheritance, there is more than one single level of derivation. i.e. - After base features are extended by Samsung brand. 
@@ -90,7 +94,7 @@
 
 ![1](http://www.onlinebuff.com/artimages/php46-inheritance.jpg)
 ![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/cda5ba/object-oriented-programming-with-real-world-scenario/Images/Multilevel%20inheritance.jpg)
-![1](http://image.slidesharecdn.com/oopsconcept-131012131129-phpapp01/95/inheritanceoops-concept-6-638.jpg?cb=1381583525)
+
 ![1](http://www.onlinebuff.com/artimages/base2.jpg)
 ![1](http://image.slidesharecdn.com/oopsconcept-131012131129-phpapp01/95/inheritanceoops-concept-8-638.jpg?cb=1381583525)
 
