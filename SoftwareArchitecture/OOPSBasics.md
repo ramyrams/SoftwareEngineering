@@ -135,6 +135,11 @@ http://www.maheshsubramaniya.com/article/object-oriented-programming-abstraction
 ![1](http://4.bp.blogspot.com/-VNunv2-f2Pw/Vic0KnG_o8I/AAAAAAAAAG0/702hoN7Rnl8/s640/Picture6.png)
 ![1](https://i2.wp.com/faculty.orangecoastcollege.edu/sgilbert/lessons/ObjectOrientedConcepts/images/polymorphism.png)
 ![1](http://bytecodetechnosolutions.com/HTML_CSS_JS_JAVA/images/java/img.png)
+![1](http://1.bp.blogspot.com/-PFlGO9KiSCk/Uh8qdkDbhHI/AAAAAAAAAlo/X_Gy35vzSFU/s1600/fig1.png)
+![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/d0a1c8/object-oriented-programming-in-C-Sharp-net/Images/Polymorphism.jpg)
+![1](http://3.bp.blogspot.com/-TaDsfR-HRcI/UQo4A5tP9fI/AAAAAAAABAQ/FC4WnD6isjk/s1600/polymorphism.JPG)
+![1](https://i.ytimg.com/vi/dfav1xyXJwg/hqdefault.jpg)
+![1](http://images.slideplayer.com/19/5758470/slides/slide_24.jpg)
 
 ## There are two types of polymorphism
 Overloading (compile time polymorphism): methods have the same name but different parameters.
