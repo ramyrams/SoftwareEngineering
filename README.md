@@ -10,3 +10,7 @@
   * Visual Source Control
 * Software Architecture
   * Design Pattern
+  * REST/Microservices/Webhooks
+  * OOPS
+  * Performance
+  * Scalability
