@@ -1,6 +1,11 @@
 # ProductDesign
 
 
+Taking Pattern Libraries To The Next Level
+https://www.smashingmagazine.com/taking-pattern-libraries-next-level/
+
+
+
 
 
 http://www.fatbit.com/fab/depth-feature-analysis-create-successful-online-food-delivery-platform/
