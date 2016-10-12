@@ -1,5 +1,7 @@
 
 
+* [Understanding of rest](https://scotch.io/bar-talk/a-quick-understanding-of-rest)
+
 * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 * [REST 101: An Introduction to Restful APIs (Infographic)[https://dzone.com/articles/rest-101-an-introduction-to-restful-apis-infograph)
 * [Microsoft REST API Guidelines Are Not RESTful](https://www.infoq.com/news/2016/07/microsoft-rest-api)
