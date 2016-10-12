@@ -1,5 +1,6 @@
 
 # Agile
+* [Complete Agile Resources](https://andybacon.com/agile-resources/)
 
 * [Scaled Agile Framework](http://www.scaledagileframework.com/)
 * [Agile Team Metrics](https://andybacon.com/2016/10/10/agile-team-metrics/)
