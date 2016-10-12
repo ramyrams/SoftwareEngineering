@@ -2,7 +2,7 @@
 # Agile
 
 * [Scaled Agile Framework](http://www.scaledagileframework.com/)
-
+* [Agile Team Metrics](https://andybacon.com/2016/10/10/agile-team-metrics/)
 
 https://dzone.com/refcardz/scrum
 * [Complete Guide - A Guide to the New Continuous Agile](http://www.continuousagile.com/unblock/index.html)
