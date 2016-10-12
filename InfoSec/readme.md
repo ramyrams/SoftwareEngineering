@@ -1,4 +1,6 @@
 
+* [OWASPv4_Checklist.xlsx](https://github.com/tanprathan/OWASP-Testing-Checklist)
+* [OWASPTestingChecklist_v_1.0.xls](https://github.com/rajivvishwa/owasp-testing-checklist/blob/master/OWASPTestingChecklist_v_1.0.xls)
 
 * [OWASP Mantra](https://www.youtube.com/user/Getmantra/videos)
 
