@@ -1,11 +1,11 @@
 
 Security testing:
-Dynamic testing of web applications against major types of attacks: XSS, SQL Injection, buffer overflows, manipulations of the address bar and source code revealing
-Intrusion (penetration) tests (access control, authentication, input validation, cryptography reliability, error handling)
-Testing of payment mechanisms in different web systems
-Vulnerability testing of system's third-party components
-Security code audit (use of static code analysis tools, manual review of major components of the system, recommendations on improvements, patches, security alerts)
-Server configuration testing (search for errors in multithreaded environments that allow data to be shared or corrupted)
+* Dynamic testing of web applications against major types of attacks: XSS, SQL Injection, buffer overflows, manipulations of the address bar and source code revealing
+* Intrusion (penetration) tests (access control, authentication, input validation, cryptography reliability, error handling)
+* Testing of payment mechanisms in different web systems
+* Vulnerability testing of system's third-party components
+* Security code audit (use of static code analysis tools, manual review of major components of the system, recommendations on improvements, patches, security alerts)
+* Server configuration testing (search for errors in multithreaded environments that allow data to be shared or corrupted)
 
 
 * [Software Security Testing](http://www.slideshare.net/srivinayak/software-security-testing-18056466)
