@@ -9,8 +9,8 @@
   * Build Management
   * Visual Source Control
 * [Software Architecture](https://github.com/ramyrams/SoftwareEngineering/tree/master/SoftwareArchitecture)
+  * OOPS
   * Design Pattern
   * REST/Microservices/Webhooks
-  * OOPS
   * Performance
   * Scalability
