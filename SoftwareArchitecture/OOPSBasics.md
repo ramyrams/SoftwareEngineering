@@ -219,19 +219,50 @@ http://www.maheshsubramaniya.com/article/object-oriented-programming-abstraction
 ![1](http://1.bp.blogspot.com/-VL_9cjhwEE4/UvJN__IvaBI/AAAAAAAABCc/IkDmShgM-Yc/s1600/Association,+Composition+UML.JPG)
 ![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/b1df45/dependency-generalization-association-aggregation-compos/Images/Association6.jpg)
 
+# Association vs Aggregation vs Composition
+![1](http://image.slidesharecdn.com/gofdesignpatterns-130116024923-phpapp02/95/gof-design-patterns-12-638.jpg?cb=1358304776)
+
+
 # Association
 * Association is defined as a structural relationship, that conceptually means that the two components are linked to each other. 
 * This kind of relation is also referred to as a using relationship, where one class instance uses the other class instance or vice-versa, or both may be using each other. 
 * But the main point is, the lifetime of the instances of the two classes are independent of each other and there is no ownership between two classes.
 
+Association is a relationship where all objects have their own lifecycle and there is no owner.
+
+Let’s take an example of Teacher and Student. Multiple students can associate with single teacher and single student can associate with multiple teachers, but there is no ownership between the objects and both have their own lifecycle. Both can be created and deleted independently.
+
+Association - I have a relationship with an object.  Foo uses Bar
+```java
+public class Foo { 
+    void Baz(Bar bar) {
+    } 
+};
+```
+
+![1](https://nirajrules.files.wordpress.com/2011/07/association.png)
 ![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/b1df45/dependency-generalization-association-aggregation-compos/Images/Association1.jpg)
 ![1](http://www.codeproject.com/KB/architecture/330447/relation1.jpg)
 ![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/b1df45/dependency-generalization-association-aggregation-compos/Images/Association.jpg)
 
 # Aggregation
+Aggregation is a specialised form of Association where all objects have their own lifecycle, but there is ownership and child objects can not belong to another parent object.
+
+Let’s take an example of Department and teacher. A single teacher can not belong to multiple departments, but if we delete the department, the teacher object will not be destroyed. We can think about it as a “has-a” relationship.
+
 * The Using relationship with Parent: Aggregation
 * Aggregation is the same as association but with an additional point that there is an ownership of the instances, unlike association where there was no ownership of the instances. 
 
+```java
+public class Foo { 
+    private Bar bar; 
+    Foo(Bar bar) { 
+       this.bar = bar; 
+    }
+}
+```
+
+![1](https://nirajrules.files.wordpress.com/2011/07/aggregation.png)
 ![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/b1df45/dependency-generalization-association-aggregation-compos/Images/Association2.jpg)
 ![1](http://www.codeproject.com/KB/architecture/330447/relation2.jpg)
 ![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/b1df45/dependency-generalization-association-aggregation-compos/Images/Association3.jpg)
@@ -239,6 +270,22 @@ http://www.maheshsubramaniya.com/article/object-oriented-programming-abstraction
 # Composition
 This is the same as that of aggregation, but with the additional point that the lifetime of the child instance is dependent on the owner or the parent class instance. 
 
+Composition is again specialised form of Aggregation and we can call this as a “death” relationship. It is a strong type of Aggregation. Child object does not have its lifecycle and if parent object is deleted, all child objects will also be deleted.
+
+Let’s take again an example of relationship between House and Rooms. House can contain multiple rooms - there is no independent life of room and any room can not belong to two different houses. If we delete the house - room will automatically be deleted.
+
+Let’s take another example relationship between Questions and Options. Single questions can have multiple options and option can not belong to multiple questions. If we delete the questions, options will automatically be deleted.
+
+
+
+```java
+Composition - I own an object and I am responsible for its lifetime, when Foo dies, so does Bar
+public class Foo {
+    private Bar bar = new Bar(); 
+}
+```
+
+![1](https://nirajrules.files.wordpress.com/2011/07/composition.png)
 ![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/b1df45/dependency-generalization-association-aggregation-compos/Images/Association4.jpg)
 ![1](http://www.codeproject.com/KB/architecture/330447/relation3.jpg)
 ![1](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/b1df45/dependency-generalization-association-aggregation-compos/Images/Association5.jpg)
