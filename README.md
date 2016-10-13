@@ -14,3 +14,6 @@
   * REST/Microservices/Webhooks
   * Performance
   * Scalability
+
+
+http://shapingsoftware.com/wp-content/uploads/2008/06/qualityattributesframe-thumb1.gif
