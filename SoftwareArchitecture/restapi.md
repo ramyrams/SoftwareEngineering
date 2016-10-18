@@ -1,9 +1,8 @@
 
 
 * [Understanding of rest](https://scotch.io/bar-talk/a-quick-understanding-of-rest)
-
 * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
-* [REST 101: An Introduction to Restful APIs (Infographic)[https://dzone.com/articles/rest-101-an-introduction-to-restful-apis-infograph)
+* [REST 101: An Introduction to Restful APIs -Infographic](https://dzone.com/articles/rest-101-an-introduction-to-restful-apis-infograph)
 * [Microsoft REST API Guidelines Are Not RESTful](https://www.infoq.com/news/2016/07/microsoft-rest-api)
 * [Soap Vs REST](http://nordicapis.com/rest-vs-soap-nordic-apis-infographic-comparison/)
 * [Securing your APIs with OAuth, OpenID, and OpenID Connect](http://www.slideshare.net/lobster1234/securing-your-apis-with-oauth-openid-and-openid-connect)
