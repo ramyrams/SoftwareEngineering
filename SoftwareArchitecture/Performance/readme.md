@@ -1,4 +1,15 @@
-s
+
+
+
+# Tools
+* [20 Top Server Monitoring & Application Performance Monitoring (APM) Solutions](https://haydenjames.io/20-top-server-monitoring-application-performance-monitoring-apm-solutions/)
+* [14 Tools That Raise Web and App Performance](https://devops.com/2016/04/12/14-tools-raise-web-app-performance/)
+* [.NET Profilers](https://dzone.com/articles/5-good-and-useful-net)
+* [40 Application Performance Management Tools](https://blog.profitbricks.com/application-performance-management-tools/)
+
+
+.NET Performance Troubleshooting
+
 
 
 http://www.guidanceshare.com/wiki/Performance_Engineering
