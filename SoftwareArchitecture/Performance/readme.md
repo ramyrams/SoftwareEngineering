@@ -39,4 +39,4 @@ Application Performance Management
 ![1](http://www.applicationperformancemanagement.org/wp-content/uploads/2012/10/Program-Performance-Monitoring-System.jpg)
 
 
-![1](https://i-msdn.sec.s-msft.com/dynimg/IC7499.gif)
+
