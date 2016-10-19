@@ -40,3 +40,12 @@ Application Performance Management
 
 
 
+https://samsaffron.com/archive/2012/03/23/sam-s-ultimate-web-performance-tools-and-resources
+http://www.webperformance.com/library/reports/load-testing-asp-dot-net/
+
+
+https://www.cms.gov/research-statistics-data-and-systems/cms-information-technology/xlc/downloads/perftestplanresultstemplate.docx
+
+Performance Optimize Your ASP.NET Web App
+https://www.youtube.com/watch?v=hxW74v3h1xY
+
