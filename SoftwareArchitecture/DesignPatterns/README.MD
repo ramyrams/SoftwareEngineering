@@ -131,6 +131,10 @@ Scheduler: Explicitly control when threads may execute single-threaded code.
 # Git Hub
 * [Head First Design Patterns](https://github.com/bethrobson/Head-First-Design-Patterns)
 
+https://en.wikipedia.org/wiki/Architectural_pattern
+https://en.wikipedia.org/wiki/Interaction_design_pattern
+https://en.wikipedia.org/wiki/Software_design_pattern
+
 
 
 * [MVVM Pattern Cheat Sheet and Flow](http://www.alextells.com/wp-content/uploads/2014/08/9fc37cfa186c24407739ebcc3191e014.png)
