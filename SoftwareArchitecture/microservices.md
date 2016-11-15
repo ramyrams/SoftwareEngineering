@@ -41,3 +41,5 @@
 * [Architecting for Continuous Delivery with Microservices Workshop](https://github.com/mstine/archcdms)
 * 
 
+
+http://techbeacon.com/want-develop-great-microservices-reorganize-your-team
