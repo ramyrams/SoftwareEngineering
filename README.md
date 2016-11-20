@@ -14,6 +14,7 @@
   * REST/Microservices/Webhooks
   * Performance
   * Scalability
+  * Data Structures and Algorithms 
 
 
 http://shapingsoftware.com/wp-content/uploads/2008/06/qualityattributesframe-thumb1.gif
