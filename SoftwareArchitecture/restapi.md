@@ -7,6 +7,8 @@
 * [Soap Vs REST](http://nordicapis.com/rest-vs-soap-nordic-apis-infographic-comparison/)
 * [Securing your APIs with OAuth, OpenID, and OpenID Connect](http://www.slideshare.net/lobster1234/securing-your-apis-with-oauth-openid-and-openid-connect)
 
+# https://dzone.com/articles/restful-web-services
+
 
 REST
 * [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
