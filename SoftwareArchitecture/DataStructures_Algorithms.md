@@ -6,6 +6,8 @@ https://blogs.msdn.microsoft.com/jennifer/2015/09/10/how-to-win-a-hackathon-usin
 
 http://www.brpreiss.com/books/opus6/html/page10.html
 
+http://algs4.cs.princeton.edu/24pq/
+
 http://www.slideshare.net/introprogramming/19-algorithms-andcomplexity
 
 http://www.slideshare.net/TelerikAcademy/24-algorithms-complexity-and-data-structures-efficiency-c-fundamentals
