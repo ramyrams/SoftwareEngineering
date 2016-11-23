@@ -18,3 +18,6 @@
 
 
 http://shapingsoftware.com/wp-content/uploads/2008/06/qualityattributesframe-thumb1.gif
+
+
+https://www.linkedin.com/pulse/difference-between-enterprise-architect-versus-solution-murad-yousuf
