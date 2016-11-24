@@ -1,5 +1,6 @@
 
 http://www.hello-startup.net/resources/scalability/
+http://www.slideshare.net/ssachin7/scalability-design-principles-internal-session
 * [A Flock Of Tasty Sources On How To Start Learning High Scalability](http://highscalability.com/blog/2014/11/24/a-flock-of-tasty-sources-on-how-to-start-learning-high-scala.html)
 * [highscalability.com](http://highscalability.com/)
 * [Scaling Your Web App 101: Lessons in Architecture Under Load)[https://blog.hartleybrody.com/scale-load/)
