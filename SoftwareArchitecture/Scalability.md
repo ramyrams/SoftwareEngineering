@@ -2,6 +2,7 @@ http://www.diranieh.com/DistributedDesign_1/Scalability.htm
 http://www.hello-startup.net/resources/scalability/
 http://www.slideshare.net/ssachin7/scalability-design-principles-internal-session
 http://www.slideshare.net/chris.e.richardson/decomposing-applications-for-scalability-and-deployability-april-2012
+https://docs.microsoft.com/en-us/azure/guidance/guidance-web-apps-scalability
 * [A Flock Of Tasty Sources On How To Start Learning High Scalability](http://highscalability.com/blog/2014/11/24/a-flock-of-tasty-sources-on-how-to-start-learning-high-scala.html)
 * [highscalability.com](http://highscalability.com/)
 * [Scaling Your Web App 101: Lessons in Architecture Under Load)[https://blog.hartleybrody.com/scale-load/)
