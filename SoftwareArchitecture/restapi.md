@@ -24,6 +24,15 @@ REST
 * [Design Beautiful REST + JSON APIs](http://www.slideshare.net/stormpath/rest-jsonapis)
 * [REST+JSON API Design - Best Practices for Developers](https://www.youtube.com/watch?v=hdSrT4yjS1g)
 * 
+
+RESTful API Authentication Basics
+https://dzone.com/articles/restful-api-authentication-basics-1
+
+
+https://dzone.com/articles/a-need-for-rest-apis-and-api-development-managemen-1
+A Need for REST APIs and API Development Management
+
+
 ## API Infographic
 ![1](http://www.platform28.com/wp-content/uploads/2015/02/Infographic-3.png))
 ![1](http://d27n205l7rookf.cloudfront.net/wp-content/uploads/2015/01/API-Infographic-Final.jpg)
