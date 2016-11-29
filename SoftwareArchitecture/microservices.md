@@ -41,5 +41,7 @@
 * [Architecting for Continuous Delivery with Microservices Workshop](https://github.com/mstine/archcdms)
 * 
 
+So I’ve been doing microservices
+http://piotrgankiewicz.com/2016/11/28/so-ive-been-doing-microservices/
 
 http://techbeacon.com/want-develop-great-microservices-reorganize-your-team
