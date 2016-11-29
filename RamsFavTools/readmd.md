@@ -55,3 +55,10 @@ https://jsonplaceholder.typicode.com/
 
 ## Test Ground
 * [Digital Ocean](www.digitalocean.com)
+
+
+
+* [Top 8 Free Web Statistics Tools](http://www.hongkiat.com/blog/top-14-free-web-statistics-tools/)
+* [Best Free jQuery Plugins of 2016](https://designmodo.com/free-jquery-plugins-2016/?)
+* [12 Best JavaScript Animation Frameworks](https://codegeekz.com/best-javascript-animation-frameworks/)
+* [15 Interesting JavaScript and CSS Libraries for November 2016](http://tutorialzine.com/2016/11/15-interesting-javascript-and-css-libraries-for-november-2016/)
