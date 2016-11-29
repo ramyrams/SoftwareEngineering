@@ -20,6 +20,10 @@ http://stackify.com/asp-net-performance-tools-you-need-to-know/
 Application Performance Management
 
 
+
+Brief lessons on handling huge traffic spikes
+https://www.troyhunt.com/brief-lessons-on-handling-huge-traffic-spikes/?
+
  - Introduction to Engineering for
    Performance Designing for Performance
    Application Performance and
