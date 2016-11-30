@@ -1,3 +1,5 @@
+
+http://www.slideshare.net/joshclemm/how-linkedin-scaled-a-brief-history/4-First_week_growth_guesses_from
 http://www.diranieh.com/DistributedDesign_1/Scalability.htm
 http://www.hello-startup.net/resources/scalability/
 http://www.slideshare.net/ssachin7/scalability-design-principles-internal-session
