@@ -32,6 +32,7 @@
 
 
 # Microservices Github
+* [Building a Secure, Fast Microservices Architecture From NGINX](https://dzone.com/articles/secure-fast-microservices-architecture-from-nginx)
 * [Examples of microservices](https://github.com/cer/microservices-examples)
 * [Microservices in C# ](https://insidethecpu.com/2015/07/17/microservices-in-c-part-1-building-and-testing/)
 * [Microservices example code using Node.js, Redis, Hapi](https://github.com/jeffbski/microservices)
