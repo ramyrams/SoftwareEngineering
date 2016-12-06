@@ -1,4 +1,6 @@
 
+https://medium.com/flow-ci/a-simple-introduction-to-microservices-a69446d2c211#.itkd8oppz
+
 # Microservices Awesome Collection
 * [Awesome Microservices](https://github.com/mfornos/awesome-microservices)
 * [Collection of information and resources about Microservice Architecture](https://github.com/kittrCZ/microservices)
