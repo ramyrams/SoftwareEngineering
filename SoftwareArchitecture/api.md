@@ -6,3 +6,4 @@
 
 
 
+http://nordicapis.com/legos-api-strategy-resourcing-developers-building-business-case/
