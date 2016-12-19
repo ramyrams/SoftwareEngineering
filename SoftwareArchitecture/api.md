@@ -10,6 +10,7 @@ http://nordicapis.com/legos-api-strategy-resourcing-developers-building-business
 * [API Discovery Tools](https://blog.blendo.co/8-api-discovery-tools/)
 * [API Discovery: 11+ Ways to Find APIs](http://nordicapis.com/api-discovery-11-ways-to-find-apis/)
 * [10 Continuous Integration Tools to Spur API Development](http://nordicapis.com/10-continuous-integration-tools-spur-api-development/)
+* [Tips and Tools for Debugging APIs](http://nordicapis.com/tips-and-tools-for-debugging-apis/)
 
 # API Documentation
 * [Ultimate Guide to 30+ API Documentation Solutions](http://nordicapis.com/ultimate-guide-to-30-api-documentation-solutions/)
@@ -19,6 +20,7 @@ http://nordicapis.com/legos-api-strategy-resourcing-developers-building-business
 # API Design
 * [Designing APIs for Humans](http://nordicapis.com/designing-apis-humans/)
 * [API Design: Building and Enforcing an Internal Style Guide](http://nordicapis.com/api-design-building-and-enforcing-an-internal-style-guide/)
+* [Decouple User Identity from API Design to Build Scalable Microservices](http://nordicapis.com/decouple-user-identity-from-api-design-to-build-scalable-microservices/)
 
 # API Testing
 * [9 Common Errors Made During API Testing](http://nordicapis.com/9-common-errors-made-during-api-testing/)
