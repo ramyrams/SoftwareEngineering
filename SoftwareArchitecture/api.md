@@ -64,3 +64,8 @@ http://nordicapis.com/legos-api-strategy-resourcing-developers-building-business
 * [API Platform Defined: When an API Provider is a Platform](http://nordicapis.com/api-platform-defined-api-provider-is-a-platform/)
 * [Why API Developer Experience Matters More Than Ever](http://nordicapis.com/why-api-developer-experience-matters-more-than-ever/)
 * [Marketing your Public API](http://nordicapis.com/marketing-your-public-api/)
+
+
+# API Policy Management 
+* [Policy Management for APIs, Services, and Apps](http://blog.cobia.net/cobiacomm/2013/04/09/policy-management-for-apis-services-and-apps/)
+* [Policy reference overview](http://docs.apigee.com/api-services/reference/reference-overview-policy)
