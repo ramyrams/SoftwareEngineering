@@ -9,7 +9,7 @@ http://nordicapis.com/legos-api-strategy-resourcing-developers-building-business
 # Tools
 * [API Discovery Tools](https://blog.blendo.co/8-api-discovery-tools/)
 * [API Discovery: 11+ Ways to Find APIs](http://nordicapis.com/api-discovery-11-ways-to-find-apis/)
-
+* [10 Continuous Integration Tools to Spur API Development](http://nordicapis.com/10-continuous-integration-tools-spur-api-development/)
 
 # API Documentation
 * [Ultimate Guide to 30+ API Documentation Solutions](http://nordicapis.com/ultimate-guide-to-30-api-documentation-solutions/)
