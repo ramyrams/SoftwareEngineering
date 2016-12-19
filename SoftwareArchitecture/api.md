@@ -18,6 +18,17 @@ http://nordicapis.com/legos-api-strategy-resourcing-developers-building-business
 * **Availability** – Should be available, scalable and redundant. An API environment can become demanding and the service should be able to deal with any kind of errors, problems or temporary traffic spikes.
 * **Support of Legacy systems**.
 
+
+** To Proxy or not to Proxy?**
+
+The vendors in the API management space provide a number of solutions across the above main categories but that does not mean they support everything. They are implementing their solution in three different ways: **Proxies, Agents or Hybrid**.
+
+API service providers that use the concept of a **Proxy**. Their solution “sits” between the customer and their users and the traffic goes through them. Proxies provide caching capabilities and protection of customer’s back-end infrastructure from traffic spikes. The main criticism they receive is that they increase the cost and bring up privacy and latency issues. Apigee, Mashape and Mashery are examples of such implementations.
+API service providers that use the concept of **agents**. Agents are plugins that integrate with your server. They do not get in the way of the API calls like proxies. As a result they do not introduce network latencies or 3rd-party dependencies. On the other side, features like caching are not easy to implement. 3scale is an example of such implementation.
+API service providers that use a **hybrid** approach. This means you may get an agent and a proxy. For example you may want to use a proxy for the caching and the agent for authentication. Companies like Apigee or 3scale we talked before are also moving to hybrid solutions.
+13 API management tools
+
+
 # API Deployment
 # API Access Control
 # API Version
