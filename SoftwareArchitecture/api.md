@@ -30,3 +30,7 @@ http://nordicapis.com/legos-api-strategy-resourcing-developers-building-business
 # API Security
 * [API Security: The 4 Defenses of The API Stronghold](http://nordicapis.com/api-security-the-4-defenses-of-the-api-stronghold/)
 * [Maintaining API Security in a Continuous Delivery Environment](http://nordicapis.com/maintaining-api-security-in-a-continuous-delivery-environment/)
+
+
+# API Monitor
+* [Monitor the Status of APIs with These 4 Tools](http://nordicapis.com/monitor-the-status-of-apis-with-these-4-tools/)
