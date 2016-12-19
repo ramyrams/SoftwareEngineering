@@ -37,6 +37,7 @@ http://nordicapis.com/legos-api-strategy-resourcing-developers-building-business
 
 # API Monetization
 * [How to Grow and Profit Using a Freemium API Monetization Model](http://nordicapis.com/how-to-grow-and-profit-using-a-freemium-api-monetization-model/)
+* [Top 5 API Monetization Models](http://nordicapis.com/top-5-api-monetization-models/)
 
 # API Monitor
 * [Monitor the Status of APIs with These 4 Tools](http://nordicapis.com/monitor-the-status-of-apis-with-these-4-tools/)
