@@ -22,10 +22,12 @@ http://nordicapis.com/legos-api-strategy-resourcing-developers-building-business
 * [API Design: Building and Enforcing an Internal Style Guide](http://nordicapis.com/api-design-building-and-enforcing-an-internal-style-guide/)
 * [Decouple User Identity from API Design to Build Scalable Microservices](http://nordicapis.com/decouple-user-identity-from-api-design-to-build-scalable-microservices/)
 
+# API Discovery & Assembly
+
 # API Testing
 * [9 Common Errors Made During API Testing](http://nordicapis.com/9-common-errors-made-during-api-testing/)
 
-# API Lifecycle
+# API Lifecycle Mgmt & Governance
 * [API Lifecycle Operations Stage: Marketing Your API](http://nordicapis.com/api-lifecycle-operations-stage-marketing-your-api/)
 * [API Lifecycle Development Stage: Deploying Your API](http://nordicapis.com/api-lifecycle-development/)
 * [API Lifecycle Analysis Stage: Preparing Your Prelaunch API Strategy](http://nordicapis.com/api-lifecycle-analysis-stage-preparing-your-api-strategy-pre-launch/)
@@ -47,6 +49,13 @@ http://nordicapis.com/legos-api-strategy-resourcing-developers-building-business
 # API Analytics
 
 # API Management
+
+# Traffic control & mediation
+# Workload optimization
+
+# Subscription Management
+
+# Lifecycle Mgmt & Governance
 
 # URL
 
@@ -73,3 +82,5 @@ http://nordicapis.com/legos-api-strategy-resourcing-developers-building-business
 # API Policy Management 
 * [Policy Management for APIs, Services, and Apps](http://blog.cobia.net/cobiacomm/2013/04/09/policy-management-for-apis-services-and-apps/)
 * [Policy reference overview](http://docs.apigee.com/api-services/reference/reference-overview-policy)
+
+# API Policy Enforcement
