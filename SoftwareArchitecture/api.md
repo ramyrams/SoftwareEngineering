@@ -7,6 +7,16 @@ http://geekswithblogs.net/JoshReuben/archive/2016/12/15/docker-rest-api-quickref
 http://nordicapis.com/legos-api-strategy-resourcing-developers-building-business-case/
 
 # API Management 
+* **Documentation** – Sounds boring, right? Still, one of the most common problems of developers is figuring out how an API works. Development time is too precious to waste in trial and error of an undocumented API. An API management service has to provide an easy way to read the documentation and enable developers to “try before they buy”. In some cases it is even possible to provide interactive documentation. Simplicity and usability are the keys!
+* **Analytics and Statistics** – It is critical to understand how people use your API and get insights for your business.
+* **Deployment** – Should be flexible and support public or private clouds, on-premises implementations, or combinations.
+* **Developer engagement** – Engaging with your API consumers, developer or partners is important. Getting an easily accessible developer portal will significantly facilitate onboarding.
+* **Sandbox environment** – This feature will increase both the value of an API and its adoption rate. What better than being able to develop and test your code.
+* **Traffic management and caching** abilities.
+* **Security** – APIs carry sensitive data, so it is important to protect the exposed information. The service has to at least provide * **identity and access management** for users and developers.
+* **Monetization **– Provide the capability to monetize your API.
+* **Availability** – Should be available, scalable and redundant. An API environment can become demanding and the service should be able to deal with any kind of errors, problems or temporary traffic spikes.
+* **Support of Legacy systems**.
 
 # API Deployment
 # API Access Control
