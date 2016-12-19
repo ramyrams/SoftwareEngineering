@@ -44,6 +44,10 @@ http://nordicapis.com/legos-api-strategy-resourcing-developers-building-business
 # API Monitor
 * [Monitor the Status of APIs with These 4 Tools](http://nordicapis.com/monitor-the-status-of-apis-with-these-4-tools/)
 
+# API Analytics
+
+# API Management
+
 # URL
 
 * [6 Techniques for 99.999% Uptime](http://nordicapis.com/6-techniques-99-999-uptime/)
