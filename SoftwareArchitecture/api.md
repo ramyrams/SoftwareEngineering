@@ -29,11 +29,14 @@ http://nordicapis.com/legos-api-strategy-resourcing-developers-building-business
 * [API Lifecycle Analysis Stage: Preparing Your Prelaunch API Strategy](http://nordicapis.com/api-lifecycle-analysis-stage-preparing-your-api-strategy-pre-launch/)
 * [Envisioning The Entire API Lifecycle](http://nordicapis.com/envisioning-the-entire-api-lifecycle/)
 
+
 # API Security
 * [API Security: The 4 Defenses of The API Stronghold](http://nordicapis.com/api-security-the-4-defenses-of-the-api-stronghold/)
 * [Maintaining API Security in a Continuous Delivery Environment](http://nordicapis.com/maintaining-api-security-in-a-continuous-delivery-environment/)
 * [Techniques and Technologies to Increase API Security](http://nordicapis.com/building-a-secure-api/)
 
+# API Monetization
+* [How to Grow and Profit Using a Freemium API Monetization Model](http://nordicapis.com/how-to-grow-and-profit-using-a-freemium-api-monetization-model/)
 
 # API Monitor
 * [Monitor the Status of APIs with These 4 Tools](http://nordicapis.com/monitor-the-status-of-apis-with-these-4-tools/)
