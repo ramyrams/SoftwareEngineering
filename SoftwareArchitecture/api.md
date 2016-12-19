@@ -39,6 +39,8 @@ The vendors in the API management space provide a number of solutions across the
 * [API Discovery: 11+ Ways to Find APIs](http://nordicapis.com/api-discovery-11-ways-to-find-apis/)
 * [10 Continuous Integration Tools to Spur API Development](http://nordicapis.com/10-continuous-integration-tools-spur-api-development/)
 * [Tips and Tools for Debugging APIs](http://nordicapis.com/tips-and-tools-for-debugging-apis/)
+* [API Management tools](https://www.developereconomics.com/api-management-tools-how-to-find-the-one-for-you)
+
 
 # API Documentation
 * [Ultimate Guide to 30+ API Documentation Solutions](http://nordicapis.com/ultimate-guide-to-30-api-documentation-solutions/)
