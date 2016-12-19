@@ -8,6 +8,11 @@ http://nordicapis.com/legos-api-strategy-resourcing-developers-building-business
 
 # API Management 
 
+# API Deployment
+# API Access Control
+# API Version
+
+
 # Tools
 * [API Discovery Tools](https://blog.blendo.co/8-api-discovery-tools/)
 * [API Discovery: 11+ Ways to Find APIs](http://nordicapis.com/api-discovery-11-ways-to-find-apis/)
