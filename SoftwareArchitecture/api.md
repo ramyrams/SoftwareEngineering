@@ -18,6 +18,7 @@ http://nordicapis.com/legos-api-strategy-resourcing-developers-building-business
 
 # API Design
 * [Designing APIs for Humans](http://nordicapis.com/designing-apis-humans/)
+* [API Design: Building and Enforcing an Internal Style Guide](http://nordicapis.com/api-design-building-and-enforcing-an-internal-style-guide/)
 
 # API Testing
 * [9 Common Errors Made During API Testing](http://nordicapis.com/9-common-errors-made-during-api-testing/)
