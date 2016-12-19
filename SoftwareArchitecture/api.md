@@ -53,7 +53,7 @@ http://nordicapis.com/legos-api-strategy-resourcing-developers-building-business
 # Traffic control & mediation
 # Workload optimization
 
-# Subscription Management
+# Community & Subscription management
 
 # Lifecycle Mgmt & Governance
 
