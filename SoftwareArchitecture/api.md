@@ -13,7 +13,7 @@ http://nordicapis.com/legos-api-strategy-resourcing-developers-building-business
 * **Developer engagement** – Engaging with your API consumers, developer or partners is important. Getting an easily accessible developer portal will significantly facilitate onboarding.
 * **Sandbox environment** – This feature will increase both the value of an API and its adoption rate. What better than being able to develop and test your code.
 * **Traffic management and caching** abilities.
-* **Security** – APIs carry sensitive data, so it is important to protect the exposed information. The service has to at least provide * **identity and access management** for users and developers.
+* **Security** – APIs carry sensitive data, so it is important to protect the exposed information. The service has to at least provide * * **identity and access management** for users and developers.
 * **Monetization **– Provide the capability to monetize your API.
 * **Availability** – Should be available, scalable and redundant. An API environment can become demanding and the service should be able to deal with any kind of errors, problems or temporary traffic spikes.
 * **Support of Legacy systems**.
