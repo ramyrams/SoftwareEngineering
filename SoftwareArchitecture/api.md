@@ -15,3 +15,8 @@ http://nordicapis.com/legos-api-strategy-resourcing-developers-building-business
 * [Ultimate Guide to 30+ API Documentation Solutions](http://nordicapis.com/ultimate-guide-to-30-api-documentation-solutions/)
 * [The Easiest Ways to Generate API Documentation](http://nordicapis.com/the-easiest-ways-to-generate-api-documentation/)
 * [What is the Difference Between API Documentation, Specification, and Definition?](http://nordicapis.com/difference-api-documentation-specification-definition/)
+
+
+
+# API Testing
+* [9 Common Errors Made During API Testing](http://nordicapis.com/9-common-errors-made-during-api-testing/)
