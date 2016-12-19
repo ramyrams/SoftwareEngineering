@@ -43,3 +43,24 @@ http://nordicapis.com/legos-api-strategy-resourcing-developers-building-business
 
 # API Monitor
 * [Monitor the Status of APIs with These 4 Tools](http://nordicapis.com/monitor-the-status-of-apis-with-these-4-tools/)
+
+# URL
+
+* [6 Techniques for 99.999% Uptime](http://nordicapis.com/6-techniques-99-999-uptime/)
+* [The Core Principles of API Management](http://nordicapis.com/core-principles-api-management/)
+* [Day in the Life of an API Developer Evangelist](http://nordicapis.com/day-in-the-life-of-an-api-developer-evangelist/)
+* [API Gateways to Direct Microservices Architecture](http://nordicapis.com/api-gateways-direct-microservices-architecture/)
+* [Token Design for a Better API Architecture](http://nordicapis.com/token-design-better-api-architecture/)
+* [8 Keys To Creating A Truly Usable API](http://nordicapis.com/8-keys-to-creating-a-truly-usable-api/)
+* [Designing Evolvable APIs for the Web: Formats](http://nordicapis.com/designing-evolvable-apis-for-the-web-formats/)
+* [Description-Agnostic API Development with API Transformer](http://nordicapis.com/optimizing-apis-for-mobile-apps/)
+* [Architecting an API Backend](http://nordicapis.com/architecting-an-api-backend/)
+* [Beautiful UI Design for API Developer Portals](http://nordicapis.com/beautiful-ui-design-for-api-developer-portals/)
+* [5 Benefits of Using Virtualization to Test Your API](http://nordicapis.com/5-benefits-of-using-virtualization-to-test-your-api/)
+* [How To Control User Identity Within Microservices](http://nordicapis.com/how-to-control-user-identity-within-microservices/)
+* [7 Important API Design Lessons](http://nordicapis.com/7-api-design-lessons-world-tour-roundup/)
+* [Equipping Your API With The Right Armor](http://nordicapis.com/api-security-equipping-your-api-with-the-right-armor/)
+* [Success vs. Failure – The Importance of API Metrics](http://nordicapis.com/success-vs-failure-the-importance-of-api-metrics/)
+* [API Platform Defined: When an API Provider is a Platform](http://nordicapis.com/api-platform-defined-api-provider-is-a-platform/)
+* [Why API Developer Experience Matters More Than Ever](http://nordicapis.com/why-api-developer-experience-matters-more-than-ever/)
+* [Marketing your Public API](http://nordicapis.com/marketing-your-public-api/)
