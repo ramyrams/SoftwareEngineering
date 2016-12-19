@@ -25,3 +25,6 @@ http://nordicapis.com/legos-api-strategy-resourcing-developers-building-business
 * [API Lifecycle Operations Stage: Marketing Your API](http://nordicapis.com/api-lifecycle-operations-stage-marketing-your-api/)
 * [API Lifecycle Development Stage: Deploying Your API](http://nordicapis.com/api-lifecycle-development/)
 * [API Lifecycle Analysis Stage: Preparing Your Prelaunch API Strategy](http://nordicapis.com/api-lifecycle-analysis-stage-preparing-your-api-strategy-pre-launch/)
+
+# API Security
+* [API Security: The 4 Defenses of The API Stronghold](http://nordicapis.com/api-security-the-4-defenses-of-the-api-stronghold/)
