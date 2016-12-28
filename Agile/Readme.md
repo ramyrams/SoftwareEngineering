@@ -55,6 +55,14 @@ http://www.yodiz.com/blog/velocity-definition-what-is-velocity-in-agile-scrum-me
 http://www.yodiz.com/blog/scrum-master-and-product-owner-certifications-exam-cost-and-requirements/
 
 
+9 agile development tools for working at warp speed
+http://www.infoworld.com/article/3012610/agile-development/9-agile-development-tools-for-working-at-warp-speed.html
+
+7 tools tuned for agile development success
+http://www.infoworld.com/article/2848872/agile-development/7-tools-tuned-for-agile-development-success.html
+
+
+
 
 http://daily-scrum.com/scrum
 
