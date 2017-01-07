@@ -27,6 +27,9 @@ The vendors in the API management space provide a number of solutions across the
 * API service providers that use the concept of **agents**. Agents are plugins that integrate with your server. They do not get in the way of the API calls like proxies. As a result they do not introduce network latencies or 3rd-party dependencies. On the other side, features like caching are not easy to implement. 3scale is an example of such implementation.
 * API service providers that use a **hybrid** approach. This means you may get an agent and a proxy. For example you may want to use a proxy for the caching and the agent for authentication. Companies like Apigee or 3scale we talked before are also moving to hybrid solutions.
 
+# API Design Guidelines
+* [WSO2 Rest API Design Guidelines](http://wso2.com/whitepapers/wso2-rest-apis-design-guidelines/)
+
 
 
 # API Deployment
