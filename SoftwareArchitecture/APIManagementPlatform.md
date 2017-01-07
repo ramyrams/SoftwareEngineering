@@ -53,7 +53,7 @@
 ## Manage and Scale API Traffic
 * API gateway can act as SSL termination point
 * Separate production and sandbox traffic on different API gateways
-vSupports protocol transformation, data transformation, and API composition
+* Supports protocol transformation, data transformation, and API composition
 * Maps between HTTP(s) and other protocols, such as JMS or writing to file systems
 * Traffic Manager enforces rate limiting and throttling dynamically based on usage quotas and bandwidth quotas
 * Protect API backends with a throttling hard limit
@@ -62,7 +62,6 @@ vSupports protocol transformation, data transformation, and API composition
 * Supports up to 1300 TPS on a single node
 
 ## Monitor and Monetize
-
 * API usage published to pluggable analytics framework (requests, responses, faults, throttling, subscriptions, self-sign ups to name a few)
 * Out-of-the-box support for WSO2 Data Analytics Server and Google Analytics.
 * Provides statistical graphs such as API latency and API usage comparison that help monitor API and application performance
@@ -83,13 +82,12 @@ vSupports protocol transformation, data transformation, and API composition
 * Components usable separately: developer portal can be used to catalog APIs deployed in third-party gateways
 
 ## Easily Deployable in Your Enterprise
-
-Role-based access control for managing users and their authorization levels
-Developer portal can be deployed in DMZ for external access with publisher inside the firewall for private control
-Different user stores for developer-focused portal and internal operations in publisher
-Integrates with enterprise identity systems including LDAP and Microsoft Active Directory
-Gateway can be deployed in DMZ with controlled access to WSO2 Identity Server (for authentication/authorization) and governance database behind firewall
+* Role-based access control for managing users and their authorization levels
+* Developer portal can be deployed in DMZ for external access with publisher inside the firewall for private control
+* Different user stores for developer-focused portal and internal operations in publisher
+* Integrates with enterprise identity systems including LDAP and Microsoft Active Directory
+* Gateway can be deployed in DMZ with controlled access to WSO2 Identity Server (for authentication/authorization) and governance database behind firewall
 
 ## WSO2 Platform Multi-tenancy Support
 * Run a single instance and provide API management to multiple customers, each in their own domain
-Share APIs between different departments in a large enterprise
+* Share APIs between different departments in a large enterprise
