@@ -2,6 +2,9 @@
 
 * [API Management Evaluation](https://wilsonmar.github.io/api-management-evaluation/#coordination)
 
+THE ANATOMY OF AN API MANAGEMENT SOLUTION
+http://www.levvel.io/blog-post/the-anatomy-of-an-api-management-solution/
+
 # API Management Features & Capabilities
 * API Discovery (Catalog, Search and Provisioning)
 * API Security (SSL, PKI, threat protection, schema validation, encryption, signatures, etc)
