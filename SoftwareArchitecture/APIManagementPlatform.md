@@ -63,25 +63,24 @@ vSupports protocol transformation, data transformation, and API composition
 
 ## Monitor and Monetize
 
-API usage published to pluggable analytics framework (requests, responses, faults, throttling, subscriptions, self-sign ups to name a few)
-Out-of-the-box support for WSO2 Data Analytics Server and Google Analytics.
-Provides statistical graphs such as API latency and API usage comparison that help monitor API and application performance
-Ability to analyze logs pertaining to application errors, API deployment stats, login errors, no of API failures, access token errors
-Live log viewer
-Track consumer analytics per API, per API version, per tiers, and per consumer
-Configurable payment schemes to monetize API usage
-Monitor SLA compliance
-Publish your own events and create your own dashboards
+* API usage published to pluggable analytics framework (requests, responses, faults, throttling, subscriptions, self-sign ups to name a few)
+* Out-of-the-box support for WSO2 Data Analytics Server and Google Analytics.
+* Provides statistical graphs such as API latency and API usage comparison that help monitor API and application performance
+* Ability to analyze logs pertaining to application errors, API deployment stats, login errors, no of API failures, access token errors
+* Live log viewer
+* Track consumer analytics per API, per API version, per tiers, and per consumer
+* Configurable payment schemes to monetize API usage
+* Monitor SLA compliance
+* Publish your own events and create your own dashboards
 
 ## Pluggable, Extensible, and Themeable
-
-All components are highly customizable through styling, theming, and code extensions
-Developer portal is implemented with JavaScript/CSS/HTML5 for easy customization and theming
-Responsive design for Developer portal
-All publishing/portal functionality is exposed via a REST API, which allows to create your own portal or automate API deployment through DevOps
-Pluggable to third-party analytics systems and billing systems
-Pluggable to existing user repositories including Microsoft Active Directory, LDAP, databases, or Apache Cassandra
-Components usable separately: developer portal can be used to catalog APIs deployed in third-party gateways
+* All components are highly customizable through styling, theming, and code extensions
+* Developer portal is implemented with JavaScript/CSS/HTML5 for easy customization and theming
+* Responsive design for Developer portal
+* All publishing/portal functionality is exposed via a REST API, which allows to create your own portal or automate API deployment through DevOps
+* Pluggable to third-party analytics systems and billing systems
+* Pluggable to existing user repositories including Microsoft Active Directory, LDAP, databases, or Apache Cassandra
+* Components usable separately: developer portal can be used to catalog APIs deployed in third-party gateways
 
 ## Easily Deployable in Your Enterprise
 
