@@ -1,6 +1,61 @@
 # Features
 
 
+# Features of an API Management service
+* Documentation – Sounds boring, right? Still, one of the most common problems of developers is figuring out how an API works. Development time is too precious to waste in trial and error of an undocumented API. An API management service has to provide an easy way to read the documentation and enable developers to “try before they buy”. In some cases it is even possible to provide interactive documentation. Simplicity and usability are the keys!
+* Analytics and Statistics – It is critical to understand how people use your API and get insights for your business.
+* Deployment – Should be flexible and support public or private clouds, on-premises implementations, or combinations.
+* Developer engagement – Engaging with your API consumers, developer or partners is important. Getting an easily accessible developer portal will significantly facilitate onboarding.
+* Sandbox environment – This feature will increase both the value of an API and its adoption rate. What better than being able to develop and test your code.
+
+# Traffic management and caching abilities.
+* Security – APIs carry sensitive data, so it is important to protect the exposed information. The service has to at least provide identity and access management for users and developers.
+* Monetization – Provide the capability to monetize your API.
+* Availability – Should be available, scalable and redundant. An API environment can become demanding and the service should be able to deal with any kind of errors, problems or temporary traffic spikes.
+
+
+
+
+# API Management Platforms Capabilities
+* API Discovery (Catalog, Search and Provisioning)
+* API Security (SSL, PKI, threat protection, schema validation, encryption, signatures, etc)
+* API Identity (AuthN & AuthZ, API key, OAuth, SAML, LDAP, proprietary IAM, multifactor, token translation & management)
+* API Orchestration (adaptation of multiple services, workflow operations, branching policies, etc.)
+* Uniform interface/proxy to multiple backend messaging protocols (JMS, RMI etc)
+* Developer and App OnBoarding (Client ID/App Key generation, Interactive API console)
+* Community Management (Blogs, Forums, Social features etc)
+* API Lifecycle governance (Versioning)
+* Traffic Mediation (SOAP to REST mediation, data format transformation, legacy application integration)
+* Traffic Shaping( Rate limitation, Caching etc)
+* Analytics & Traffic Monitoring
+* API metering, Billing and Monetization
+* Data Protection(Data encryption, Data masking etc for PCI/PII compliance)
+* Mobile Optimization (Pagination, Compression, JSON etc)
+* Deployment Flexibility (on-premise, cloud, managed service, SaaS, hybrid)
+* Operational Integration (System Monitoring, Clustering, Scalability, Migration)
+* Mobile Integration (support for push notifications, geolocation, streaming protocols)
+* Cloud Integration (SSO to SaaS providers, IaaS integration, SaaS data connectors, hybrid cloud support)
+
+
+
+# Benefits
+* Scalability: You don’t need to worry about the scalability of your resources exposed as APIs as it is implicitly taken care by App42. It also helps manage the traffic to your backend systems with IAM Management by filtering out the API calls as per your settings.
+* API Monitoring: With App42’s detailed analytics, you can see the metrics of your created and published APIs like how they are performing and take the actions accordingly.
+* API Versioning: App42 API Gateway enables you to create new versions of same APIs and keep the previous versions as well to support backward compatibility.
+* API Caching: You can also cache the responses for the configured time (TTL) in order to prevent unnecessary load on your backend systems.
+* Authentication and Authorization: With App42 API Gateway, you get readymade functionalities to apply authentication and authorization policies on your APIs to secure them. You can either choose key based authentication or OAuth.
+* Serverless APIs: In App42 API Gateway you can even create an API without hosting any backend systems. Just write your code and deploy it on the Gateway to expose it in the form of APIs.
+* Pay as you grow: Choose a plan that suits your pocket. Decide your choice by signing up for a 15 day free trial. For more information, please visit our pricing page.
+
+# Key features for an API management platform:
+ * Access control - Generate auth keys, HMAC support, multiple auth methods such as Basic Auth and Oauth2.0 support as well as path-based security. Organisation and key quotas, rate-limiting and throttling.
+* Analytics & Monitoring - Tyk has an Analytics and management dashboard that generates stats on usage, errors and underlying API performance. It also has monitoring suport for various gateway events and quota violations
+* Life-cycle management - Full life-cycle API version management, introduce new versions, expire old versions and mock out developer versions.
+* Developer on-boarding - Out of the box Tyk comes with a full-blown, mobile-optimised API Developer portal to enable self-service, tiered service enrollment. Did I mention it supports Swagger and API Blueprint doc standards?
+* On-premise, hybrid and cloud deployment - Tyk is one of the few solutions that can support a business through all levels of API management growth, from start-ups that want a no-hassle SaaS to enterprises that want to embed Tyk on-premise with seriousl SLA's and support
+
+
+
 ## Design and Prototype APIs
 * Design APIs, gather developers' feedback before implementing (API First Design). Design can be done from the publishing interface or via importing an existing Swagger 2.0 definition
 * Deploy a prototyped API, provide early access to APIs, and get early feedback
