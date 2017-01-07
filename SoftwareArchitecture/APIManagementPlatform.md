@@ -2,6 +2,18 @@
 
 * [API Management Evaluation](https://wilsonmar.github.io/api-management-evaluation/#coordination)
 
+# API Management Features & Capabilities
+* API Discovery (Catalog, Search and Provisioning)
+* API Security (SSL, PKI, threat protection, schema validation, encryption, signatures, etc)
+* API Orchestration (adaptation of multiple services, workflow operations, branching policies, etc.)
+* Developer and App OnBoarding (Client ID/App Key generation, Interactive API console)
+* API Lifecycle governance (Versioning)
+* Traffic Shaping (Rate limitation, Caching etc)
+* Analytics & Traffic Monitoring
+* API metering, Billing and Monetization
+* Data Protection (Data encryption, Data masking etc for PCI/PII compliance)
+* Deployment Flexibility (on-premise, cloud, managed service, SaaS, hybrid)
+
 # Features
 
 
