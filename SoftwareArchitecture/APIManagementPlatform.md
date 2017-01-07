@@ -167,8 +167,9 @@ http://www.levvel.io/blog-post/the-anatomy-of-an-api-management-solution/
 * Share APIs between different departments in a large enterprise
 
 
+[![1](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://live-hl-apigeecom.devportal.apigee.com/sites/default/files/2016-09/OpenAPI_v4.mp4)
 
-![1](https://live-hl-apigeecom.devportal.apigee.com/sites/default/files/2016-09/OpenAPI_v4.mp4)
+
 ![1](https://live-hl-apigeecom.devportal.apigee.com/sites/default/files/2016-09/Soap-to-rest_v1.mp4)
 ![1](https://live-hl-apigeecom.devportal.apigee.com/sites/default/files/2016-09/Tracing_v3_1.mp4)
 ![1](https://live-hl-apigeecom.devportal.apigee.com/sites/default/files/2016-09/product_api_platform_dark.png)
