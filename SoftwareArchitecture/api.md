@@ -122,3 +122,6 @@ The vendors in the API management space provide a number of solutions across the
 * [Policy reference overview](http://docs.apigee.com/api-services/reference/reference-overview-policy)
 
 # API Policy Enforcement
+
+
+![1](http://b.content.wso2.com/sites/all/product-pages/images/apim-overview.png)
