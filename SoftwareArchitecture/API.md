@@ -55,7 +55,7 @@ https://github.com/WhiteHouse/api-standards
 * [10 Continuous Integration Tools to Spur API Development](http://nordicapis.com/10-continuous-integration-tools-spur-api-development/)
 * [Tips and Tools for Debugging APIs](http://nordicapis.com/tips-and-tools-for-debugging-apis/)
 * [API Management tools](https://www.developereconomics.com/api-management-tools-how-to-find-the-one-for-you)
-
+https://restful.io/a-review-of-all-most-common-api-editors-6a720dc4f4e6#
 
 # API Documentation
 * [Ultimate Guide to 30+ API Documentation Solutions](http://nordicapis.com/ultimate-guide-to-30-api-documentation-solutions/)
