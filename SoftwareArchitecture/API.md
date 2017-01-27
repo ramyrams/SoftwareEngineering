@@ -41,6 +41,13 @@ The vendors in the API management space provide a number of solutions across the
 # API Access Control
 # API Version
 
+# API Checklist
+https://zalando.github.io/restful-api-guidelines
+https://pages.apigee.com/rs/351-WXY-166/images/API-54308-ProductBrief_Checklist_V4%20(1).pdf
+http://www.kennethlange.com/posts/The-Ultimate-Checklist-for-REST-APIs.html
+https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
+https://github.com/WhiteHouse/api-standards
+
 
 # Tools
 * [API Discovery Tools](https://blog.blendo.co/8-api-discovery-tools/)
