@@ -96,3 +96,5 @@ http://geekswithblogs.net/gevjen/archive/2016/07/21/186640.aspx
 
 Coaching Agile Teams - 11
 http://geekswithblogs.net/gevjen/archive/2016/08/10/188896.aspx
+
+![1](http://3.bp.blogspot.com/_eLjlRzp-56o/Ri1myjo9GqI/AAAAAAAAADc/LnEJ71rmmhc/s400/pmpProcess.gif)
