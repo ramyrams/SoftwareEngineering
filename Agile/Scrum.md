@@ -21,6 +21,10 @@ An Introduction to Cost of Delay
 7 Rules For Running Effective Meetings
 http://www.allaboutagile.com/7-rules-for-running-effective-meetings/
 
+
+100 Powerful Agile Techniques to Conquer All Projects
+http://pm-training.net/agile-development-methodology-wiki/100agiletechniques/
+
 http://www.conceptdraw.com/samples/project-management-scrum-workflow
 http://www.flashissue.com/blog/agile-scrum-in-infographic-pictures/
 https://scalingsoftwareagility.wordpress.com/tag/scaled-agile-frameworkbig-picture/
