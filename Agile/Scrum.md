@@ -15,6 +15,12 @@ http://www.allaboutagile.com/splitting-user-stories/
 Lifecycle of a User Story
 http://www.allaboutagile.com/lifecycle-of-a-user-story/
 
+
+An Introduction to Cost of Delay
+
+7 Rules For Running Effective Meetings
+http://www.allaboutagile.com/7-rules-for-running-effective-meetings/
+
 http://www.conceptdraw.com/samples/project-management-scrum-workflow
 http://www.flashissue.com/blog/agile-scrum-in-infographic-pictures/
 https://scalingsoftwareagility.wordpress.com/tag/scaled-agile-frameworkbig-picture/
