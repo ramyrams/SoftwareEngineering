@@ -73,6 +73,15 @@ https://scalingsoftwareagility.wordpress.com/tag/scaled-agile-frameworkbig-pictu
 https://www.visualstudio.com/en-us/docs/work/scale/scaled-agile-framework
 
 
+
+
+
+
+
+How Detailed Should Tasks Be in a User Story?
+http://www.allaboutagile.com/how-detailed-should-tasks-be-in-a-user-story/
+
+
 https://less.works/
 
 https://less.works/resources/xLeSS-overview-diagram.png.pagespeed.ic.odoMiXw2o1.webp
