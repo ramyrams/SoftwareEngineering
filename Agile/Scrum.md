@@ -43,6 +43,11 @@ http://www.allaboutagile.com/calculating-velocity-faq/
 List of Agile Team Exercises
 http://www.allaboutagile.com/list-of-agile-team-exercises/
 
+21 TIPS ON CHOOSING A SPRINT LENGTH
+http://www.agileadvice.com/2014/06/12/howtoapplyagile/21-tips-on-choosing-a-sprint-length/
+
+
+
 http://www.conceptdraw.com/samples/project-management-scrum-workflow
 http://www.flashissue.com/blog/agile-scrum-in-infographic-pictures/
 https://scalingsoftwareagility.wordpress.com/tag/scaled-agile-frameworkbig-picture/
