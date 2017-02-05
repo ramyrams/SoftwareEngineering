@@ -34,6 +34,9 @@ http://www.allaboutagile.com/what-is-culture-and-do-we-start-to-change-it/
 10 Tips for Better Story Estimation
 
 
+
+Acceptance Criteria
+http://www.allaboutagile.com/acceptance-criteria/
 http://www.allaboutagile.com/10-tips-for-better-story-estimation/
 
 Calculating Velocity FAQ
