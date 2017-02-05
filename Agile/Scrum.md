@@ -36,6 +36,9 @@ http://www.allaboutagile.com/what-is-culture-and-do-we-start-to-change-it/
 
 http://www.allaboutagile.com/10-tips-for-better-story-estimation/
 
+Calculating Velocity FAQ
+http://www.allaboutagile.com/calculating-velocity-faq/
+
 
 List of Agile Team Exercises
 http://www.allaboutagile.com/list-of-agile-team-exercises/
