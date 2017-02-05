@@ -10,6 +10,11 @@ http://www.allaboutagile.com/how-it-works-user-stories/
 Splitting User Stories
 http://www.allaboutagile.com/splitting-user-stories/
 
+
+
+Lifecycle of a User Story
+http://www.allaboutagile.com/lifecycle-of-a-user-story/
+
 http://www.conceptdraw.com/samples/project-management-scrum-workflow
 http://www.flashissue.com/blog/agile-scrum-in-infographic-pictures/
 https://scalingsoftwareagility.wordpress.com/tag/scaled-agile-frameworkbig-picture/
