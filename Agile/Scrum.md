@@ -59,6 +59,8 @@ http://signup.scrumteamassessment.com/
 The ScrumMaster is Responsible for What Artifacts?
 http://www.allaboutagile.com/the-scrummaster-is-responsible-for-what-artifacts/
 
+http://www.allaboutagile.com/a-list-summarising-scrum/
+
 
 Defining Ready and Done
 http://www.allaboutagile.com/defining-ready-and-done/
