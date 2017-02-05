@@ -28,6 +28,12 @@ http://pm-training.net/agile-development-methodology-wiki/100agiletechniques/
 How do we estimate?
 http://www.allaboutagile.com/how-do-we-estimate/
 
+What is culture? And do we start to change it?
+http://www.allaboutagile.com/what-is-culture-and-do-we-start-to-change-it/
+
+10 Tips for Better Story Estimation
+
+
 http://www.conceptdraw.com/samples/project-management-scrum-workflow
 http://www.flashissue.com/blog/agile-scrum-in-infographic-pictures/
 https://scalingsoftwareagility.wordpress.com/tag/scaled-agile-frameworkbig-picture/
