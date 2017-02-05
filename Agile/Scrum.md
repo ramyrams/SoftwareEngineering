@@ -2,6 +2,12 @@
 Retrospective Technique: What Did You Learn?
 http://www.allaboutagile.com/retrospective-technique-what-did-you-learn/
 
+
+
+How It Works: User Stories
+http://www.allaboutagile.com/how-it-works-user-stories/
+
+
 http://www.conceptdraw.com/samples/project-management-scrum-workflow
 http://www.flashissue.com/blog/agile-scrum-in-infographic-pictures/
 https://scalingsoftwareagility.wordpress.com/tag/scaled-agile-frameworkbig-picture/
