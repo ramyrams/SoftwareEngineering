@@ -47,6 +47,12 @@ http://www.allaboutagile.com/list-of-agile-team-exercises/
 http://www.agileadvice.com/2014/06/12/howtoapplyagile/21-tips-on-choosing-a-sprint-length/
 
 
+RULES OF SCRUM
+http://www.agileadvice.com/rules-of-scrum/
+
+
+http://signup.scrumteamassessment.com/
+
 
 http://www.conceptdraw.com/samples/project-management-scrum-workflow
 http://www.flashissue.com/blog/agile-scrum-in-infographic-pictures/
