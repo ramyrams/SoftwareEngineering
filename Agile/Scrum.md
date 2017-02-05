@@ -34,6 +34,12 @@ http://www.allaboutagile.com/what-is-culture-and-do-we-start-to-change-it/
 10 Tips for Better Story Estimation
 
 
+http://www.allaboutagile.com/10-tips-for-better-story-estimation/
+
+
+List of Agile Team Exercises
+http://www.allaboutagile.com/list-of-agile-team-exercises/
+
 http://www.conceptdraw.com/samples/project-management-scrum-workflow
 http://www.flashissue.com/blog/agile-scrum-in-infographic-pictures/
 https://scalingsoftwareagility.wordpress.com/tag/scaled-agile-frameworkbig-picture/
