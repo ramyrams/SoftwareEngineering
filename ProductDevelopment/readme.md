@@ -37,3 +37,5 @@ http://www.jrothman.com/mpd/2016/06/product-owners-and-learning-part-5/
 
 
 http://sdtimes.com/what-exactly-are-requirements/
+
+https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2017/02/1486092260image_1.png
