@@ -230,3 +230,4 @@ http://www.levvel.io/blog-post/the-anatomy-of-an-api-management-solution/
 ![1](https://live-hl-apigeecom.devportal.apigee.com/sites/default/files/2016-09/dev_6_0.png)
 ![1](https://live-hl-apigeecom.devportal.apigee.com/sites/default/files/2016-09/product_api_product.png)
 ![1](https://live-hl-apigeecom.devportal.apigee.com/sites/default/files/2016-09/API-Performance_5.png)
+![1](https://azurecomcdn.azureedge.net/cvt-1b80f434d20ca0d61226469e2158d4dc94894a3bca6b2bd6a82251024a237a39/images/page/services/api-management/api-management-diagram.png)
