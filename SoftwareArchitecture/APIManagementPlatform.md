@@ -2,6 +2,47 @@
 * Integrate and Create
   * API Implementation
     * API Connectivity
+	* Drag & Drop API Creation 
+	* Adaptation 
+	* Orchestration 
+  * API Runtime
+	* Event Processing 
+	* Traffic Management 
+	* Aggregation 
+	* Caching/Compression  
+	* Remote management of APIs  
+	* Centrally update polices  
+
+* Secure the open enterprise
+  * API Protection
+	* OWASP Vulnerabilities  
+	* Security SDKs  
+	* Mobile/IoT Security  
+  * API Access Control
+	* Authorization/SSO  
+	* Risk-based Access  
+	* OAuth/OpenID Connect  
+	* Security Firewalling  
+  * Accelerate Development
+	* API Discovery/Portal  
+	* Collaboration Tools & Codegen  
+	* Documentation  
+  * API Development
+	* Mobile/IoT Services  
+	* Mobile Security  
+	* Secure Offline Data Storage  
+	* Messaging/Pub-Sub  
+
+* Unlock the Value of Data
+  * API Intelligence
+	* Performance Analytics  
+	* Business Analytics  
+	* 	Mobile App Analytics  
+  * API Monetization
+	* User Account Management 
+	* Organizational Account Management 
+	* API Key Mgmt. / API Provisioning 
+	* Billing Integration
     
 
 * [API Management Evaluation](https://wilsonmar.github.io/api-management-evaluation/#coordination)
