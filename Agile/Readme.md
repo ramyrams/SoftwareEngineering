@@ -105,4 +105,4 @@ http://geekswithblogs.net/gevjen/archive/2016/08/10/188896.aspx
 ![1](http://images.techhive.com/images/idge/imported/article/cio/2014/02/05/020414_agile-100339949-orig.jpg)
 ![1](https://s-media-cache-ak0.pinimg.com/564x/10/d5/31/10d531b3fb72c346c0ec54c13ee26a58.jpg)
 ![1](https://msdnshared.blob.core.windows.net/media/TNBlogsFS/BlogFileStorage/blogs_msdn/willy-peter_schaub/WindowsLiveWriter/AttendingaScrummastertrainingcourseaneve_1417C/image_thumb.png)
-![1]https://msdnshared.blob.core.windows.net/media/TNBlogsFS/BlogFileStorage/blogs_msdn/willy-peter_schaub/WindowsLiveWriter/AttendingaScrummastertrainingcourseaneve_1417C/image_thumb.png)
+![1](https://msdnshared.blob.core.windows.net/media/TNBlogsFS/BlogFileStorage/blogs_msdn/willy-peter_schaub/WindowsLiveWriter/AttendingaScrummastertrainingcourseaneve_1417C/image_thumb.png)
