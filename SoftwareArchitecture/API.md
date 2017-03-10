@@ -1,4 +1,6 @@
 
+![1](http://blogs.ca.com/wp-content/uploads/2017/01/API-Infinity-diagram-for-David-Chiu-blog-1024x576.jpg)
+
 * [Web API Design](https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf)
 * [APIs For Dummies Apigee Special Edition](http://developer.pearson.com/sites/default/files/apigee-APIs-for-Dummies-eBook-2016-01.pdf)
 * [APIs For Dummies IBM Special Edition](ftp://public.dhe.ibm.com/software/uk/pdf/api-service/WSM14025USEN.pdf)
