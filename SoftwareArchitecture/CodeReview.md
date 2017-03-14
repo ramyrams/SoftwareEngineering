@@ -23,5 +23,6 @@ https://blog.fogcreek.com/effective-code-reviews-9-tips-from-a-converted-skeptic
 https://blog.fogcreek.com/increase-defect-detection-with-our-code-review-checklist-example/
 https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/
 
+* [Giving better code reviews](https://medium.com/@mrjoelkemp/giving-better-code-reviews-16109e0fdd36#.q3q6w95uu)
 
 http://smartbear.com/SmartBear/media/pdfs/best-kept-secrets-of-peer-code-review.pdf
