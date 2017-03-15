@@ -10,11 +10,6 @@ Adding rounded corners to images and cropping images to circles
 *[How to analyze your website's images, improve loading speed and reduce bandwidth costs](http://cloudinary.com/blog/how_to_analyze_your_website_s_images_improve_loading_speed_and_reduce_bandwidth_costs)
 
 
-http://cloudinary.com/blog/are_you_guilty_of_making_these_mistakes_when_handling_images_on_your_website
-http://cloudinary.com/blog/top_10_mistakes_in_handling_website_images_and_how_to_solve_them
-http://cloudinary.com/blog/reduce_site_load_time_with_multiple_cdn_sub_domains
-http://cloudinary.com/blog/delivering_all_your_websites_images_through_a_cdn
-http://cloudinary.com/blog/cloudinary_as_the_server_side_for_javascript_image_cropping_libraries
 http://cloudinary.com/blog/centralized_control_for_image_upload_image_size_format_thumbnail_generation_tagging_and_more
 http://cloudinary.com/blog/how_to_automatically_migrate_all_your_images_to_the_cloud
 http://cloudinary.com/blog/on_the_fly_image_manipulations_secured_with_signed_urls
@@ -30,3 +25,34 @@ http://cloudinary.com/blog/how_to_use_conditions_to_dynamically_manipulate_image
 http://cloudinary.com/blog/painless_image_and_video_manipulation_with_javascript
 http://cloudinary.com/blog/introducing_intelligent_responsive_image_breakpoints_solutions
 http://cloudinary.com/blog/how_to_get_media_to_load_faster_on_your_website
+
+
+http://cloudinary.com/blog/image_loading_reloaded
+http://cloudinary.com/blog/why_we_moved_from_an_in_house_image_management_system_to_cloudinary
+http://cloudinary.com/blog/4_image_management_best_practices
+
+http://cloudinary.com/blog/responsive_images_guide_part_2_variable_image_resolution
+
+http://cloudinary.com/blog/image_video_gone_serverless
+
+http://cloudinary.com/blog/how_to_select_the_perfect_image_format
+
+http://cloudinary.com/blog/responsive_images_guide_part_1_what_does_it_mean_for_an_image_to_be_responsive
+
+http://cloudinary.com/blog/adaptive_browser_based_image_format_delivery
+
+http://cloudinary.com/blog/the_laughable_curve_optimizing_your_media_and_maximizing_revenue
+
+http://cloudinary.com/blog/simplifying_the_delivery_of_video_content
+
+http://cloudinary.com/blog/jason_grigsby_on_responsive_images_gazing_into_the_crystal_ball
+
+http://cloudinary.com/blog/manage_thousands_of_images_with_multiple_versions_across_all_of_your_web_properties
+
+http://cloudinary.com/blog/jason_grigsby_on_responsive_images_where_it_all_started
+
+http://cloudinary.com/blog/are_you_guilty_of_making_these_mistakes_when_handling_images_on_your_website
+http://cloudinary.com/blog/top_10_mistakes_in_handling_website_images_and_how_to_solve_them
+http://cloudinary.com/blog/reduce_site_load_time_with_multiple_cdn_sub_domains
+http://cloudinary.com/blog/delivering_all_your_websites_images_through_a_cdn
+http://cloudinary.com/blog/cloudinary_as_the_server_side_for_javascript_image_cropping_libraries
