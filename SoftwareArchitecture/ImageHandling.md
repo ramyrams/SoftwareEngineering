@@ -79,3 +79,101 @@ http://cloudinary.com/blog/top_10_mistakes_in_handling_website_images_and_how_to
 http://cloudinary.com/blog/reduce_site_load_time_with_multiple_cdn_sub_domains
 http://cloudinary.com/blog/delivering_all_your_websites_images_through_a_cdn
 http://cloudinary.com/blog/cloudinary_as_the_server_side_for_javascript_image_cropping_libraries
+
+Automatic image categorization and tagging with Imagga
+http://cloudinary.com/blog/automatic_image_categorization_and_tagging_with_imagga
+
+5 ways to optimize images for effective Facebook sharing
+http://cloudinary.com/blog/5_ways_to_optimize_images_for_effective_facebook_sharing
+
+Video transcoding, resizing, cropping and manipulating made easy
+http://cloudinary.com/blog/video_transcoding_resizing_cropping_and_manipulating_made_easy
+
+How to automatically create images for Responsive design
+http://cloudinary.com/blog/how_to_automatically_create_images_for_responsive_design
+
+How to control the zoom level with automatic face detection based image cropping
+http://cloudinary.com/blog/how_to_control_the_zoom_level_with_automatic_face_detection_based_image_cropping
+
+Introducing cloud-based service for video upload, real-time manipulation and optimized viewing
+http://cloudinary.com/blog/introducing_cloud_based_service_for_video_upload_real_time_manipulation_and_optimized_viewing
+
+How to automatically tag and categorize photos according to their content
+http://cloudinary.com/blog/how_to_automatically_tag_and_categorize_photos_according_to_their_content
+
+Centralized control for image upload - image size, format, thumbnail generation, tagging and more
+http://cloudinary.com/blog/centralized_control_for_image_upload_image_size_format_thumbnail_generation_tagging_and_more
+
+Image moderation made easy using cloud-based UI and API
+http://cloudinary.com/blog/image_moderation_made_easy_using_cloud_based_ui_and_api
+
+Beyond face detection - smart cropping in the cloud using Imagga and Cloudinary
+http://cloudinary.com/blog/beyond_face_detection_smart_cropping_in_the_cloud_using_imagga_and_cloudinary
+
+How to automatically migrate all your images to the cloud
+http://cloudinary.com/blog/how_to_automatically_migrate_all_your_images_to_the_cloud
+
+How to analyze your website's images, improve loading speed and reduce bandwidth costs
+http://cloudinary.com/blog/how_to_analyze_your_website_s_images_improve_loading_speed_and_reduce_bandwidth_costs
+
+How to build a real-time photo sharing website in a few easy steps
+http://cloudinary.com/blog/how_to_build_a_real_time_photo_sharing_website_in_a_few_easy_steps
+
+How to manage images in a fashion website
+http://cloudinary.com/blog/how_to_manage_images_in_a_fashion_website
+
+Webhooks, upload notifications and background image processing
+http://cloudinary.com/blog/webhooks_upload_notifications_and_background_image_processing
+
+Automatic image sharpening and blurring in the cloud
+http://cloudinary.com/blog/automatic_image_sharpening_and_blurring_in_the_cloud
+
+
+Top 10 mistakes in handling website images and how to solve them
+http://cloudinary.com/blog/top_10_mistakes_in_handling_website_images_and_how_to_solve_them
+
+Image opacity manipulation and dynamic watermark generation
+http://cloudinary.com/blog/image_opacity_manipulation_and_dynamic_watermark_generation
+
+
+
+RESTful API for managing your website's images and other online assets
+http://cloudinary.com/blog/restful_api_for_managing_your_website_s_images_and_other_online_assets
+
+Automatic and custom image rotation
+http://cloudinary.com/blog/automatic_and_custom_image_rotation
+
+
+Placeholder images and Gravatar integration with Cloudinary
+http://cloudinary.com/blog/placeholder_images_and_gravatar_integration_with_cloudinary
+
+Adding watermarks, credits, badges and text overlays to images
+http://cloudinary.com/blog/adding_watermarks_credits_badges_and_text_overlays_to_images
+
+
+Reduce site load time with multiple CDN sub-domains
+http://cloudinary.com/blog/reduce_site_load_time_with_multiple_cdn_sub_domains
+
+Delivering all your websites’ images through a CDN
+http://cloudinary.com/blog/delivering_all_your_websites_images_through_a_cdn
+
+Face detection based cropping
+http://cloudinary.com/blog/face_detection_based_cropping
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
