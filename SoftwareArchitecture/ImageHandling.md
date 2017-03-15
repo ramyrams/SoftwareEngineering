@@ -3,6 +3,114 @@ How to use conditions to dynamically manipulate images
 How to get media to load faster on your website
 Adding rounded corners to images and cropping images to circles
 
+* Upload images to a cloud-based storage
+  * Fast image uploads: secure upload API, version management, remote upload from public URLs, direct uploading from the browser, image transformation on upload, private images support.
+  * Safe high-end storage, leveraging Amazon S3.
+
+* Automatic backup and revision tracking
+  * Secure redundant backup of all original images uploaded to Cloudinary.
+  * Access historical versions of the same resource.
+
+* Tons of image manipulations & effects    
+  * Cloud-based image transformations, lazy transformations on demand, eager transformations while uploading, named transformations.
+  * Format conversion, rounded corners, opacity manipulation, image flipping, image borders, arbitrary image rotation, automatic rotation based on aspect-ratio or EXIF data.
+  * Image filters & effects: grayscale, black & white, sepia, brightness, contrast, saturation, hue, oil paint, vignette and pixelate, gradient fade, blur, improve, tilt shift, sharpen, color channels, vibrance, fill light and more.
+  * Supported formats: JPG, PNG, GIF, BMP, TIFF, ICO, PDF, EPS, PSD, SVG, AI, DjVu, WebP, JPEG-XR, JPEG 2000, FLIF.
+  * Chain multiple transformations together.
+
+* Smart resizing & face detection based thumbnails
+  * Image cropping, filling, fitting, padding, scaling, limiting.
+  * Percentage based resizing, custom coordinates and gravity based cropping. Circles & ellipses cropping.
+  * Face detection based image cropping and multiple faces detection.
+
+* Text overlays and image overlays
+  * Embed multiple images one on top of the other, create watermarks, collages and complex effects.
+  * Embed text on top of your images, add textual captions, attributions or copyright notices. Dynamically build advertisement banners with variable content, coupons, greeting cards, business cards and more. Choose from hundreds of available fonts or use your own custom font.
+
+* Video management, manipulation, optimization & delivery
+  * API for uploading videos from your back-end application or directly from the browser or mobile application.
+  * Automatic video format conversion and normalization for optimized view on all web browsers and mobile devices.
+  * Rich set of video manipulation capabilities: scale up or down, crop, rotate, modify quality, video codec settings, bit rate control, video cutting, thumbnail generation, conversion to animated GIF and lots more.
+  * Dynamic delivery URLs with on-the-fly conversion, real-time manipulation while streaming video content.
+  * Worldwide CDN delivery with streaming support for best performance.
+  * Interactive Media Library for browsing through your video files.
+  * SDKs for all popular web and mobile development frameworks for easy integration with HTML5 sites and mobile apps.
+  * Many supported video containers and codecs, including: mp4, webm, flv, mov, ogv, 3gp, 3g2, wmv, mpeg, avi.
+
+* PDFs, sprites, animated GIFs, profile pictures
+  * PDF to image conversion and thumbnail generation, multi-page PDF support, create PDF from separate images.
+  * Sprite generation: merge multiple images into a single image (sprite), automatic CSS generation. Batch transformation of multiple sprite members.
+  * Animated GIFs: Resize, crop and apply effects on animated GIFs. Generate animated GIFs from multiple images. Extract a single frame from an animated GIF.
+  * Social networks profile extraction, smart cropping of profile pictures, placeholder default image support and automatic refresh of profile pictures. Supported networks - Facebook, Twitter, Google+, Instagram, Gravatar.
+  * Video thumbnail extraction from popular video sites: YouTube, Hulu, Vimeo, Animoto, Dailymotion
+
+* Fast CDN delivery with advanced caching
+  * High performance delivery through CDN. Multiple CDN support - Amazon CloudFront and Akamai. Virtually limitless scale.
+  * Public HTTP and secure HTTPS access to resources, multiple CDN sub-domains support and smart cache settings.
+
+* Automatic image optimization
+  * Automatic lossless PNG, JPG, SVG and GIF (including animated GIF) size optimization. Automatic WebP delivery on supported browsers. Dynamic JPG quality control. Automatic stripping of image metadata.
+
+* Powerful dashboard and online reports
+  * Advanced management console and analytics. Detailed reports and actionable usage insights.
+
+* Online DAM and media library
+  * Complete online Digital Asset Management solution with both interactive and full API access. Upload images individually or in bulk, browse existing images, tag images, view and edit image metadata and more.
+
+* RESTful APIs, intuitive URL based transformations
+  * Secure RESTful APIs: image upload API, raw files upload API, image tag management API, dynamic URL based API and administration & backoffice API.
+
+* Image metadata and semantic data extraction
+  * Easy access to image's Exif, IPTC and XMP information.
+  * Semantic data extraction: predominant colors detection, color histogram and coordinates of detected faces.
+
+* Image moderation
+  * Cloudinary includes a complete manual image moderation solution to fit into your existing image management pipeline. The service includes a UI console to view and moderate selected uploaded images, and API access to the moderation queues with relevant callbacks.
+
+* Integration SDKs for web & mobile frameworks
+  * Ruby on Rails integration: open source GEM library, CarrierWave plugin, ActiveRecord integration, view helper methods, fast migration tool, replacing RMagick, MiniMagick, ImageMagick and other misspelled magics.
+  * Python and Django: open source Python library, PyPI package available, template helper methods.
+  * Node.js: open source Node.js library, NPM package available, view building helper functions.
+  * PHP: open source PHP library, full sample projects available, view helper methods.
+  * .NET: open source .NET library, NuGet package available, view helper methods.
+  * Javascript and jQuery: open source jQuery plugin, client-side image transformation support, direct upload from browser to Cloudinary.
+  * AngularJS: open source Angular plugin.
+  * Perl: open source Perl library, Mojolicious integration.
+  * Java: open source Java library.
+  * Scala: open source Scala library.
+  * iOS: open source iOS SDK, safe mobile upload support.
+  * Android: open source Android SDK.
+  * PaaS integration add-ons: Heroku, Window Azure, EngineYard, AppFog, cloudControl.
+
+* Support - forums, tickets, email, online chat
+    
+* Third party add-ons
+  * Cloudinary takes care of your entire image management pipeline. With Cloudinary Add-ons, you can enhance your images even further with powerful functionality.
+  * Cloudinary's add-ons enable automatic image moderation, image categorization, smarter cropping, advanced image compression, face attributes detection, website screenshot generation and more, through a single click integration.
+  * All add-ons are available via simple Cloudinary API calls without requiring separate manual integration with each external service, delivering a seamless image rich web and mobile experience.
+
+* Backup to your own S3 bucket
+    
+* Role-based multi-user administration
+  * Give multiple users access to your Cloudinary online administration console. Users can be associated with four different roles: Admin, Technical Admin, Billing, Editor. Non-admin users have limited access to different areas of the online console based on their roles.
+  * User administration can be used in conjunction with our multi-account support to manage all your Cloudinary users and brands from a single online management console.
+
+* Dedicated CDN Distribution
+
+* Dedicated S3 buckets
+  
+* Custom domain (CNAME) support
+  * You can serve images via your own domain name instead of via res.cloudinary.com using the CNAME feature.
+  * Serving HTTP traffic is included by default. Serving HTTPS secure traffic on your custom CNAME requires an additional fee, which varies depending on the type of SSL certificate you need.
+
+* Authenticated URLs
+
+* Store assets on your own AWS S3
+  
+* Leverage your existing CDN account (e.g., Akamai)
+
+
+
 *[]()
 
 *[Face detection based cropping](http://cloudinary.com/blog/face_detection_based_cropping)
