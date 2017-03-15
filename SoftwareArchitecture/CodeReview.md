@@ -25,4 +25,16 @@ https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/
 
 * [Giving better code reviews](https://medium.com/@mrjoelkemp/giving-better-code-reviews-16109e0fdd36#.q3q6w95uu)
 
+Automatic comments on Pull Requests
+Multi-branch analysis
+Code duplication tracking
+Identify refactoring opportunities
+Technical debt management
+Code coverage tracking
+Security code analysis
+Slack, HipChat, JIRA/YouTrack integration
+
+https://www.codacy.com/product
+https://www.codacy.com/features
+
 http://smartbear.com/SmartBear/media/pdfs/best-kept-secrets-of-peer-code-review.pdf
