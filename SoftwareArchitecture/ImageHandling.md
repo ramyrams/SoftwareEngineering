@@ -160,6 +160,12 @@ http://cloudinary.com/blog/manage_thousands_of_images_with_multiple_versions_acr
 http://cloudinary.com/blog/jason_grigsby_on_responsive_images_where_it_all_started
 http://cloudinary.com/blog/how_to_analyze_image_delivery_issues
 
+
+http://cloudinary.com/blog/on_the_fly_image_manipulations_secured_with_signed_urls
+
+http://cloudinary.com/blog/protecting_images_and_videos_via_cookie_based_authentication
+
+
 http://cloudinary.com/blog/facial_attribute_detection_with_microsoft_s_face_api
 http://cloudinary.com/blog/how_to_use_conditions_to_dynamically_manipulate_images
 http://cloudinary.com/blog/what_matters_most_to_web_users_might_surprise_you
