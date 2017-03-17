@@ -1,3 +1,4 @@
+# Crosscutting Concerns
 
 * Authentication
 * Authorization
@@ -9,5 +10,4 @@
 * State Management
 * Validation
 
-Crosscutting Concerns
-https://msdn.microsoft.com/en-us/library/ee658105.aspx
+* [Crosscutting Concerns](https://msdn.microsoft.com/en-us/library/ee658105.aspx)
