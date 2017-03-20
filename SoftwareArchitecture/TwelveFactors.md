@@ -36,8 +36,5 @@
 14. Telemetry
 15. Authentication and authorization
 
-https://content.pivotal.io/blog/beyond-the-twelve-factor-app
-
-
-
+* How the 12-Factor App Methodology Streamlines Application Development](https://content.pivotal.io/blog/beyond-the-twelve-factor-app)
 * [12-Factor App Methodology](https://www.joomlatools.com/developer/platform/12-factor-app/)
