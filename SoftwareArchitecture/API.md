@@ -5,6 +5,8 @@
 * [APIs For Dummies Apigee Special Edition](http://developer.pearson.com/sites/default/files/apigee-APIs-for-Dummies-eBook-2016-01.pdf)
 * [APIs For Dummies IBM Special Edition](ftp://public.dhe.ibm.com/software/uk/pdf/api-service/WSM14025USEN.pdf)
 
+https://theamiableapi.com/page/2/
+
 http://geekswithblogs.net/JoshReuben/archive/2016/12/15/docker-rest-api-quickref.aspx
 http://nordicapis.com/legos-api-strategy-resourcing-developers-building-business-case/
 
