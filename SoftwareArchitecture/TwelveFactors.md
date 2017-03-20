@@ -19,7 +19,7 @@
 12. Admin processes
 
 
-# Beyond the Twelve-Factor Application
+# Beyond the Twelve-Factor [Application](https://thenewstack.io/12-factor-app-streamlines-application-development/)
 1. One codebase, one application
 2. API first
 3. Dependency management
@@ -38,6 +38,6 @@
 
 https://content.pivotal.io/blog/beyond-the-twelve-factor-app
 
-https://thenewstack.io/12-factor-app-streamlines-application-development/
+
 
 * [12-Factor App Methodology](https://www.joomlatools.com/developer/platform/12-factor-app/)
