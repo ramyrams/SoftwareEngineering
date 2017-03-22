@@ -1,4 +1,7 @@
 
+![1](http://networkop.co.uk/images/rest-crud.png)
+![1](http://blog.ciaranoconnor.me/content/images/2016/02/RESTful-API-design-1014x457.jpg)
+
 
 * [Understanding of rest](https://scotch.io/bar-talk/a-quick-understanding-of-rest)
 * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
