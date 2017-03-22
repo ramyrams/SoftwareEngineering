@@ -3,6 +3,13 @@
 ![1](http://blog.ciaranoconnor.me/content/images/2016/02/RESTful-API-design-1014x457.jpg)
 
 
+* GET tasks/5/messages – Retrieves list of messages for task #5
+* GET tasks/5/messages/10 – Retrieves the 10th messages for task #5
+* POST tasks/5/messages – Create a new message for task #5
+* DELETE tasks/5/messages/10 – Delete the 10th messages of task #5
+* PUT tasks/5/messages/12 – Update the 12th messages of task #5
+
+
 * [Understanding of rest](https://scotch.io/bar-talk/a-quick-understanding-of-rest)
 * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 * [REST 101: An Introduction to Restful APIs -Infographic](https://dzone.com/articles/rest-101-an-introduction-to-restful-apis-infograph)
