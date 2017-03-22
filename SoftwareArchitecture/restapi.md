@@ -28,6 +28,8 @@ http://dasunhegoda.com/rest-api-architecture-best-practices/1049/
 
 # https://dzone.com/articles/restful-web-services
 
+https://github.com/RestCheatSheet/platform-cheat-sheet
+https://github.com/RestCheatSheet/api-cheat-sheet
 
 REST
 * [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
