@@ -17,6 +17,15 @@
 * [Soap Vs REST](http://nordicapis.com/rest-vs-soap-nordic-apis-infographic-comparison/)
 * [Securing your APIs with OAuth, OpenID, and OpenID Connect](http://www.slideshare.net/lobster1234/securing-your-apis-with-oauth-openid-and-openid-connect)
 
+The never-ending REST API design debate
+https://www.slideshare.net/restlet/the-neverending-rest-api-design-debate
+
+REST API Best Practices
+http://javabeat.net/rest-api-best-practices/
+
+REST API ARCHITECTURE – BEST PRACTICES
+http://dasunhegoda.com/rest-api-architecture-best-practices/1049/
+
 # https://dzone.com/articles/restful-web-services
 
 
