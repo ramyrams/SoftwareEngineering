@@ -7,23 +7,31 @@ URI Format
 http://api.canvas.restapi.org/shapes/polygons/quadrilaterals/squares
 ```
 * Rule: A trailing forward slash (/) should not be included in URIs
+```xml
 Many web components and frameworks will treat the following two URIs equally:
 http://api.canvas.restapi.org/shapes/
 http://api.canvas.restapi.org/shapes
+```
 
 * Rule: Hyphens (-) should be used to improve the readability of URIs
+```xml
 http://api.example.restapi.org/blogs/mark-masse/entries/this-is-my-first-post
+```
 
 * Rule: Underscores (_) should not be used in URIs 
 * Rule: Lowercase letters should be preferred in URI paths 
 * Rule: File extensions should not be included in URIs 
+```xml
 http://api.college.restapi.org/students/3248234/transcripts/2005/fall.json (not prefered)
 http://api.college.restapi.org/students/3248234/transcripts/2005/fall 
+```
 
 # URI Authority Design
 * Rule: Consistent subdomain names should be used for your APIs
+```
 For example:
 http://api.soccer.restapi.org
+```
 * Rule: Consistent subdomain names should be used for your client developer portal
 
 
