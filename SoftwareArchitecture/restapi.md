@@ -1,5 +1,6 @@
 # RestAPI
 
+# Web Architecture
 The six constraints are: (click the constraint to read more)
 * Uniform Interface
 * Stateless
