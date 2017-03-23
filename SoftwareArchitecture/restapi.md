@@ -1,4 +1,10 @@
+# RestAPI
 
+Resources 
+• Everything is a resource 
+• Resources are addressable via URIs (Uniform Resource Identifier) Example: GET http://<pref>/principals/133519972001296 
+• Resources are self descriptive – Typically through content types (“application/xml” “application/json”) – Resources are stateless 
+• Resources are manipulated via verbs and the uniform interface
 
 Command API
 Take a resources, add a command (verb) to the end, send data for that command in POST HTTP verb
