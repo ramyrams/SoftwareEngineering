@@ -210,3 +210,6 @@ GET /users?pageSize=25&pageStartIndex=50
 ## JavaScript Clients 
 * Rule: JSONP should be supported to provide multi-origin read access from JavaScript 
 * Rule: CORS should be supported to provide multi-origin read/write access from JavaScript
+
+
+Notes from the my favorite book REST API by Mark Masse
