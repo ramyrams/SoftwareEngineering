@@ -87,3 +87,17 @@
 }
 ```
 
+# Writing Good Documentation
+Good documentation should be clear and concise, but also visual, providing the following:
+• A clear explanation of what the method/resource does
+• Call outs that share important information with developers, including warnings and errors
+• A sample call with the correlating media type body
+• A list of parameters used on this resource/method, as well as their types, special formatting, rules and whether or not they are required 
+• A sample response, including media type body
+• Code examples for multiple languages including all necessary code (e.g. Curl with PHP, as well as examples for Java, .Net, Ruby, etc.)
+• SDK examples (if SDKs are provided) showing how to access the resource/method utilizing the SDK for their language
+• Interactive experiences to try/test API calls (API Console, API Notebook)
+• Frequently asked questions/scenarios with code examples
+• Links to additional resources (other examples, blogs, etc.)
+• A comments section where users can share/discuss code
+• Other support resources (forums, contact forms, etc.)
