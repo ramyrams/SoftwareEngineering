@@ -116,6 +116,15 @@ GET /users?pageSize=25&pageStartIndex=50
 
 ```
 
-
+# Request Methods 
+* Rule: GET and POST must not be used to tunnel other request methods 
+* Rule: GET must be used to retrieve a representation of a resource 
+* Rule: HEAD should be used to retrieve response headers 
+* Rule: PUT must be used to both insert and update a stored resource 
+* Rule: PUT must be used to update mutable resources 
+* Rule: POST must be used to create a new resource in a collection 
+* Rule: POST must be used to execute controllers 
+* Rule: DELETE must be used to remove a resource from its parent 
+* Rule: OPTIONS should be used to retrieve metadata that describes a  resource’s available interactions 
 ```xml
 ```
