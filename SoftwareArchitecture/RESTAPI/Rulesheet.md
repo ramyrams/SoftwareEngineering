@@ -3,8 +3,9 @@
 URI Format
 
 * Rule: Forward slash separator (/) must be used to indicate a hierarchical relationshi
+```xml
 http://api.canvas.restapi.org/shapes/polygons/quadrilaterals/squares
-
+```
 * Rule: A trailing forward slash (/) should not be included in URIs
 Many web components and frameworks will treat the following two URIs equally:
 http://api.canvas.restapi.org/shapes/
