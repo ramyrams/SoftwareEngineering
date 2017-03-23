@@ -128,7 +128,7 @@ GET /users?pageSize=25&pageStartIndex=50
 ```xml
 ```
 
-# Response Status Codes
+## Response Status Codes
 * Rule: 200 (“OK”) should be used to indicate nonspecific success 
 * Rule: 200 (“OK”) must not be used to communicate errors in the response body 
 * Rule: 201 (“Created”) must be used to indicate successful resource creation 
@@ -151,7 +151,7 @@ GET /users?pageSize=25&pageStartIndex=50
 * Rule: 500 (“Internal Server Error”) should be used to indicate API malfunction
 
 # Metadata Design
-HTTP Headers 
+## HTTP Headers 
 * Rule: Content-Type must be used 
 * Rule: Content-Length should be used 
 * Rule: Last-Modified should be used in responses 
@@ -165,14 +165,14 @@ HTTP Headers
 * Rule: Expiration caching headers may optionally be used with 3xx and 4xx responses 38
 * Rule: Custom HTTP headers must not be used to change the behavior of HTTP methods
 
-# Media Type Design 
+## Media Type Design 
 * Rule: Application-specific media types should be used 
 * Rule: Media type negotiation should be supported when multiple representations are available 
 * Rule: Media type selection using a query parameter may be supported 
 
 
 # Representation Design
-## Message Body Format 47
+## Message Body Format 
 * Rule: JSON should be supported for resource representation 
 * Rule: JSON must be well-formed 
 * Rule: XML and other formats may optionally be used for resource representation
