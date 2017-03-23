@@ -65,6 +65,7 @@
 }
 ```
 ## vnd.error
+https://github.com/blongden/vnd.error
 ```json
 {	
 	"total":	2,	
