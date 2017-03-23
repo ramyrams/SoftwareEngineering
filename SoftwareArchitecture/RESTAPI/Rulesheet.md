@@ -35,6 +35,59 @@ http://api.soccer.restapi.org
 * Rule: Consistent subdomain names should be used for your client developer portal
 
 
+## Resource Archetypes
+A REST API is composed of four distinct resource archetypes
+* Document
+* Collection
+* Store
+* Controller
+
+## Document
+* A document resource is a singular concept that is akin to an object instance or database record. 
+* A document’s state representation typically includes both fields with values and links to other related resources.
+* With its fundamental field and link-based structure, the document type is the conceptual base archetype of the other resource archetypes.
+* In other words, the three other resource archetypes can be viewed as specializations of the document archetype.
+
+```xml
+Each URI below identifies a document resource:
+http://api.soccer.restapi.org/leagues/seattle
+http://api.soccer.restapi.org/leagues/seattle/teams/trebuchet
+http://api.soccer.restapi.org/leagues/seattle/teams/trebuchet/players/mike
+```
+
+## Collection
+* A collection resource is a server-managed directory of resources. 
+* Clients may propose new resources to be added to a collection. 
+* However, it is up to the collection to choose to create a new resource, or not. 
+* A collection resource chooses what it wants to contain and also decides the URIs of each contained resource.
+
+```xml
+Each URI below identifies a collection resource:
+http://api.soccer.restapi.org/leagues
+http://api.soccer.restapi.org/leagues/seattle/teams
+http://api.soccer.restapi.org/leagues/seattle/teams/trebuchet/players
+```
+
+## Store
+* A store is a client-managed resource repository. 
+* A store resource lets an API client put resources in, get them back out, and decide when to delete them. 
+* On their own, stores do not create new resources; therefore a store never generates new URIs. 
+* Instead, each stored resource has a URI that was chosen by a client when it was initially put into the store.
+
+```xml
+PUT /users/1234/favorites/alonso
+```
+## Controller
+* A controller resource models a procedural concept. 
+* Controller resources are like executable functions, with parameters and return values; inputs and outputs.
+* Like a traditional web application’s use of HTML forms, a REST API relies on controller resources to perform application-specific actions that cannot be logically mapped to one of the standard methods (create, retrieve, update, and delete, also known as CRUD).
+* Controller names typically appear as the last segment in a URI path, with no child resources to follow them in the hierarchy. 
+* The example below shows a controller resource that allows a client to resend an alert to a user:
+
+```xml
+POST /alerts/245743/resend
+```
+
 # Resource Modeling
 The URI path conveys a REST API’s resource model, with each forward slash separated
 path segment corresponding to a unique resource within the model’s hierarchy. For
