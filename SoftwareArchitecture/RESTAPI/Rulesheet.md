@@ -51,33 +51,43 @@ http://api.soccer.restapi.org
 
 # URI Path Design 
 * Rule: A singular noun should be used for document names 
+```xml
 For example, the URI for a single player document would have the singular form:
 http://api.soccer.restapi.org/leagues/seattle/teams/trebuchet/players/claudio
+```
 
 * Rule: A plural noun should be used for collection names 
+```xml
 For example, the URI for a collection of player documents uses the plural noun form of its contained resources:
 http://api.soccer.restapi.org/leagues/seattle/teams/trebuchet/players
+```
 
 * Rule: A plural noun should be used for store names 
+```xml
 The URI for a store of music playlists may use the plural noun form as follows:
 http://api.music.restapi.org/artists/mikemassedotcom/playlists
+```
 
 * Rule: A verb or verb phrase should be used for controller names 
+```xml
  For example:
 http://api.college.restapi.org/students/morgan/register
 http://api.example.restapi.org/lists/4324/dedupe
 http://api.ognom.restapi.org/dbs/reindex
 http://api.build.restapi.org/qa/nightly/runTestSuite
-
+```
 
 * Rule: Variable path segments may be substituted with identity-based values 
+```xml
  The URI template example below has three variables (leagueId, TeamId, and playerId):
 http://api.soccer.restapi.org/leagues/{leagueId}/teams/{teamId}/players/{playerId}
 
 http://api.soccer.restapi.org/leagues/seattle/teams/trebuchet/players/21 - Conceptually, the value 21 occupies a variable path segment slot named playerId.
 http://api.soccer.restapi.org/games/3fd65a60-cb8b-11e0-9572-0800200c9a66 - The UUID value fills in the gameId variable.
+```
 
 * Rule: CRUD function names should not be used in URIs 
+```xml
 For example, this API interaction design is preferred:
 DELETE /users/1234
 
@@ -86,6 +96,7 @@ GET /deleteUser?id=1234
 GET /deleteUser/1234
 DELETE /deleteUser/1234
 POST /users/1234/delete
+```
 
 # URI Query Design 
 * Rule: The query component of a URI may be used to filter collections or stores 
