@@ -35,3 +35,53 @@
 	}	
 }
 ```
+# Google Errors
+```json
+{	
+	"error":	{	
+		"code":	400,	
+		"message":	"The	user	was	missing	required	fields",
+		"errors":	[{	
+		"domain":	"global",	
+		"reason":	"MissingParameter",	
+		"message":	"User	first	name	cannot	be	empty",	
+		"locationType":	"parameter",	
+		"location":	"firstName",	
+		"extendedHelp":	
+		"http://docs.domain.ext/users/post"	
+	},
+	{	
+		"domain":	"global",	
+		"reason":	"MissingParameter",	
+		"message":	"User	last	name	cannot	be	empty",	
+		"locationType":	"parameter",	
+		"location":	"lastName",	
+		"extendedHelp":	
+		"http://docs.domain.ext/users/post"	
+		}]
+	}	
+}
+```
+# vnd.error
+```json
+{	
+	"total":	2,	
+	"_embedded":	{	
+		"errors":	[	{	
+			"message":	“User	first	name	cannot	be	empty",	
+			"logref":	“XB500”,	
+			"_links":	{	
+				"help":	{	"href":	"http://docs.domain.ext/users/post"	}	
+			}	
+		},	
+		{	
+			"message":	“User	last	name	cannot	be	empty",	
+			"logref":	“XB501”,	
+			"_links":	{	
+				"help":	{	"href":	"http://docs.domain.ext/users/post"	}	
+			}	
+		}]	
+	}	
+}
+```
+
