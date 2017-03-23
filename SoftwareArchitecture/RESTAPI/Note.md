@@ -11,6 +11,8 @@
 * [Modeling Web APIs](http://modeling-languages.com/modeling-web-api-comparing/)
 * [API Spec Comparison Tool](http://www.mikestowe.com/2014/12/api-spec-comparison-tool.php)
 
+# Descriptive Error Formats
+## JSON API
 ```json
 {	
 	"error":	{	
@@ -35,7 +37,7 @@
 	}	
 }
 ```
-# Google Errors
+## Google Errors
 ```json
 {	
 	"error":	{	
@@ -62,7 +64,7 @@
 	}	
 }
 ```
-# vnd.error
+## vnd.error
 ```json
 {	
 	"total":	2,	
