@@ -199,15 +199,15 @@ HTTP Headers
 
 # Client Concerns 
 ## Versioning
-Rule: New URIs should be used to introduce new concepts 
-Rule: Schemas should be used to manage representational form versions 
-Rule: Entity tags should be used to manage representational state versions 
+* Rule: New URIs should be used to introduce new concepts 
+* Rule: Schemas should be used to manage representational form versions 
+* Rule: Entity tags should be used to manage representational state versions 
 ## Security 
-Rule: OAuth may be used to protect resources 
-Rule: API management solutions may be used to protect resources 
+* Rule: OAuth may be used to protect resources 
+* Rule: API management solutions may be used to protect resources 
 ## Response Representation Composition 
-Rule: The query component of a URI should be used to support partial responses 
-Rule: The query component of a URI should be used to embed linked resources 
+* Rule: The query component of a URI should be used to support partial responses 
+* Rule: The query component of a URI should be used to embed linked resources 
 ## JavaScript Clients 
-Rule: JSONP should be supported to provide multi-origin read access from JavaScript 
-Rule: CORS should be supported to provide multi-origin read/write access from JavaScript
+* Rule: JSONP should be supported to provide multi-origin read access from JavaScript 
+* Rule: CORS should be supported to provide multi-origin read/write access from JavaScript
