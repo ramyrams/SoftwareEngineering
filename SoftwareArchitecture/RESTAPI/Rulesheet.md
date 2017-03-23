@@ -1,6 +1,6 @@
 # Identifier Design with URIs
 
-URI Format
+## URI Format
 
 * Rule: Forward slash separator (/) must be used to indicate a hierarchical relationshi
 ```xml
@@ -26,7 +26,7 @@ http://api.college.restapi.org/students/3248234/transcripts/2005/fall.json (not 
 http://api.college.restapi.org/students/3248234/transcripts/2005/fall 
 ```
 
-# URI Authority Design
+## URI Authority Design
 * Rule: Consistent subdomain names should be used for your APIs
 ```
 For example:
@@ -47,9 +47,7 @@ http://api.soccer.restapi.org/leagues
 http://api.soccer.restapi.org
 
 
-# URI Path Design
-
-# URI Path Design 
+## URI Path Design 
 * Rule: A singular noun should be used for document names 
 ```xml
 For example, the URI for a single player document would have the singular form:
@@ -98,7 +96,7 @@ DELETE /deleteUser/1234
 POST /users/1234/delete
 ```
 
-# URI Query Design 
+## URI Query Design 
 As a component of a URI, the query contributes to the unique identification of a resource.
 Consider the following example:
 http://api.college.restapi.org/students/morgan/send-sms - The URI of a controller resource that sends an sms message.
@@ -116,7 +114,8 @@ GET /users?pageSize=25&pageStartIndex=50
 
 ```
 
-# Request Methods 
+# Interaction Design with HTTP 
+## Request Methods 
 * Rule: GET and POST must not be used to tunnel other request methods 
 * Rule: GET must be used to retrieve a representation of a resource 
 * Rule: HEAD should be used to retrieve response headers 
