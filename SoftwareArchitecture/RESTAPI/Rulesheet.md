@@ -99,5 +99,24 @@ POST /users/1234/delete
 ```
 
 # URI Query Design 
+As a component of a URI, the query contributes to the unique identification of a resource.
+Consider the following example:
+http://api.college.restapi.org/students/morgan/send-sms - The URI of a controller resource that sends an sms message.
+http://api.college.restapi.org/students/morgan/send-sms?text=hello - The URI of a controller resource that sends an sms message with a text value of hello
+
 * Rule: The query component of a URI may be used to filter collections or stores 
+```xml
+ Let’s take a look at an example:
+GET /users - The response message’s state representation contains a listing of all the users in the  collection.
+GET /users?role=admin - The response message’s state representation contains a filtered list of all the users in the collection with a “role” value of admin.
+
+
+
+```
 * Rule: The query component of a URI should be used to paginate collection or store results 
+```xml
+```
+
+
+```xml
+```
