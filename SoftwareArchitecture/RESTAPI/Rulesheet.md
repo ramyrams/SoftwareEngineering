@@ -128,3 +128,25 @@ GET /users?pageSize=25&pageStartIndex=50
 * Rule: OPTIONS should be used to retrieve metadata that describes a  resource’s available interactions 
 ```xml
 ```
+
+# Response Status Codes
+* Rule: 200 (“OK”) should be used to indicate nonspecific success 
+* Rule: 200 (“OK”) must not be used to communicate errors in the response body 
+* Rule: 201 (“Created”) must be used to indicate successful resource creation 
+* Rule: 202 (“Accepted”) must be used to indicate successful start of an asynchronous action 
+* Rule: 204 (“No Content”) should be used when the response body is intentionally empty 
+* Rule: 301 (“Moved Permanently”) should be used to relocate resources 
+* Rule: 302 (“Found”) should not be used 
+* Rule: 303 (“See Other”) should be used to refer the client to a different URI 
+* Rule: 304 (“Not Modified”) should be used to preserve bandwidth 
+* Rule: 307 (“Temporary Redirect”) should be used to tell clients to resubmit the request to another URI 
+* Rule: 400 (“Bad Request”) may be used to indicate nonspecific failure 
+* Rule: 401 (“Unauthorized”) must be used when there is a problem with the client’s credentials 
+* Rule: 403 (“Forbidden”) should be used to forbid access regardless of authorization state 
+* Rule: 404 (“Not Found”) must be used when a client’s URI cannot be mapped to a resource 
+* Rule: 405 (“Method Not Allowed”) must be used when the HTTP method is not supported 
+* Rule: 406 (“Not Acceptable”) must be used when the requested media type cannot be served 
+* Rule: 409 (“Conflict”) should be used to indicate a violation of resource state 
+* Rule: 412 (“Precondition Failed”) should be used to support conditional operations 
+* Rule: 415 (“Unsupported Media Type”) must be used when the media type of a request’s payload cannot be processed 
+* Rule: 500 (“Internal Server Error”) should be used to indicate API malfunction
