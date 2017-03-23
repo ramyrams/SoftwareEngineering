@@ -13,6 +13,7 @@
 
 # Descriptive Error Formats
 ## JSON API
+http://jsonapi.org/format/#errors
 ```json
 {	
 	"error":	{	
