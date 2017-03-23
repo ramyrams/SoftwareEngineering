@@ -174,26 +174,26 @@ HTTP Headers
 
 # Representation Design
 ## Message Body Format 47
-Rule: JSON should be supported for resource representation 
-Rule: JSON must be well-formed 
-Rule: XML and other formats may optionally be used for resource representation
-Rule: Additional envelopes must not be created 
+* Rule: JSON should be supported for resource representation 
+* Rule: JSON must be well-formed 
+* Rule: XML and other formats may optionally be used for resource representation
+* Rule: Additional envelopes must not be created 
 
 ## Hypermedia Representation 
-Rule: A consistent form should be used to represent links 
-Rule: A consistent form should be used to represent link relations 
-Rule: A consistent form should be used to advertise links 
-Rule: A self link should be included in response message body representations
-Rule: Minimize the number of advertised “entry point” API URIs 54
-Rule: Links should be used to advertise a resource’s available actions in a state-sensitive manner 
+* Rule: A consistent form should be used to represent links 
+* Rule: A consistent form should be used to represent link relations 
+* Rule: A consistent form should be used to advertise links 
+* Rule: A self link should be included in response message body representations
+* Rule: Minimize the number of advertised “entry point” API URIs 54
+* Rule: Links should be used to advertise a resource’s available actions in a state-sensitive manner 
 
 ## Media Type Representation 
-Rule: A consistent form should be used to represent media type formats 
-Rule: A consistent form should be used to represent media type schemas 
+* Rule: A consistent form should be used to represent media type formats 
+* Rule: A consistent form should be used to represent media type schemas 
 
 ## Error Representation 
-Rule: A consistent form should be used to represent errors
-Rule: A consistent form should be used to represent error responses
-Rule: Consistent error types should be used for common error conditions
+* Rule: A consistent form should be used to represent errors
+* Rule: A consistent form should be used to represent error responses
+* Rule: Consistent error types should be used for common error conditions
 
 
