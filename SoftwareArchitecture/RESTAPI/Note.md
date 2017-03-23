@@ -10,3 +10,28 @@
 
 * [Modeling Web APIs](http://modeling-languages.com/modeling-web-api-comparing/)
 * [API Spec Comparison Tool](http://www.mikestowe.com/2014/12/api-spec-comparison-tool.php)
+
+```json
+{	
+	"error":	{	
+		"errors":	[{	
+			"id":	"error1_firstName",	
+			"code":	"XB500",	
+			"status":	"400",	
+			"title":	"User	first	name	cannot	be	empty",	
+			"detail":	 "The	 first	 name	 field	 is	 required	 to	
+			have	a	value",	
+			"href":	"http://docs.domain.ext/users/post"	
+		},
+		{	
+			"id":	"error2_lastName",	
+			"code":	"XB501",	
+			"status":	"400",	
+			"title":	"User	last	name	cannot	be	empty",	
+			"detail":	 "The	 last	 name	 field	 is	 required	 to	
+			have	a	value",	
+			"href":	"http://docs.domain.ext/users/post"	
+		}]
+	}	
+}
+```
