@@ -1,5 +1,15 @@
 # RestAPI
 
+The six constraints are: (click the constraint to read more)
+* Uniform Interface
+* Stateless
+* Cacheable
+* Client-Server
+* Layered System
+* Code on Demand (optional)
+
+
+
 Resources 
 • Everything is a resource 
 • Resources are addressable via URIs (Uniform Resource Identifier) Example: GET http://<pref>/principals/133519972001296 
