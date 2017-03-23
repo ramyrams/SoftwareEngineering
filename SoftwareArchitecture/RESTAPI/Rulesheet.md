@@ -150,3 +150,23 @@ GET /users?pageSize=25&pageStartIndex=50
 * Rule: 412 (“Precondition Failed”) should be used to support conditional operations 
 * Rule: 415 (“Unsupported Media Type”) must be used when the media type of a request’s payload cannot be processed 
 * Rule: 500 (“Internal Server Error”) should be used to indicate API malfunction
+
+# Metadata Design
+HTTP Headers 
+* Rule: Content-Type must be used 
+* Rule: Content-Length should be used 
+* Rule: Last-Modified should be used in responses 
+* Rule: ETag should be used in responses 
+* Rule: Stores must support conditional PUT requests 
+* Rule: Location must be used to specify the URI of a newly created resource
+* Rule: Cache-Control, Expires, and Date response headers should be used to encourage caching
+* Rule: Cache-Control, Expires, and Pragma response headers may be used to discourage caching 
+* Rule: Caching should be encouraged 
+* Rule: Expiration caching headers should be used with 200 (“OK”) responses
+* Rule: Expiration caching headers may optionally be used with 3xx and 4xx responses 38
+* Rule: Custom HTTP headers must not be used to change the behavior of HTTP methods
+
+# Media Type Design 
+* Rule: Application-specific media types should be used 
+* Rule: Media type negotiation should be supported when multiple representations are available 
+* Rule: Media type selection using a query parameter may be supported 
