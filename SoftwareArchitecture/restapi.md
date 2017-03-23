@@ -1,4 +1,34 @@
 
+
+Command API
+Take a resources, add a command (verb) to the end, send data for that command in POST HTTP verb
+POST /street/11/repave
+POST /house/122/condemn
+POST /people/993/hospitalize
+
+
+Resource Vs Command
+https://image.slidesharecdn.com/cqrsapi-141104212120-conversion-gate01/95/cqrs-api-20-638.jpg?cb=1415137502
+https://image.slidesharecdn.com/cqrsapi-141104212120-conversion-gate01/95/cqrs-api-21-638.jpg?cb=1415137502
+https://image.slidesharecdn.com/cqrsapi-141104212120-conversion-gate01/95/cqrs-api-37-638.jpg?cb=1415137502
+
+
+Idempotent/Safe Methods
+
+Idempotent/Safe Methods 
+Idempotent methods can be applied over and over again and always have the same effect on the resource 
+Safe methods do not have any modifying effect on the resource
+
+
+OST v PUT v PATCH 
+● POST is used to create an entity 
+● PUT is used to update an entity where you must send the entire representation of the entity as you wish for it to be stored 
+● PATCH is used to update an entity where you send only the fields that need updated
+
+
+
+
+
 ![1](http://networkop.co.uk/images/rest-crud.png)
 ![1](http://blog.ciaranoconnor.me/content/images/2016/02/RESTful-API-design-1014x457.jpg)
 
