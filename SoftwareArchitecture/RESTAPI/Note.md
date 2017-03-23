@@ -9,3 +9,4 @@
 * Because Spec-Driven Development encourages the use of a well tested, standardized spec, it is highly recommended that you choose from RAML, Swagger, Mashery IO Docs, tripit slate or API Blueprint. 
 
 * [Modeling Web APIs](http://modeling-languages.com/modeling-web-api-comparing/)
+* [API Spec Comparison Tool](http://www.mikestowe.com/2014/12/api-spec-comparison-tool.php)
