@@ -1,3 +1,23 @@
+# Plan Your API
+* Key questions to ask:
+* Who is our target user for this API
+* Which of our products/ services do we want them to be working with? 
+* What are THEIR use cases for integrating with our API?
+* What technologies will they be using to integrate with our API?
+* What other services will they want our API to interact with?
+* Understand WHY you are building an API
+* List out the user FUNCTIONALITY of your API
+* Understand what TYPE of API you are building
+* Think LONG TERM… like 2-3 years down the road
+
+
+![1](https://blogs.mulesoft.com/wp-content/uploads/2014/11/action_list.gif)
+
+
+![1](https://blogs.mulesoft.com/wp-content/uploads/2014/11/soap_vs_rpc_rest.gif)
+
+
+
 # Lifecycle of an API
 ![1](https://image.slidesharecdn.com/planningyourapijourneythelifecycleofanapi-160224055627/95/planning-your-api-journey-the-lifecycle-of-an-api-5-638.jpg?cb=1456293472)
 ![1](https://image.slidesharecdn.com/planningyourapijourneythelifecycleofanapi-160224055627/95/planning-your-api-journey-the-lifecycle-of-an-api-10-638.jpg?cb=1456293472)
