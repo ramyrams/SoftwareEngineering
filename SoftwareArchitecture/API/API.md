@@ -1,3 +1,11 @@
+# Error
+![1](http://blog.cloud-elements.com/hs-fs/hubfs/Screen-Shot-2015-05-26-at-9.35.55-AM.png?t=1490379020301&width=506&name=Screen-Shot-2015-05-26-at-9.35.55-AM.png)
+![1](http://blog.cloud-elements.com/hs-fs/hubfs/Screen-Shot-2015-05-26-at-9.36.04-AM-1.png?t=1490379020301&width=507&name=Screen-Shot-2015-05-26-at-9.36.04-AM-1.png)
+![1](http://blog.cloud-elements.com/hs-fs/hubfs/Screen-Shot-2015-05-26-at-9.36.25-AM.png?t=1490379020301&width=506&name=Screen-Shot-2015-05-26-at-9.36.25-AM.png)
+![1](https://d38wlcdzwz02m5.cloudfront.net/about/cdn/farfuture/Se8EqbxAePYS_hvM3Q1Cow_3CPIt7KASmJ866RoP4Ho/mtime:1440078969/sites/mktg-new/files/blog/Prag_REST_errors_1.png)
+![1](https://d38wlcdzwz02m5.cloudfront.net/about/cdn/farfuture/ADeLlqsTIygJxr-lb_GA-JBCR7JFbUKikea16odGVn8/mtime:1440079021/sites/mktg-new/files/blog/Prag_REST_errors_2a.png)
+
+
 
 ![1](http://blogs.ca.com/wp-content/uploads/2017/01/API-Infinity-diagram-for-David-Chiu-blog-1024x576.jpg)
 
