@@ -10,6 +10,15 @@
 * Understand what TYPE of API you are building
 * Think LONG TERM… like 2-3 years down the road
 
+# REST system is governed by six design rules:
+
+* **Client-Server:** There shall be a separation between the server that offers a service, and the client that consumes it.
+* **Stateless:** Each request from a client should contain all the information required by the server to carry out the request. In other words, the server cannot store information provided by the client in one request and use it in another request.
+* **Cacheable:** The server shall indicate to the client if requests can be cached or not.
+* **Layered System:** Communication between a client and a server should be standardized in such a way that allows intermediaries to respond to requests instead of the end server, without the client having to do anything different.
+* **Uniform Interface:** The method of communication between a client and a server must be uniform.
+* **Code on demand:** Servers can provide executable code or scripts for clients to execute in their context. This constraint is the only one that is optional.
+
 
 API Design Tooling From RAML
 http://apievangelist.com/2014/03/01/api-design-tooling-from-raml/
