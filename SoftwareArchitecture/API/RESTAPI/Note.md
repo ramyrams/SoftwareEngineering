@@ -1,3 +1,8 @@
+# Lifecycle of an API
+![1](https://image.slidesharecdn.com/planningyourapijourneythelifecycleofanapi-160224055627/95/planning-your-api-journey-the-lifecycle-of-an-api-5-638.jpg?cb=1456293472)
+![1](https://image.slidesharecdn.com/planningyourapijourneythelifecycleofanapi-160224055627/95/planning-your-api-journey-the-lifecycle-of-an-api-10-638.jpg?cb=1456293472)
+![1](https://image.slidesharecdn.com/planningyourapijourneythelifecycleofanapi-160224055627/95/planning-your-api-journey-the-lifecycle-of-an-api-11-638.jpg?cb=1456293472)
+
 
 * Users - User a user, edit a user, retrieve username, retreive password, reset pasword, view profile, Message uer.
 * Messages - Send a message, create a draft, send a draft, delete draft, get message, mark message as read, mark message as unlead, move message to fodler, delete message.
