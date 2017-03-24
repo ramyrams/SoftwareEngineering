@@ -10,6 +10,32 @@
 * Understand what TYPE of API you are building
 * Think LONG TERM… like 2-3 years down the road
 
+# API definition format
+Swagger - The vision behind Swagger was not to make a company or to get people to use our service, it was strictly to solve a workflow problem. Initially the goal was centered around documentation and client tooling, but quickly realized it was much bigger, and became about managing the overall lifecycle of APIs.
+API Blueprint - API Blueprint is all about simplicity, and allowing people to have a structured conversation around an API, with the people who are actually going to be using it. Apiary is the conduit for this conversation, allowing developers to easily create a mock interface from the blueprint, share with consumers, and iterate as necessary.
+RAML - The motivation behind RAML was about seeking one source of truth, and a basic representation of an API. We used Swagger and API Blueprint, but neither fully met our vision. RAML was born, and is in alignment with Mulesoft's design first approach, and gave them the ability to design an API in a format that allowed them to sit down with stakeholders in a webinar and get instant feedback—bringing the API to forefront, not the implementation.
+
+
+# Planning Your API 
+* Designing the Spec/API
+* Designing Your Resources 
+* Designing Your Methods 
+* Authorization and Authentication 
+* Documenting and Sharing Your API 
+
+
+#Anatomy Of API Call Failure
+* Is the API Online?
+* Did the server receive the request?
+* Was URL request successful?
+* Did the request timeout?
+* Was there a server error?
+* Was JSON receive successfully?
+* Was JSON malformed?
+* Was there an unexpected response?
+* Were we able to map to JSON successfully?
+* Is the JSON valid?
+* Does local model match server model?
 
 ![1](https://blogs.mulesoft.com/wp-content/uploads/2014/11/action_list.gif)
 
