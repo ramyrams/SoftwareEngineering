@@ -74,6 +74,9 @@ https://restful.io/a-review-of-all-most-common-api-editors-6a720dc4f4e6#
 
 # API Discovery & Assembly
 
+# API Gateway
+http://microservices.io/patterns/apigateway.html
+
 # API Testing
 * [9 Common Errors Made During API Testing](http://nordicapis.com/9-common-errors-made-during-api-testing/)
 
