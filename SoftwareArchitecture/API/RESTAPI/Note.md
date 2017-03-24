@@ -10,6 +10,92 @@
 * Understand what TYPE of API you are building
 * Think LONG TERM… like 2-3 years down the road
 
+
+API Design Tooling From RAML
+http://apievangelist.com/2014/03/01/api-design-tooling-from-raml/
+
+
+http://apievangelist.com/2014/02/27/api-design-tooling-from-api-blueprint/
+API Design Tooling From API Blueprint
+
+
+# API Design Tooling From Swagger
+http://apievangelist.com/2014/02/25/api-design-tooling-from-swagger/
+
+# API Metrics and Analytics
+
+# APIs Console
+http://apievangelist.com/2011/05/21/google-apis-console/
+
+# APIs Discovery Service
+http://apievangelist.com/2011/05/21/google-apis-discovery-service/
+
+
+# APIs Explorer
+http://apievangelist.com/2011/05/21/google-apis-explorer/
+
+
+Resource Stack
+http://apievangelist.com/2013/07/01/the-resource-stack/
+
+
+
+)
+
+
+
+![1](http://kinlane-productions.s3.amazonaws.com/api_evangelist_site/blog/ct3y_zqviaaggk5.jpg)
+
+
+![1](https://s3.amazonaws.com/kinlane-productions/whitepapers/api-evangelist-api-design.pdf)
+
+
+API Documentation Solutions
+http://apievangelist.com/2016/09/16/a-look-at-the-state-of-api-documentation-solutions/
+
+# API Style
+http://apistylebook.com/
+
+# API Management 
+
+# API Design Guide
+https://geemus.gitbooks.io/http-api-design/content/en/
+
+Google API Design Guide - https://cloud.google.com/apis/design/
+API Design Guides Collection http://design.apievangelist.com/tools/design-guides/
+
+API Design
+http://apievangelist.com/2014/06/30/api-design-white-paper/
+
+
+# API Observability
+A Checklist For API Observability - http://apievangelist.com/2017/02/28/a-checklist-for-api-observability/
+
+
+# API Definitions
+http://apievangelist.com/2016/08/05/diff-tooling-for-json-yaml-and-markdown-versions-of-api-definitions/
+
+What Is APIs.json? And What Is Next For the API Discovery Format?
+http://apievangelist.com/2016/02/25/what-is-apisjson-and-what-is-next-for-the-api-discovery-format/
+http://apievangelist.com/2014/06/30/apisjson-api-property-types/
+
+http://apis.io/
+1080 APIs in database by 211 maintainers.
+
+http://theapistack.com/
+
+
+My Brain Dump On An API Definition Fueled Life Cycle
+http://apievangelist.com/2015/02/23/my-brain-dump-on-an-api-definition-fueled-life-cycle/
+
+The Essential Building Blocks For Integration, Automation, and Reciprocity
+http://apievangelist.com/2016/02/15/the-essential-building-blocks-for-integration-automation-and-reciprocity/
+
+
+What Exactly Is APIs.json?
+http://apievangelist.com/2015/01/05/what-exactly-is-apisjson/
+
+
 # API definition format
 * **Swagger** - The vision behind Swagger was not to make a company or to get people to use our service, it was strictly to solve a workflow problem. Initially the goal was centered around documentation and client tooling, but quickly realized it was much bigger, and became about managing the overall lifecycle of APIs.
 * **API Blueprint** - API Blueprint is all about simplicity, and allowing people to have a structured conversation around an API, with the people who are actually going to be using it. Apiary is the conduit for this conversation, allowing developers to easily create a mock interface from the blueprint, share with consumers, and iterate as necessary.
