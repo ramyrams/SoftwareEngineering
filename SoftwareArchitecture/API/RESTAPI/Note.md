@@ -16,6 +16,22 @@
 
 ![1](https://blogs.mulesoft.com/wp-content/uploads/2014/11/soap_vs_rpc_rest.gif)
 
+#API Building Blocks
+* [Adding Two More Building Blocks For API Rate Limiting](http://apievangelist.com/2014/12/30/adding-two-more-building-blocks-for-api-rate-limiting/)
+* [50 Building Blocks Of The API Economy](http://apievangelist.com/2014/04/03/50-building-blocks-of-the-api-economy/)
+* [Common Building Blocks of Cloud APIs](http://apievangelist.com/2014/03/11/common-building-blocks-of-cloud-apis/)
+* [Some Of The Common Building Blocks of Payment APIs](http://apievangelist.com/2014/03/05/some-of-the-common-building-blocks-of-payment-apis/)
+* [Common Building Blocks Of API Design](http://apievangelist.com/2014/03/04/common-building-blocks-of-api-design/)
+* [What Are The Common Building Blocks of API Integration?](http://apievangelist.com/2014/01/16/what-are-the-common-building-blocks-of-api-integration/)
+* [Building Blocks Of API Deployment](http://apievangelist.com/2014/07/01/building-blocks-of-api-deployment/)
+* [50 Building Blocks Of The API Economy](http://apievangelist.com/2014/04/03/50-building-blocks-of-the-api-economy/)
+* [Some Of The Common Building Blocks of Payment APIs](http://apievangelist.com/2014/03/05/some-of-the-common-building-blocks-of-payment-apis/)
+* [Common Building Blocks Of API Design](http://apievangelist.com/2014/03/04/common-building-blocks-of-api-design/)
+* [Common Building Blocks of API Integration](http://apievangelist.com/2014/01/16/what-are-the-common-building-blocks-of-api-integration/)
+* [API Management Building Blocks](http://management.apievangelist.com/building-blocks/)
+* [Some Of The Common Building Blocks Of API Deprecation](http://apievangelist.com/2016/04/13/some-of-the-common-building-blocks-of-api-deprecation/)
+* [Adding Four New Building Building Blocks Providing An API Management API Blueprint](http://apievangelist.com/2015/03/04/adding-four-new-building-building-blocks-providing-an-api-management-api-blueprint/)
+* [Essential Building Blocks For Integration, Automation, and Reciprocity](http://apievangelist.com/2016/02/15/the-essential-building-blocks-for-integration-automation-and-reciprocity/)
 
 
 # Lifecycle of an API [Full Video](http://wso2.com/library/webinars/2016/02/planning-your-api-journey-the-lifecycle-of-an-api/)
