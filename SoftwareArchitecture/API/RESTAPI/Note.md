@@ -18,7 +18,7 @@
 
 
 
-# Lifecycle of an API
+# Lifecycle of an API [Full Video](http://wso2.com/library/webinars/2016/02/planning-your-api-journey-the-lifecycle-of-an-api/)
 ![1](https://image.slidesharecdn.com/planningyourapijourneythelifecycleofanapi-160224055627/95/planning-your-api-journey-the-lifecycle-of-an-api-5-638.jpg?cb=1456293472)
 ![1](https://image.slidesharecdn.com/planningyourapijourneythelifecycleofanapi-160224055627/95/planning-your-api-journey-the-lifecycle-of-an-api-10-638.jpg?cb=1456293472)
 ![1](https://image.slidesharecdn.com/planningyourapijourneythelifecycleofanapi-160224055627/95/planning-your-api-journey-the-lifecycle-of-an-api-11-638.jpg?cb=1456293472)
