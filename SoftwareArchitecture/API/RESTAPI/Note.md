@@ -267,3 +267,27 @@ Good documentation should be clear and concise, but also visual, providing the f
 • Links to additional resources (other examples, blogs, etc.)
 • A comments section where users can share/discuss code
 • Other support resources (forums, contact forms, etc.)
+
+
+http://blog.restcase.com/documentation-driven-api-design/
+http://blog.restcase.com/top-5-rest-api-security-guidelines/
+http://blog.restcase.com/restful-api-authentication-basics/
+http://blog.restcase.com/internal-vs-external-apis/
+http://blog.restcase.com/an-api-first-development-approach/
+http://blog.restcase.com/a-need-for-rest-apis-and-api-development-management/
+http://blog.restcase.com/5-basic-rest-api-design-guidelines/
+http://blog.restcase.com/restful-api-basic-guidelines/
+http://blog.restcase.com/restful-api-versioning-insights/
+http://blog.restcase.com/rest-api-vs-soap-web-services-management/
+http://blog.restcase.com/api-documentation-strategy-success/
+http://blog.restcase.com/rest-api-documentation-done-right/
+http://blog.restcase.com/why-api-testing-is-important-in-your-development-process/
+http://blog.restcase.com/webhooks-role-in-the-api-world/
+http://blog.restcase.com/development-lifecycle-of-an-api-service/
+http://blog.restcase.com/rest-api-error-codes-101/
+
+http://blog.restcase.com/api-driven-development/
+http://blog.restcase.com/rest-api-monetization/
+http://blog.restcase.com/the-rise-of-rest-api/
+http://blog.restcase.com/testing-nonfunctional-requirements/
+
