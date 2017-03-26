@@ -29,6 +29,11 @@ https://image.slidesharecdn.com/cqrsapi-141104212120-conversion-gate01/95/cqrs-a
 https://image.slidesharecdn.com/cqrsapi-141104212120-conversion-gate01/95/cqrs-api-21-638.jpg?cb=1415137502
 https://image.slidesharecdn.com/cqrsapi-141104212120-conversion-gate01/95/cqrs-api-37-638.jpg?cb=1415137502
 
+# Error Handling
+https://blogs.mulesoft.com/dev/api-dev/api-best-practices-response-handling/	
+https://www.polidea.com/blog/Error_Handling_why_it_is_crucial_in_API_design_process/
+
+
 
 # Idempotent/Safe Methods
 
