@@ -9,3 +9,5 @@ http://stackoverflow.com/questions/28459418/rest-api-put-vs-patch-with-real-life
 When should we use the PATCH HTTP method? http://restcookbook.com/HTTP%20Methods/patch/
 
 http://williamdurand.fr/2014/02/14/please-do-not-patch-like-an-idiot/
+
+https://www.mnot.net/blog/2012/09/05/patch
