@@ -4,6 +4,10 @@ http://stackoverflow.com/questions/942951/rest-api-error-return-good-practices
 http://www.codingpedia.org/ama/error-handling-in-rest-api-with-jersey/
 http://archive.oreilly.com/pub/post/restful_error_handling.html
 
+# Design Guide
+https://github.com/CiscoDevNet/api-design-guide
+
+
 # EBooks
 https://apigee.com/about/resources/ebooks
 
