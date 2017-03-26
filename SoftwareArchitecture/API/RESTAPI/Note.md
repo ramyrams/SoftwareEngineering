@@ -19,6 +19,8 @@
 * **Uniform Interface:** The method of communication between a client and a server must be uniform.
 * **Code on demand:** Servers can provide executable code or scripts for clients to execute in their context. This constraint is the only one that is optional.
 
+# Internal vs External API
+http://blog.restcase.com/internal-vs-external-apis/
 
 API Design Tooling From RAML
 http://apievangelist.com/2014/03/01/api-design-tooling-from-raml/
