@@ -1,4 +1,12 @@
 # Error
+http://racksburg.com/choosing-an-http-status-code/
+http://stackoverflow.com/questions/942951/rest-api-error-return-good-practices
+http://www.codingpedia.org/ama/error-handling-in-rest-api-with-jersey/
+http://archive.oreilly.com/pub/post/restful_error_handling.html
+
+# EBooks
+https://apigee.com/about/resources/ebooks
+
 ![1](http://blog.cloud-elements.com/hs-fs/hubfs/Screen-Shot-2015-05-26-at-9.35.55-AM.png?t=1490379020301&width=506&name=Screen-Shot-2015-05-26-at-9.35.55-AM.png)
 ![1](http://blog.cloud-elements.com/hs-fs/hubfs/Screen-Shot-2015-05-26-at-9.36.04-AM-1.png?t=1490379020301&width=507&name=Screen-Shot-2015-05-26-at-9.36.04-AM-1.png)
 ![1](http://blog.cloud-elements.com/hs-fs/hubfs/Screen-Shot-2015-05-26-at-9.36.25-AM.png?t=1490379020301&width=506&name=Screen-Shot-2015-05-26-at-9.36.25-AM.png)
