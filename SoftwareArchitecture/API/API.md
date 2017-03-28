@@ -1,3 +1,14 @@
+# URLs
+http://apihandyman.io/
+https://www.slideshare.net/benramsey/making-the-most-of-http-in-your-apps/35-201_Created_1POST_contentvideos_HTTP11Host
+http://zacstewart.com/2012/04/14/http-options-method.html
+http://restful-api-design.readthedocs.io/en/latest/methods.html
+https://www.apigility.org/video
+https://www.quora.com/Should-a-RESTful-API-expose-a-list-of-valid-Enum-values
+
+https://www.varnish-cache.org/
+
+
 # Error
 http://racksburg.com/choosing-an-http-status-code/
 http://stackoverflow.com/questions/942951/rest-api-error-return-good-practices
