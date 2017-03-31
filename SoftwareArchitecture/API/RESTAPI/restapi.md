@@ -23,6 +23,42 @@ POST /street/11/repave
 POST /house/122/condemn
 POST /people/993/hospitalize
 
+Three patterns of payload format encoding most frequently found in the wild are:
+* HTTP headers (e.g. Content-Type: and Accept:)
+* GET parameters (e.g. &format=json)
+* resource label (e.g. /foo.json)
+
+Good RESTful URL examples
+/api/v1/magazines.json 
+/api/v1/magazines.json?year=2011&sort=desc 
+/api/v1/magazines/1234.json 
+/api/v1/magazines/1234/articles.json 
+/api/v1/magazines/1234/articles.xml 
+/api/v1/magazines/1234.json?fields=title,subtitle,date
+/api/v1/magazines/1234/articles.json 
+
+
+Bad RESTful URL examples
+/magazine --Non-plural noun:
+/magazine/1234 
+/magazine/1234/create	--Verb in URL:
+/magazines/2011/desc 	--Filter outside of query string:
+
+
+//no effect if the resource already exists.
+HTTP/1.1 405 Method Not Allowed
+Vary: Accept
+Content-Type: text/javascript
+
+{
+  "developerMessage" : "Unable to create a magazine with ID of 1234 because a magazine with that ID already exists",
+  "userMessage" : "Unable to create duplicate magazine 1234",
+  "errorCode" : "444444",
+  "moreInfo" : "http://api.example.gov/v1/documentation/errors/444444.html"
+}
+
+
+
 
 # Resource Vs Command
 https://image.slidesharecdn.com/cqrsapi-141104212120-conversion-gate01/95/cqrs-api-20-638.jpg?cb=1415137502
