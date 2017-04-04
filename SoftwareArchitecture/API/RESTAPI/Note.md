@@ -61,6 +61,8 @@ http://apievangelist.com/2013/07/01/the-resource-stack/
 ![1](https://s3.amazonaws.com/kinlane-productions/whitepapers/api-evangelist-api-design.pdf)
 
 
+https://dzone.com/articles/an-introduction-to-restful-apis
+
 API Documentation Solutions
 http://apievangelist.com/2016/09/16/a-look-at-the-state-of-api-documentation-solutions/
 
