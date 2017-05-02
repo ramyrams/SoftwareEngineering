@@ -68,6 +68,12 @@ Cookies vs Tokens: The Definitive Guide
 https://auth0.com/blog/cookies-vs-tokens-definitive-guide/
 
 
+
+7 Security Measures to Protect Your Servers
+https://www.digitalocean.com/community/tutorials/7-security-measures-to-protect-your-servers
+
+
+
 5 Reasons Your Company Needs Identity and Access Management
 https://auth0.com/blog/5-reasons-your-company-needs-identity-and-access-management/
 
