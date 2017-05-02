@@ -28,13 +28,13 @@ Creating Custom OAuth Middleware for MVC 5
 https://www.simple-talk.com/dotnet/net-framework/creating-custom-oauth-middleware-for-mvc-5/
 
 
-https://www.simple-talk.com/iwritefor/articlefiles/2030-owin-oauth-steps-03e3917e-9d93-48cd-99cd-c6c7faa34358.jpg
+![1](https://www.simple-talk.com/iwritefor/articlefiles/2030-owin-oauth-steps-03e3917e-9d93-48cd-99cd-c6c7faa34358.jpg)
 
 ## Abstract Protocol Flow
-https://assets.digitalocean.com/articles/oauth/abstract_flow.png
+![1](https://assets.digitalocean.com/articles/oauth/abstract_flow.png)
 
 ## Authentication Code Flow
-https://assets.digitalocean.com/articles/oauth/auth_code_flow.png
+![1](https://assets.digitalocean.com/articles/oauth/auth_code_flow.png)
 
 ## Implict Flow
-https://assets.digitalocean.com/articles/oauth/implicit_flow.png
+![1](https://assets.digitalocean.com/articles/oauth/implicit_flow.png)
