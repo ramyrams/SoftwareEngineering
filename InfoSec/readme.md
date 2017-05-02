@@ -54,3 +54,50 @@ https://stormpath.com/blog/password-security-right-way
 
 Five Steps to Password Security
 https://stormpath.com/blog/five-steps-password-security-developer-best-practices-video
+
+
+
+What Is Federated Identity Management?
+https://auth0.com/blog/why-identity-federation-matters/
+
+Fingerprint Authentication: High Security & Low Friction
+https://auth0.com/blog/how-fingerprint-auth-gives-you-security/
+
+
+Cookies vs Tokens: The Definitive Guide
+https://auth0.com/blog/cookies-vs-tokens-definitive-guide/
+
+
+5 Reasons Your Company Needs Identity and Access Management
+https://auth0.com/blog/5-reasons-your-company-needs-identity-and-access-management/
+
+How SAML Authentication Works
+https://auth0.com/blog/how-saml-authentication-works/
+
+Modern Authentication for Your Clients Made Easy
+https://auth0.com/blog/modern-authentication-for-your-clients-made-easy/
+
+What are the different ways to implement Multifactor Authentication?
+https://auth0.com/blog/different-ways-to-implement-multifactor/
+
+How Passwordless Authentication Works
+https://auth0.com/blog/how-passwordless-authentication-works/
+
+
+Everything You Wanted to Know About OAuth 2
+https://auth0.com/blog/everything-you-wanted-to-know-about-oauth-2-but-were-too-afraid-to-ask/
+
+
+
+Using LDAP and Active Directory
+https://auth0.com/blog/using-ldap-with-c-sharp/
+
+What is and how does Single Sign On Authentication work?
+https://auth0.com/blog/what-is-and-how-does-single-sign-on-work/
+
+
+Announcing the Auth0 Open Source Single-Sign-On Dashboard
+https://auth0.com/blog/announcing-auth0-sso-dashboard/
+
+10 Things You Should Know about Tokens
+https://auth0.com/blog/ten-things-you-should-know-about-tokens-and-cookies/
