@@ -1,8 +1,6 @@
 
 # oAuth
-
 * [What You Need To Know About OAuth2](https://www.smashingmagazine.com/2017/05/oauth2-logging-in-facebook/)
-
 * [The OAuth Bible](http://oauthbible.com/)
 * [An Introduction to OAuth 2](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
 * [User Authentication with OAuth 2.0](https://oauth.net/articles/authentication/)
