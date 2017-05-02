@@ -95,6 +95,8 @@ https://auth0.com/blog/using-ldap-with-c-sharp/
 What is and how does Single Sign On Authentication work?
 https://auth0.com/blog/what-is-and-how-does-single-sign-on-work/
 
+Why You Should Always Use Access Tokens to Secure an API
+https://auth0.com/blog/why-should-use-accesstokens-to-secure-an-api/
 
 Announcing the Auth0 Open Source Single-Sign-On Dashboard
 https://auth0.com/blog/announcing-auth0-sso-dashboard/
