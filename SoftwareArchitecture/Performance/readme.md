@@ -8,6 +8,10 @@
 * [40 Application Performance Management Tools](https://blog.profitbricks.com/application-performance-management-tools/)
 
 
+12 Steps to a Faster Web App
+https://auth0.com/blog/12-steps-to-a-faster-web-app/
+
+
 .NET Performance Troubleshooting
 
 
