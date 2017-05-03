@@ -4,6 +4,8 @@ https://scotch.io/tutorials/the-ins-and-outs-of-token-based-authentication
 How Companies Should Secure Your Passwords
 https://scotch.io/bar-talk/how-companies-should-secure-your-passwords
 
+https://i.stack.imgur.com/snQSG.png
+
 
 Introducing The Auth0 Data Playbook
 
