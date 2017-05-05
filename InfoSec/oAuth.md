@@ -7,6 +7,12 @@
 * [The App Garden](https://www.flickr.com/services/api/auth.oauth.html)
 * [OAuth 2.0](http://tutorials.jenkov.com/oauth2/overview.html)
 * [Creating Custom OAuth Middleware for MVC 5](https://www.simple-talk.com/dotnet/net-framework/creating-custom-oauth-middleware-for-mvc-5/)
+OAuth 2 Simplified
+https://aaronparecki.com/oauth-2-simplified/
+
+Everything You Wanted to Know About OAuth 2
+https://auth0.com/blog/everything-you-wanted-to-know-about-oauth-2-but-were-too-afraid-to-ask/
+
 
 # Tutorial
 * [OAuth 2.0 Tutorial](http://tutorials.jenkov.com/oauth2/index.html)
