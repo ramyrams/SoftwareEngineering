@@ -16,6 +16,7 @@
   * Scalability
   * Data Structures and Algorithms 
 
+https://medium.com/omarelgabrys-blog/tagged/software-engineering
 
 http://shapingsoftware.com/wp-content/uploads/2008/06/qualityattributesframe-thumb1.gif
 
