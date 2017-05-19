@@ -2,7 +2,7 @@
 
 * [Data Structures and Algorithms Complete Tutorial Computer Education for All -  6 Hours Video](https://www.youtube.com/watch?v=YWnBbNj_G-U)
 * [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
-
+* [Sorting Algorithms - Animation](https://imgur.com/gallery/fq0A8hx)
 
 https://blogs.msdn.microsoft.com/jennifer/2015/09/10/how-to-win-a-hackathon-using-azure-machine-learning/
 
