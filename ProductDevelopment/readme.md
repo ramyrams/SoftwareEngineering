@@ -1,4 +1,6 @@
 # ProductDesign
+Product Design Exercises We Use At WeWork Interviews
+https://blog.prototypr.io/product-design-exercises-we-use-at-wework-interviews-2ee1f5a57319
 
 http://image.slidesharecdn.com/explore-evaluate-confirm-productneeds-with-structuredconversations-ebgconsultingagilebddxny-gottesdiener-01oct2012-121002195359-phpapp01/95/explore-evaluate-confirm-product-needs-with-structured-conversations-43-728.jpg
 https://s-media-cache-ak0.pinimg.com/736x/37/70/50/377050efdb3c06e75a47083f4b062b43.jpg
