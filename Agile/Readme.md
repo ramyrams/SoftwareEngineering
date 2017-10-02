@@ -1,4 +1,11 @@
 
+
+![1](http://fitlife.tv/everything-you-need-to-know-about-inflammation/)
+![1](http://realfarmacy.com/10-symptoms-you-have-parasites-in-your-body-and-how-to-remove-them/)
+
+
+
+
 # Agile
 * [Complete Agile Resources](https://andybacon.com/agile-resources/)
 
