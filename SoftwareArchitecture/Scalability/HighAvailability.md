@@ -10,7 +10,10 @@
 * Caching
 * Fault tolerance, replication and synchronization
 * Distributed computing
-
+* Architecture Paradigms
+* Application Layers
+* Architecting for Scalability
+* Architecting for High Availability
 
 
 High Availability 
