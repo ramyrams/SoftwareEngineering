@@ -38,6 +38,8 @@ https://www.slideshare.net/kamesh001/high-available-for-openstack
 
 https://www.slideshare.net/akelios/high-availability-and-disaster-recovery
 
+https://www.romexsoft.com/blog/scalable-website/
+
 AWS re:Invent 2014/2016 | (SOV204) Scaling Up to Your First 10 Million Users
 https://www.youtube.com/watch?v=n28lDDdlnVg
 https://www.youtube.com/watch?v=ccojvcQq858
