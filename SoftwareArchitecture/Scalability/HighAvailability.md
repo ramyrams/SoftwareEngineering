@@ -14,6 +14,9 @@ https://www.slideshare.net/kamesh001/high-available-for-openstack
 
 https://www.slideshare.net/akelios/high-availability-and-disaster-recovery
 
+AWS re:Invent 2014/2016 | (SOV204) Scaling Up to Your First 10 Million Users
+https://www.youtube.com/watch?v=n28lDDdlnVg
+https://www.youtube.com/watch?v=ccojvcQq858
 
 Design patterns and plan for developing high available azure applications
 https://www.slideshare.net/himanshus_sahu/design-patterns-and-plan-for-developing-high-available-azure-applications
