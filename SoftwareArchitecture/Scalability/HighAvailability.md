@@ -21,6 +21,10 @@ https://www.slideshare.net/himanshus_sahu/design-patterns-and-plan-for-developin
 * Restoration phase—Restore the entire system from media, including the system files and user data.
 * Verification phase—Verify the functionality of the entire system and the integrity of user data.
 
+https://www.design-reuse.com/articles/3671/design-patterns-for-high-availability.html
+
+
+https://msdn.microsoft.com/en-us/magazine/dd727504.aspx
 
 https://msdn.microsoft.com/en-us/library/cc750543.aspx
 
@@ -30,3 +34,50 @@ https://www.getfilecloud.com/supportdocs/download/attachments/8160924/Capture.JP
 
 
 https://softwareengineering.stackexchange.com/questions/338680/how-to-design-a-high-availability-application
+Scallability
+
+http://www.fromdev.com/2014/02/Scalability-Books-Web-Architects.html
+https://www.keycdn.com/blog/scalability-testing/
+
+
+https://techbeacon.com/web-performance-testing-top-12-free-open-source-tools-consider
+
+https://www.keycdn.com/blog/network-bandwidth/
+
+https://www.keycdn.com/blog/speed-index/
+
+https://www.keycdn.com/blog/website-architecture/
+
+
+https://www.keycdn.com/blog/website-performance-metrics/
+
+
+https://www.keycdn.com/blog/web-application-security-best-practices/
+https://www.keycdn.com/blog/cdn-cache/
+https://www.keycdn.com/blog/cdn-traffic-to-your-website/
+https://www.keycdn.com/blog/web-performance-advice/
+https://www.keycdn.com/blog/https-performance-overhead/
+https://www.keycdn.com/blog/web-performance-experts/
+https://www.keycdn.com/blog/scale-website-traffic/
+https://www.keycdn.com/blog/http-to-https/
+https://www.keycdn.com/blog/cdn-performance/
+https://www.keycdn.com/blog/cors-cdn/
+
+https://www.keycdn.com/blog/expire-header-and-cache-control/
+https://www.keycdn.com/blog/live-streaming-rtmp-and-hls/
+https://www.keycdn.com/blog/analyze-cdn-raw-logs-in-real-time/
+
+https://www.keycdn.com/blog/cdn-analytics/
+https://www.keycdn.com/blog/parallel-downloads-across-domains/
+https://www.keycdn.com/blog/quic/
+https://www.keycdn.com/blog/a-slow-website-time-to-first-byte-ttfb/
+https://www.keycdn.com/blog/http-cache-headers/
+https://www.keycdn.com/blog/how-to-optimize-and-compress-image-files/
+https://www.keycdn.com/blog/responsive-images/
+https://www.keycdn.com/blog/why-use-a-cdn/
+https://www.keycdn.com/blog/resource-hints/
+https://www.keycdn.com/blog/browser-compatibility-testing-tools/
+https://www.keycdn.com/blog/fastest-cdn/
+https://www.keycdn.com/blog/optimize-images-for-web/
+https://techbeacon.com/web-performance-testing-top-12-free-open-source-tools-consider
+https://www.keycdn.com/blog/javascript-performance/
