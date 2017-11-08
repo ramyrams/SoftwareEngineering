@@ -81,7 +81,7 @@ https://www.keycdn.com/blog/fastest-cdn/
 https://www.keycdn.com/blog/optimize-images-for-web/
 https://techbeacon.com/web-performance-testing-top-12-free-open-source-tools-consider
 https://www.keycdn.com/blog/javascript-performance/
-
+https://msdn.microsoft.com/en-us/library/ff647681.aspx
 Scalability checklist
 https://docs.microsoft.com/en-us/azure/architecture/checklist/scalability
 
