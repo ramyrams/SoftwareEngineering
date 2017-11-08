@@ -53,6 +53,7 @@ https://msdn.microsoft.com/en-us/library/cc750543.aspx
 # High Availability Architecture
 https://www.getfilecloud.com/supportdocs/download/attachments/8160924/Capture.JPG
 
+https://www.webforefront.com/performance/fundamentalconcepts.html
 
 https://softwareengineering.stackexchange.com/questions/338680/how-to-design-a-high-availability-application
 Scallability
