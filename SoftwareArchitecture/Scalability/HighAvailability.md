@@ -69,7 +69,7 @@ https://www.keycdn.com/blog/network-bandwidth/
 https://www.keycdn.com/blog/speed-index/
 
 https://www.keycdn.com/blog/website-architecture/
-
+https://www.webforefront.com/performance/limitedresources.html
 
 https://www.keycdn.com/blog/website-performance-metrics/
 
