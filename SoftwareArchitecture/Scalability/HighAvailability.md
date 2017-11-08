@@ -1,4 +1,4 @@
-#Fundamental performance and scalability concepts
+# Fundamental performance and scalability concepts
 * Performance and scalability
 * Latency and throughput
 * Processes and threads
@@ -15,7 +15,8 @@
 * Architecting for Scalability
 * Architecting for High Availability
 
-
+# Website
+* http://highscalability.com/
 High Availability 
 
 Performance and scalability techniques 101
