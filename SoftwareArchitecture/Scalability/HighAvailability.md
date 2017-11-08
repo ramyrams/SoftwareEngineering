@@ -1,5 +1,8 @@
 High Availability 
 
+Performance and scalability techniques 101
+https://www.webforefront.com/performance/scaling101.html
+
 Architecting for High Availability
 https://www.slideshare.net/AmazonWebServices/architecting-for-high-availability
 High Availability in 37 Easy Steps
