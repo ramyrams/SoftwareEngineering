@@ -1,3 +1,18 @@
+#Fundamental performance and scalability concepts
+* Performance and scalability
+* Latency and throughput
+* Processes and threads
+* Concurrency and Parallelism
+* Bits, bytes and encodings
+* Sessions
+* Asynchronous design
+* Decoupling
+* Caching
+* Fault tolerance, replication and synchronization
+* Distributed computing
+
+
+
 High Availability 
 
 Performance and scalability techniques 101
