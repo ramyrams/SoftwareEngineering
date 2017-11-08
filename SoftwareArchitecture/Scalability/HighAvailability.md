@@ -5,3 +5,6 @@ High Availability
 * Base Provisioning phase—Configure the system hardware and install a base OS.
 * Restoration phase—Restore the entire system from media, including the system files and user data.
 * Verification phase—Verify the functionality of the entire system and the integrity of user data.
+
+
+https://msdn.microsoft.com/en-us/library/cc750543.aspx
