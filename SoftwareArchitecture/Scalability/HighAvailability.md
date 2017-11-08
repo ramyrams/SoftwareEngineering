@@ -15,6 +15,11 @@
 * Architecting for Scalability
 * Architecting for High Availability
 
+# Very Good
+
+* 7 Stages of Scaling Web Applications
+https://www.slideshare.net/davemitz/7-stages-of-scaling-web-applications/24-Good_Practices_ulliDont_reinvent_the
+
 # Website
 * http://highscalability.com/
 High Availability 
