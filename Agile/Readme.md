@@ -1,6 +1,8 @@
 
 * [Scrum Checklist](https://www.crisp.se/wp-content/uploads/2012/05/Scrum-checklist.pdf)
 
+https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban
+
 ![1](http://fitlife.tv/everything-you-need-to-know-about-inflammation/)
 ![1](http://realfarmacy.com/10-symptoms-you-have-parasites-in-your-body-and-how-to-remove-them/)
 
